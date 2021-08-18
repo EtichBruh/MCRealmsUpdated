@@ -1,0 +1,301 @@
+﻿<Objects>
+	   <Object type="0x4087" id="Magma Head">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\MC\magmaHead</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>WTF!!!!!!!!!!!!!!!!!!!!!! TONI!</Description>
+		<ActivateOnEquip stat="0" amount="500">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="100">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="-100">IncrementStat</ActivateOnEquip>		
+		<BagType>6</BagType>
+		<FameBonus>8</FameBonus>
+	</Object>
+	<Object type="0x4050" id="Magma Armor">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\MC\magmaArmor</Id>
+		</RemoteTexture>
+		<SlotType>7</SlotType>
+		<Description>creampie me daddy uwu</Description>
+		<ActivateOnEquip stat="0" amount="250">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="100">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="100">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="-250">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="100">IncrementStat</ActivateOnEquip>
+		<Legendary/>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+	</Object>
+	<Object type="0x4054" id="Wither Skeleton's Stone Sword">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Tools\Swords\stonesword</Id>
+		</RemoteTexture>
+		<SlotType>1</SlotType>
+		<Description>A stone sword made the wither skeleton haniga.</Description>
+		<RateOfFire>2.75</RateOfFire>
+		<Sound>weapon/blunt_sword</Sound>
+		<Projectile>
+			<ObjectId>Stone Sword Projectile</ObjectId>
+			<Speed>160</Speed>
+			<MinDamage>200</MinDamage>
+			<MaxDamage>350</MaxDamage>
+			<LifetimeMS>550</LifetimeMS>
+			<Size>155</Size>
+		</Projectile>
+		<BagType>6</BagType>
+		<Legendary/>
+		<OldSound>bladeSwing</OldSound>
+	</Object>
+	<Object type="0x4058" id="Ghast Tear">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\ghastTear</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>imagine tear</Description>
+		<ActivateOnEquip stat="0" amount="1500">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="60">IncrementStat</ActivateOnEquip>	
+		<ActivateOnEquip stat="27" amount="600">IncrementStat</ActivateOnEquip>			
+		<Legendary/>
+		<BagType>6</BagType>
+		<FameBonus>25</FameBonus>
+	</Object>
+
+
+	<Object type="0x4059" id="Wither Skeleton Plate">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\MC\WitherskeletonArmor</Id>
+		</RemoteTexture>
+		<SlotType>7</SlotType>
+		<Description>a plate of a wither skeleton nigga lives matter</Description>
+		<ActivateOnEquip stat="0" amount="4000">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="400">IncrementStat</ActivateOnEquip>		
+		<Legendary/>
+		<BagType>6</BagType>
+		<FameBonus>7</FameBonus>
+	</Object>	
+	
+	<Object type="0x4060" id="Netherite Wand Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\MC\Tools\Wand\netherWand</Id>
+			<Right/>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	
+	<Object type="0x4061" id="Netherite Wand">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\MC\Tools\Wand\netherWand</Id>
+		</RemoteTexture>
+		<SlotType>8</SlotType>
+		<Description>smh netherite so gay.</Description>
+		<RateOfFire>1.45</RateOfFire>
+		<Sound>weapon/wand_of_death</Sound>
+		<Projectile>
+			<ObjectId>Netherite Wand Projectile</ObjectId>
+			<Speed>180</Speed>
+			<LifetimeMS>700</LifetimeMS>
+			<MinDamage>160</MinDamage>
+			<MaxDamage>300</MaxDamage>
+			<ArmorPiercing/>
+		</Projectile>
+		<MC/>
+		<BagType>6</BagType>
+		<FameBonus>10</FameBonus>
+		<OldSound>magicShoot</OldSound>
+	</Object>
+	
+	<Object type="0x4062" id="Netherite Sword Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Tools\Swords\netherSword</Id>
+			<Right/>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x4063" id="Netherite Sword">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Tools\Swords\netherSword</Id>
+		</RemoteTexture>
+		<SlotType>1</SlotType>
+		<Description>smh netherite so gay.</Description>
+		<RateOfFire>1.11</RateOfFire>
+		<Sound>weapon/blunt_sword</Sound>
+		<Projectile>
+			<ObjectId>Netherite Sword Projectile</ObjectId>
+			<Speed>145</Speed>
+			<MinDamage>250</MinDamage>
+			<MaxDamage>455</MaxDamage>
+			<LifetimeMS>600</LifetimeMS>
+			<Size>180</Size>
+		</Projectile>
+		<MC/>
+		<BagType>6</BagType>
+	    <FameBonus>10</FameBonus>
+		<OldSound>bladeSwing</OldSound>
+	</Object>
+	<Object type="0x4064" id="Netherite Axe Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Tools\Axes\netherAxe</Id>
+			<Right/>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x4065" id="Netherite Axe">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Tools\Axes\netherAxe</Id>
+		</RemoteTexture>
+		<SlotType>30</SlotType>
+		<Description>smh netherite so gay.</Description>
+		<RateOfFire>0.66</RateOfFire>
+		<Sound>weapon/blunt_sword</Sound>
+		<Projectile>
+			<ObjectId>Netherite Axe Projectile</ObjectId>
+			<Speed>145</Speed>
+			<MinDamage>300</MinDamage>
+			<MaxDamage>625</MaxDamage>
+			<LifetimeMS>650</LifetimeMS>
+			<Size>155</Size>
+		</Projectile>
+		<MC/>
+		<BagType>6</BagType>
+	    <FameBonus>10</FameBonus>
+		<OldSound>bladeSwing</OldSound>
+	</Object>
+	<Object type="0x4066" id="Netherite Pickaxe Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Tools\Picks\netherPick</Id>
+			<Right/>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+		<Rotation>100</Rotation>
+	</Object>
+	<Object type="0x4067" id="Netherite Pickaxe">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Tools\Picks\netherPick</Id>
+		</RemoteTexture>
+		<SlotType>32</SlotType>
+		<Description>smh netherite so gay.</Description>
+		<RateOfFire>1.25</RateOfFire>
+		<Sound>weapon/blunt_axe</Sound>
+		<Projectile>
+			<ObjectId>Netherite Pickaxe Projectile</ObjectId>
+			<Speed>190</Speed>
+			<MinDamage>175</MinDamage>
+			<MaxDamage>350</MaxDamage>
+			<LifetimeMS>500</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>150</Size>
+		</Projectile>
+		<MC/>
+		<BagType>6</BagType>
+	    <FameBonus>10</FameBonus>	
+		<OldSound>bladeSwing</OldSound>
+	</Object>
+	<Object type="0x4080" id="Netherite Chestplate">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\MC\netherArmor</Id>
+		</RemoteTexture>
+		<SlotType>7</SlotType>
+		<Description>imagine lol</Description>
+		<ActivateOnEquip stat="0" amount="1500">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="-50">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="500">IncrementStat</ActivateOnEquip>
+		<MC/>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+	</Object>	
+	
+   <Object type="0x4081" id="Netherite Boots">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\MC\netherBoots</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>imagine lol</Description>
+		<ActivateOnEquip stat="0" amount="500">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="-50">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="100">IncrementStat</ActivateOnEquip>		
+		<ActivateOnEquip stat="26" amount="250">IncrementStat</ActivateOnEquip>
+		<MC/>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+	</Object>	
+	<Object type="0x4049" id="Rod of the Blaze">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\MC\wandBlaze</Id>
+		</RemoteTexture>
+		<SlotType>8</SlotType>
+		<Description>A stick that can fire stuff up</Description>
+		<RateOfFire>2</RateOfFire>
+		<Sound>weapon/wand_of_death</Sound>
+		<Projectile>
+			<ObjectId>Blaze Projectile</ObjectId>
+			<Speed>160</Speed>
+			<LifetimeMS>750</LifetimeMS>
+			<MinDamage>125</MinDamage>
+			<MaxDamage>500</MaxDamage>
+			<ArmorPiercing/>
+		</Projectile>
+		<Legendary/>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+		<OldSound>magicShoot</OldSound>
+	</Object>
+	<Object type="0x5686" id="Wither Skull">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>lofiProjs</File>
+			<Index>0x97</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>use in withers lair nigga.</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<BagType>4</BagType>
+		<Activate>WitherSkull</Activate>
+		<Track/>
+	</Object>
+</Objects>

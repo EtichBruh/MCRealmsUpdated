@@ -1,0 +1,68 @@
+﻿<Objects>
+	   <Object type="0x4088" id="Enderman Head">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\MC\enderMask</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>WTF!!!!!!!!!!!!!!!!!!!!!! TONI!</Description>
+		<ActivateOnEquip stat="20" amount="100">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="0" amount="1000">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<Rare/>		
+		<FameBonus>10</FameBonus>
+	</Object>		
+	
+   <Object type="0x4089" id="Minecraft Depression Block">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiProjsBig</File>
+         <Index>0x21</Index>
+      </Texture>
+      <SlotType>15</SlotType>
+      <Description>uhh wtf</Description>
+      <ActivateOnEquip stat="0" amount="50">IncrementStat</ActivateOnEquip>
+      <BagType>6</BagType>
+		<Rare/>		
+   </Object>	
+ 
+ <Object type="0x4068" id="enderman Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\MC\enderCock</Id>
+			<Right/>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	
+	<Object type="0x4069" id="ENDERMANS LONG FAT COCK">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\MC\enderCock</Id>
+		</RemoteTexture>
+		<SlotType>8</SlotType>
+		<Description>so big uwu.</Description>
+		<RateOfFire>1.45</RateOfFire>
+		<Sound>weapon/wand_of_death</Sound>
+		<Projectile>
+			<ObjectId>enderman Projectile</ObjectId>
+			<Speed>90</Speed>
+			<LifetimeMS>900</LifetimeMS>
+			<MinDamage>100</MinDamage>
+			<MaxDamage>300</MaxDamage>
+			<Size>170</Size>
+			<MultiHit/>
+			<ArmorPiercing/>			
+		</Projectile>
+		<BagType>6</BagType>
+		<Rare/>		
+		<FameBonus>7</FameBonus>
+		<OldSound>magicShoot</OldSound>
+	</Object>
+</Objects>

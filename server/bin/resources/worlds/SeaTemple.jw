@@ -1,0 +1,13 @@
+{"id":0,
+"isLimbo":false,
+"persist":true,
+"name":"Sea Temple",
+"sbName":"Sea Temple",
+"difficulty":-1,
+"background":0,
+"blocking":0,
+"restrictTp":false,
+"showDisplays":false,
+"portals":[0x5799],
+"maps":["SeaTemple.jm"],
+"music":["oldcity"]}

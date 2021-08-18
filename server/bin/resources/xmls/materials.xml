@@ -1,0 +1,556 @@
+<Objects>
+  <Object type="0x5049" id="Stick">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\stick</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>4</BagType>
+   </Object> 
+  
+   
+   <Object type="0x5053" id="Wood Plank">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiProjsBig</File>
+         <Index>0x32</Index>
+      </Texture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>2</BagType>
+   </Object>   
+   
+    <Object type="0x5054" id="Cobblestone">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiProjsBig</File>
+         <Index>0x28</Index>
+      </Texture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>2</BagType>
+   </Object>
+   
+        <Object type="0x5070" id="Coal">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\coal</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>2</BagType> 
+   </Object>
+   
+     <Object type="0x5055" id="Redstone">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\redstone</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>2</BagType> 
+   </Object> 
+
+     <Object type="0x5056" id="Lapis Lazuli">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\lapis_lazuli</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>2</BagType> 
+   </Object>
+   
+       <Object type="0x5050" id="Gold Ingot">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\gold</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>2</BagType>
+   </Object> 
+   
+   
+   
+     <Object type="0x5051" id="Iron Ingot">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\Iron</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>2</BagType>	  
+   </Object> 
+   
+   
+     <Object type="0x5052" id="Diamond">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\Diamond</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>2</BagType> 
+   </Object> 
+
+    <Object type="0x5057" id="Block of Obsidian">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiProjsBig</File>
+         <Index>0x58</Index>
+      </Texture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>2</BagType>
+   </Object> 
+
+     <Object type="0x5058" id="String">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\string</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>2</BagType> 
+   </Object>
+
+     <Object type="0x5059" id="Glass Bottle">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\glassbottle</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>2</BagType> 
+   </Object>  
+
+     <Object type="0x5060" id="Leather">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\leather</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>2</BagType> 
+   </Object> 
+
+     <Object type="0x5061" id="Slime Ball">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+	     <Id>separate\Mc\slime</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>2</BagType> 
+   </Object>
+
+     <Object type="0x5062" id="Blood Stone">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\blood</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>2</BagType> 
+   </Object>
+
+     <Object type="0x5063" id="Magic Stone">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\magic</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>2</BagType> 
+   </Object> 
+
+     <Object type="0x5064" id="Attack Stone">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\strength</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>2</BagType> 
+   </Object> 
+
+     <Object type="0x5065" id="Defense Stone">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\defense</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>2</BagType> 
+   </Object> 
+
+     <Object type="0x5066" id="Speed Stone">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\speed</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>2</BagType> 
+   </Object> 
+
+     <Object type="0x5067" id="Dexterity Stone">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\dexterity</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>2</BagType> 
+   </Object>
+
+        <Object type="0x5068" id="Zombie Head">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\zombiehead</Id>
+      </RemoteTexture>
+      <SlotType>4</SlotType>
+      <Description>lol nigaggagagaggagag</Description>
+      <ActivateOnEquip stat="0" amount="-50">IncrementStat</ActivateOnEquip>
+      <Usable/>
+      <BagType>6</BagType>
+	  <Legendary/>	  
+      <FameBonus>4</FameBonus>
+      <MpCost>90</MpCost>
+      <Activate effect="Bleeding" duration="3">ConditionEffectSelf</Activate>	  
+	  <Cooldown>4</Cooldown>
+   </Object>
+
+     <Object type="0x5069" id="Wood Log">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiProjsBig</File>
+         <Index>0x31</Index>
+      </Texture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>2</BagType>
+   </Object> 
+
+ 
+
+     <Object type="0x5071" id="Bone">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\bone</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>2</BagType> 
+   </Object>
+
+        <Object type="0x5072" id="Skeleton Head">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\skeletonhead</Id>
+      </RemoteTexture>
+      <SlotType>4</SlotType>
+      <Description>lol nigaggagagaggagag</Description>
+      <ActivateOnEquip stat="3" amount="-50">IncrementStat</ActivateOnEquip>
+	  <ActivateOnEquip stat="27" amount="-10">IncrementStat</ActivateOnEquip>  
+      <Usable/>
+      <BagType>6</BagType>
+	  <Legendary/>	  
+      <FameBonus>4</FameBonus>
+      <MpCost>90</MpCost>
+	  <Cooldown>4</Cooldown>
+   </Object> 
+   
+    <Object type="0x5073" id="Block of Coal">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiProjsBig</File>
+         <Index>0x82</Index>
+      </Texture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>4</BagType>
+   </Object>    
+ 
+    <Object type="0x5074" id="Block of Redstone">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiProjsBig</File>
+         <Index>0x83</Index>
+      </Texture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>4</BagType>
+   </Object>
+
+    <Object type="0x5075" id="Block of Lapis Lazuli">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiProjsBig</File>
+         <Index>0x84</Index>
+      </Texture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>4</BagType>
+   </Object>
+
+    <Object type="0x5076" id="Block of Diamond">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiProjsBig</File>
+         <Index>0x85</Index>
+      </Texture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>4</BagType>
+   </Object>
+
+    <Object type="0x5077" id="Block of Emerald">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiProjsBig</File>
+         <Index>0x86</Index>
+      </Texture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>4</BagType>
+   </Object>
+
+    <Object type="0x5078" id="Block of Iron">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiProjsBig</File>
+         <Index>0x87</Index>
+      </Texture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>4</BagType>
+   </Object>   
+   
+    <Object type="0x5079" id="Block of Gold">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiProjsBig</File>
+         <Index>0x75</Index>
+      </Texture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>4</BagType>
+   </Object> 
+
+		<Object type="0x5112" id="Tooth of a Polar Bear">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\tooth</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>tooth.</Description>
+	    <ActivateOnEquip stat="3" amount="350">IncrementStat</ActivateOnEquip>	
+		<ActivateOnEquip stat="20" amount="24">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="40">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+	</Object>
+
+        <Object type="0x5213" id="Creeper Head">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\creeperhead</Id>
+      </RemoteTexture>
+      <SlotType>4</SlotType>
+      <Description>lol nigaggagagaggagag</Description>
+      <ActivateOnEquip stat="0" amount="-50">IncrementStat</ActivateOnEquip>
+      <Usable/>
+      <BagType>6</BagType>
+	  <Legendary/>	  
+      <FameBonus>4</FameBonus>
+      <MpCost>90</MpCost>
+      <Activate effect="Damaging" duration="2">ConditionEffectSelf</Activate>	  
+	  <Cooldown>4</Cooldown>
+   </Object>
+
+     <Object type="0x5214" id="Gunpowder">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\gunpowder</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>2</BagType> 
+   </Object> 
+
+     <Object type="0x5215" id="Enchanted Slime Ball">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+	     <Id>separate\Mc\slime</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+	  <Legendary/>
+      <Description>shat</Description>
+      <BagType>6</BagType> 
+   </Object>   
+ 
+   
+     <Object type="0x5217" id="Sea Crystal">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\seacrystal</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>2</BagType> 
+   </Object> 
+
+     <Object type="0x5218" id="Sea Shard">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\seashard</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+      <BagType>2</BagType> 
+   </Object>
+
+     <Object type="0x5219" id="Enchanted Sea Crystal">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\seacrystal</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+	  <Legendary/>
+      <BagType>6</BagType> 
+   </Object> 
+
+     <Object type="0x5220" id="Enchanted Sea Shard">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\seashard</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+	  <Legendary/>	  
+      <BagType>6</BagType> 
+   </Object>
+
+   <Object type="0x5221" id="Enchanted Temple Rod">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\templerod</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+	  <Legendary/>
+      <BagType>6</BagType>
+   </Object>
+
+  <Object type="0x5222" id="Blaze Rod">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\blazerod</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+	  <Legendary/>
+      <BagType>6</BagType>
+   </Object>  
+
+  <Object type="0x5223" id="Blaze Powder">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Materials\blazepowder</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+	  <Legendary/>
+      <BagType>6</BagType>
+   </Object>    
+   
+   <Object type="0x5224" id="Withered-Cobblestone">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiProjsBig</File>
+         <Index>0x28</Index>
+      </Texture>
+      <SlotType>10</SlotType>
+      <Description>shat</Description>
+	  <Legendary/>
+      <BagType>6</BagType>
+   </Object>  
+</Objects>

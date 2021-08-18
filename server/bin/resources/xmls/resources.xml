@@ -1,0 +1,165 @@
+﻿<Objects>
+	<Object type="0x7010" id="MC Wood Log">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x31</Index>
+		</Texture>
+   	    <HitSound>monster/rocks_hit</HitSound>
+		<DeathSound>monster/rocks_death</DeathSound>
+		<MaxHitPoints>1000</MaxHitPoints>
+		<Size>70</Size>
+		<Defense>15</Defense>
+		<NoArticle/>
+	</Object>
+	
+	<Object type="0x7011" id="MC Stone">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x23</Index>
+		</Texture>
+   	    <HitSound>monster/rocks_hit</HitSound>
+		<DeathSound>monster/rocks_death</DeathSound>
+		<MaxHitPoints>1500</MaxHitPoints>
+		<Size>70</Size>
+		<Defense>15</Defense>
+		<NoArticle/>
+	</Object>
+
+	<Object type="0x7012" id="MC Iron Ore">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x25</Index>
+		</Texture>
+   	    <HitSound>monster/rocks_hit</HitSound>
+		<DeathSound>monster/rocks_death</DeathSound>
+		<MaxHitPoints>2500</MaxHitPoints>
+		<Size>70</Size>
+		<Defense>15</Defense>
+		<NoArticle/>
+	</Object>
+
+	<Object type="0x7013" id="MC Coal Ore">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x26</Index>
+		</Texture>
+   	    <HitSound>monster/rocks_hit</HitSound>
+		<DeathSound>monster/rocks_death</DeathSound>
+		<MaxHitPoints>1500</MaxHitPoints>
+		<Size>70</Size>
+		<Defense>15</Defense>
+		<NoArticle/>
+	</Object>
+
+	<Object type="0x7014" id="MC Diamond Ore">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x27</Index>
+		</Texture>
+   	    <HitSound>monster/rocks_hit</HitSound>
+		<DeathSound>monster/rocks_death</DeathSound>
+		<MaxHitPoints>3000</MaxHitPoints>
+		<Size>70</Size>
+		<Defense>15</Defense>
+		<NoArticle/>
+	</Object>
+
+	<Object type="0x7015" id="MC Emerald Ore">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x29</Index>
+		</Texture>
+   	    <HitSound>monster/rocks_hit</HitSound>
+		<DeathSound>monster/rocks_death</DeathSound>
+		<MaxHitPoints>3000</MaxHitPoints>
+		<Size>70</Size>
+		<Defense>15</Defense>
+		<NoArticle/>
+	</Object>
+
+	<Object type="0x7016" id="MC Redstone Ore">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x2a</Index>
+		</Texture>
+   	    <HitSound>monster/rocks_hit</HitSound>
+		<DeathSound>monster/rocks_death</DeathSound>
+		<MaxHitPoints>2000</MaxHitPoints>
+		<Size>70</Size>
+		<Defense>15</Defense>
+		<NoArticle/>
+	</Object>
+
+	<Object type="0x7017" id="MC Lapis Lazuli Ore">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x2b</Index>
+		</Texture>
+   	    <HitSound>monster/rocks_hit</HitSound>
+		<DeathSound>monster/rocks_death</DeathSound>
+		<MaxHitPoints>2000</MaxHitPoints>
+		<Size>70</Size>
+		<Defense>15</Defense>
+		<NoArticle/>
+	</Object>
+
+	<Object type="0x7018" id="MC Gold Ore">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x2c</Index>
+		</Texture>
+   	    <HitSound>monster/rocks_hit</HitSound>
+		<DeathSound>monster/rocks_death</DeathSound>
+		<MaxHitPoints>2000</MaxHitPoints>
+		<Size>70</Size>
+		<Defense>15</Defense>
+		<NoArticle/>
+	</Object>	
+ </Objects>
+<!--
+Invisible Texture      
+      <Texture>
+         <File>invisible</File>
+         <Index>0</Index>
+      </Texture>
+BagType 0 = Brown Bag
+BagType 1 = Pink Bag
+BagType 2 = Purple Bag
+BagType 3 = Egg Basket
+BagType 4 = Cyan Bag
+BagType 5 = Blue Bag
+BagType 6 = White Bag
+BagType 7 = Big White Bag
+BagType 8 = Unholy Bag
+BagType 9 = Big Unholy Bag
+BagType 10 = Orange Bag
+BagType 11 = Red Bag
+BagType 12 = Gold Bag
+-->

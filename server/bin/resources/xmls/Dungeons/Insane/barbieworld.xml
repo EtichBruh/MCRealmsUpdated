@@ -1,0 +1,89 @@
+﻿<Objects>
+	<Object type="0x8432" id="BARBIES FUCKING DOLL OF GRACE">
+		<Class>Equipment</Class>
+		<Usable/>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\doll</Id>
+		</RemoteTexture>
+		<SlotType>4</SlotType>
+		<Description>sheesh fire</Description>
+		<Sound>spell/major_heal</Sound>
+        <Activate stat="0" amount="4500" duration="6" range="6">StatBoostAura</Activate>				
+        <Activate stat="22" amount="500" duration="6" range="1">StatBoostAura</Activate>
+		<Epic/>
+		<BagType>6</BagType>
+		<FameBonus>500</FameBonus>
+		<Cooldown>12</Cooldown>
+		<MpCost>1000</MpCost>
+	</Object>
+   <Object type="0x8434" id="Pink Wool">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x11</Index>
+      </Texture>
+      <SlotType>9</SlotType>
+      <Description>um no.</Description>
+      <ActivateOnEquip stat="0" amount="25000">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="26" amount="4000">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="22" amount="500">IncrementStat</ActivateOnEquip>
+      <BagType>6</BagType>
+		<Epic/>
+   </Object>
+
+ <Object type="0x8433" id="pink toy Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\MC\enderCock</Id>
+			<Right/>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	
+	<Object type="0x8435" id="A pink toy">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\pinktoy</Id>
+		</RemoteTexture>
+		<SlotType>8</SlotType>
+		<Description>thing goes vrrrrrrrrr.</Description>
+		<RateOfFire>1.65</RateOfFire>
+		<Sound>weapon/wand_of_death</Sound>
+		<Projectile>
+			<ObjectId>pink toy Projectile</ObjectId>
+			<Speed>150</Speed>
+			<LifetimeMS>700</LifetimeMS>
+			<MinDamage>800</MinDamage>
+			<MaxDamage>2000</MaxDamage>
+			<Size>200</Size>
+			<MultiHit/>
+			<ArmorPiercing/>			
+		</Projectile>
+		<BagType>6</BagType>
+		<Epic/>
+		<FameBonus>1000</FameBonus>
+		<OldSound>magicShoot</OldSound>
+	</Object>   
+	
+	   <Object type="0x8436" id="BARBIES SEXY DRESS">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x28</Index>
+      </Texture>
+      <SlotType>7</SlotType>
+      <Description>Only faggots like doomered wear this.</Description>
+      <ActivateOnEquip stat="0" amount="50000">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="22" amount="300">IncrementStat</ActivateOnEquip>	
+      <ActivateOnEquip stat="20" amount="600">IncrementStat</ActivateOnEquip>
+		<Epic/>
+      <BagType>6</BagType>
+   </Object>
+</Objects>

@@ -1,0 +1,67 @@
+﻿<Objects>
+		<Object type="0x5120" id="ya like jazz">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\beeArmor</Id>
+		</RemoteTexture>
+		<SlotType>7</SlotType>
+		<Description>jazzzzzzzzzzzz</Description>
+		<ActivateOnEquip stat="0" amount="2000">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="200">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<Rare/>		
+		<FameBonus>5</FameBonus>
+	</Object>		
+		
+	<Object type="0x5121" id="Bee Antenas">
+		<Class>Equipment</Class>
+		<Usable/>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\beeAntena</Id>
+		</RemoteTexture>
+		<SlotType>4</SlotType>
+		<Description>fucking useless</Description>
+		<Sound>spell/major_heal</Sound>
+        <Activate stat="0" amount="2500" duration="3" range="6">StatBoostAura</Activate>
+		<Legendary/>
+		<BagType>6</BagType>
+		<Rare/>		
+		<FameBonus>50</FameBonus>
+		<Cooldown>5</Cooldown>
+		<MpCost>250</MpCost>
+	</Object>
+	
+	   <Object type="0x5122" id="Bee Scythe">
+      <Class>Equipment</Class>
+      <Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\beeScythe</Id>
+		</RemoteTexture>
+      <SlotType>17</SlotType>
+      <Description>cool!.</Description>
+      <RateOfFire>0.9</RateOfFire>
+      <Sound>weapon/wand_of_death</Sound>
+      <Projectile>
+         <ObjectId>Stinger</ObjectId>
+         <Speed>180</Speed>
+         <MinDamage>250</MinDamage>
+         <MaxDamage>500</MaxDamage>
+         <LifetimeMS>500</LifetimeMS>
+         <Amplitude>0.7</Amplitude>
+         <Frequency>1</Frequency>
+		 <ArmorPiercing/>
+      </Projectile>
+	  <Legendary/>
+      <BagType>6</BagType>
+		<Rare/>		
+      <FameBonus>10</FameBonus>
+      <NumProjectiles>2</NumProjectiles>
+      <ArcGap>0</ArcGap>
+      <OldSound>magicShoot</OldSound>
+   </Object>
+</Objects>

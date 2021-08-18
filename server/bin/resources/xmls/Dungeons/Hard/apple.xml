@@ -1,0 +1,123 @@
+﻿<Objects>
+	<Object type="0x4667" id="Airpods">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\airpods</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Rare/>
+		<Description>time to flex bro.</Description>
+		<ActivateOnEquip stat="0" amount="5000">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="5000">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="150">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="150">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="150">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="150">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="150">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="150">IncrementStat</ActivateOnEquip>
+		<Legendary/>
+		<BagType>6</BagType>
+		<FameBonus>8</FameBonus>
+	</Object>
+	<Object type="0x4668" id="I9's TWS">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\i9s</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Rare/>
+		<Description>its better than airpods bro.</Description>
+		<ActivateOnEquip stat="0" amount="1000">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="1000">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="50">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="50">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="50">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="50">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="50">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="50">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+	</Object>
+	<Object type="0x4669" id="Frank's Dirty Ass Airpods">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\franksairpods</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Rare/>
+		<Description>disgusting dont even touch radioactive stuff going on here.</Description>
+		<ActivateOnEquip stat="0" amount="-100">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="-100">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="1">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="1">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="1">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="1">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="1">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="1">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>1</FameBonus>
+	</Object>
+	<Object type="0x4051" id="I-Bow">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\ibow</Id>
+		</RemoteTexture>
+		<SlotType>3</SlotType>
+		<Description>$1399 nigga no refund</Description>
+		<RateOfFire>1.69</RateOfFire>
+		<Sound>weapon/poor_quality_bow</Sound>
+		<Projectile>
+			<ObjectId>stevejob Projectile</ObjectId>
+			<Speed>70</Speed>
+			<Size>110</Size>
+			<MinDamage>420</MinDamage>
+			<MaxDamage>666</MaxDamage>
+			<LifetimeMS>700</LifetimeMS>
+			<MultiHit/>
+		</Projectile>
+		<BagType>6</BagType>
+		<OldSound>arrowShoot</OldSound>
+	</Object>
+	<Object type="0x4052" id="stevejob Projectile">
+		<Class>Projectile</Class>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x47</Index>
+		</Texture>
+	</Object>
+	   <Object type="0x4418" id="I-Pen">
+      <Class>Equipment</Class>
+      <Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\ipen</Id>
+		</RemoteTexture>
+      <SlotType>17</SlotType>
+      <Description>$40000.</Description>
+      <RateOfFire>1.25</RateOfFire>
+      <Sound>weapon/wand_of_death</Sound>
+      <Projectile>
+	     <ObjectId>stevejob Projectile</ObjectId>
+         <Speed>100</Speed>
+         <MinDamage>200</MinDamage>
+         <MaxDamage>500</MaxDamage>
+         <LifetimeMS>900</LifetimeMS>
+         <Amplitude>1.5</Amplitude>
+         <Frequency>1</Frequency>
+		 <MultiHit/>
+      </Projectile>
+      <BagType>6</BagType>
+      <FameBonus>8</FameBonus>
+      <NumProjectiles>2</NumProjectiles>
+      <ArcGap>0</ArcGap>
+      <OldSound>magicShoot</OldSound>
+   </Object>
+</Objects>

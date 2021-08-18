@@ -1,0 +1,956 @@
+﻿<Objects>
+ 	<Object type="0x4461" id="Aether Portal Checker">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+ <Object type="0x4462" id="Shitass Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x4463" id="Ricardo Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x4464" id="Obama Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x4465" id="Wish Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x4466" id="Gay Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x4467" id="Fazbear Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x4468" id="Frank Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x4469" id="Pacman Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x4470" id="Reaper Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x4471" id="Slave Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x4472" id="Amongus Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x4473" id="BarbieBitch1 Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x4474" id="BarbieBitch2 Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x4475" id="Halloween Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x4476" id="Wood Log Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x4477" id="Roofus Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x4478" id="Cock Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x4479" id="PEPE Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x4480" id="Mutant Creeper Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x4481" id="King Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x4482" id="Bee Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x4483" id="Sonic Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x4484" id="Iron Golem Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x5585" id="Polar Bear Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x5586" id="Godzilla Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x5587" id="Zombie King Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x5588" id="Mansion Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x5589" id="Toolsmith Villager Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x5590" id="Weaponsmith Villager Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>	
+	<Object type="0x5691" id="Mason Villager Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x5692" id="Armorer Villager Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>	
+   <Object type="0x5693" id="TP Ghast 1">
+      <Class>Character</Class>
+      <Texture>
+         <File>invisible</File>
+         <Index>0</Index>
+      </Texture>
+      <NoMiniMap/>
+      <MaxHitPoints>10</MaxHitPoints>
+      <Size>0</Size>
+   </Object>
+   <Object type="0x5694" id="TP Ghast 2">
+      <Class>Character</Class>
+      <Texture>
+         <File>invisible</File>
+         <Index>0</Index>
+      </Texture>
+      <NoMiniMap/>
+      <MaxHitPoints>10</MaxHitPoints>
+      <Size>0</Size>
+   </Object>  
+      <Object type="0x5695" id="TP Wither 1">
+      <Class>Character</Class>
+      <Texture>
+         <File>invisible</File>
+         <Index>0</Index>
+      </Texture>
+      <NoMiniMap/>
+      <MaxHitPoints>10</MaxHitPoints>
+      <Size>0</Size>
+   </Object>
+   <Object type="0x5696" id="TP Wither 2">
+      <Class>Character</Class>
+      <Texture>
+         <File>invisible</File>
+         <Index>0</Index>
+      </Texture>
+      <NoMiniMap/>
+      <MaxHitPoints>10</MaxHitPoints>
+      <Size>0</Size>
+   </Object>  
+      <Object type="0x5697" id="TP Magma 1">
+      <Class>Character</Class>
+      <Texture>
+         <File>invisible</File>
+         <Index>0</Index>
+      </Texture>
+      <NoMiniMap/>
+      <MaxHitPoints>10</MaxHitPoints>
+      <Size>0</Size>
+   </Object>
+   <Object type="0x5698" id="TP Magma 2">
+      <Class>Character</Class>
+      <Texture>
+         <File>invisible</File>
+         <Index>0</Index>
+      </Texture>
+      <NoMiniMap/>
+      <MaxHitPoints>10</MaxHitPoints>
+      <Size>0</Size>
+   </Object>  
+   <Object type="0x5899" id="TP Blaze 1">
+      <Class>Character</Class>
+      <Texture>
+         <File>invisible</File>
+         <Index>0</Index>
+      </Texture>
+      <NoMiniMap/>
+      <MaxHitPoints>10</MaxHitPoints>
+      <Size>0</Size>
+   </Object>
+   <Object type="0x5700" id="TP Blaze 2">
+      <Class>Character</Class>
+      <Texture>
+         <File>invisible</File>
+         <Index>0</Index>
+      </Texture>
+      <NoMiniMap/>
+      <MaxHitPoints>10</MaxHitPoints>
+      <Size>0</Size>
+   </Object>   
+	<Object type="0x4782" id="MC Web">
+		<Class>Character</Class>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x54</Index>
+		</Texture>
+		<Size>100</Size>
+		<MaxHitPoints>99999</MaxHitPoints>
+		<NoMiniMap/>
+	</Object>
+	<Object type="0x3711" id="MC Sea Lantern Wall">
+		<Class>Wall</Class>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x56</Index>
+		</Texture>
+		<Top>
+			<Texture>
+				<File>lofiProjsBig</File>
+				<Index>0x56</Index>
+			</Texture>
+		</Top>
+		<HitSound>monster/stone_walls_hit</HitSound>
+		<DeathSound>monster/stone_walls_death</DeathSound>
+		<Static/>
+		<FullOccupy/>
+		<OccupySquare/>
+		<EnemyOccupySquare/>
+	</Object>
+  <Object type="0x3411" id="MC Stone Slab Wall">
+		<Class>Wall</Class>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x73</Index>
+		</Texture>
+		<Top>
+			<Texture>
+				<File>lofiProjsBig</File>
+				<Index>0x73</Index>
+			</Texture>
+		</Top>
+		<HitSound>monster/stone_walls_hit</HitSound>
+		<DeathSound>monster/stone_walls_death</DeathSound>
+		<Static/>
+		<FullOccupy/>
+		<OccupySquare/>
+		<EnemyOccupySquare/>
+	</Object>	
+	<Object type="0x3712" id="MC Prismarine Wall">
+		<Class>Wall</Class>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x67</Index>
+		</Texture>
+		<Top>
+			<Texture>
+				<File>lofiProjsBig</File>
+				<Index>0x67</Index>
+			</Texture>
+		</Top>
+		<HitSound>monster/stone_walls_hit</HitSound>
+		<DeathSound>monster/stone_walls_death</DeathSound>
+		<Static/>
+		<FullOccupy/>
+		<OccupySquare/>
+		<EnemyOccupySquare/>
+	</Object>
+	<Object type="0x3714" id="MC NetherRack Wall">
+		<Class>Wall</Class>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x55</Index>
+		</Texture>
+		<Top>
+			<Texture>
+				<File>lofiProjsBig</File>
+				<Index>0x55</Index>
+			</Texture>
+		</Top>
+		<HitSound>monster/stone_walls_hit</HitSound>
+		<DeathSound>monster/stone_walls_death</DeathSound>
+		<Static/>
+		<FullOccupy/>
+		<OccupySquare/>
+		<EnemyOccupySquare/>
+	</Object>
+	<Object type="0x4724" id="MC Bedrock Wall">
+		<Class>Wall</Class>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x65</Index>
+		</Texture>
+		<Top>
+			<Texture>
+				<File>lofiProjsBig</File>
+				<Index>0x65</Index>
+			</Texture>
+		</Top>
+		<HitSound>monster/stone_walls_hit</HitSound>
+		<DeathSound>monster/stone_walls_death</DeathSound>
+		<Static/>
+		<FullOccupy/>
+		<OccupySquare/>
+		<EnemyOccupySquare/>
+	</Object>
+	<Object type="0x4781" id="MC Rail">
+		<Class>Character</Class>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x44</Index>
+		</Texture>
+		<Size>100</Size>
+		<MaxHitPoints>99999</MaxHitPoints>
+		<DrawOnGround/>
+		<NoMiniMap/>
+	</Object>
+	<Object type="0x4785" id="MC Cauldron">
+		<Class>Wall</Class>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x63</Index>
+		</Texture>
+		<Top>
+			<Texture>
+				<File>lofiProjsBig</File>
+				<Index>0x53</Index>
+			</Texture>
+		</Top>
+		<HitSound>monster/stone_walls_hit</HitSound>
+		<DeathSound>monster/stone_walls_death</DeathSound>
+		<Static/>
+		<FullOccupy/>
+		<OccupySquare/>
+		<EnemyOccupySquare/>
+	</Object>
+	<Object type="0x6113" id="MC Crafting Table">
+		<Class>Wall</Class>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x62</Index>
+		</Texture>
+		<Top>
+			<Texture>
+				<File>lofiProjsBig</File>
+				<Index>0x52</Index>
+			</Texture>
+		</Top>
+		<HitSound>monster/stone_walls_hit</HitSound>
+		<DeathSound>monster/stone_walls_death</DeathSound>
+		<Static/>
+		<FullOccupy/>
+		<OccupySquare/>
+		<EnemyOccupySquare/>
+	</Object>
+	<Object type="0x6195" id="Crafting Table">
+		<Class>Crafting</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<Size>0</Size>
+	</Object>
+	<Object type="0x6423" id="MC Oak Log">
+		<Class>Wall</Class>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x31</Index>
+		</Texture>
+		<Top>
+			<Texture>
+				<File>lofiProjsBig</File>
+				<Index>0x41</Index>
+			</Texture>
+		</Top>
+		<HitSound>monster/stone_walls_hit</HitSound>
+		<DeathSound>monster/stone_walls_death</DeathSound>
+		<Static/>
+		<FullOccupy/>
+		<OccupySquare/>
+		<EnemyOccupySquare/>
+	</Object>
+	<Object type="0x5623" id="MC Spruce Log">
+		<Class>Wall</Class>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x51</Index>
+		</Texture>
+		<Top>
+			<Texture>
+				<File>lofiProjsBig</File>
+				<Index>0x61</Index>
+			</Texture>
+		</Top>
+		<HitSound>monster/stone_walls_hit</HitSound>
+		<DeathSound>monster/stone_walls_death</DeathSound>
+		<Static/>
+		<FullOccupy/>
+		<OccupySquare/>
+		<EnemyOccupySquare/>
+	</Object>
+	<Object type="0x6493" id="MC Stone Wall">
+		<Class>Wall</Class>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x23</Index>
+		</Texture>
+		<Top>
+			<Texture>
+				<File>lofiProjsBig</File>
+				<Index>0x23</Index>
+			</Texture>
+		</Top>
+		<HitSound>monster/stone_walls_hit</HitSound>
+		<DeathSound>monster/stone_walls_death</DeathSound>
+		<Static/>
+		<FullOccupy/>
+		<OccupySquare/>
+		<EnemyOccupySquare/>
+	</Object>
+	<Object type="0x6433" id="MC Sandstone Wall">
+		<Class>Wall</Class>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x33</Index>
+		</Texture>
+		<Top>
+			<Texture>
+				<File>lofiProjsBig</File>
+				<Index>0x34</Index>
+			</Texture>
+		</Top>
+		<HitSound>monster/stone_walls_hit</HitSound>
+		<DeathSound>monster/stone_walls_death</DeathSound>
+		<Static/>
+		<FullOccupy/>
+		<OccupySquare/>
+		<EnemyOccupySquare/>
+	</Object>
+	<Object type="0x6434" id="MC Sandstone Carved Wall">
+		<Class>Wall</Class>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x35</Index>
+		</Texture>
+		<Top>
+			<Texture>
+				<File>lofiProjsBig</File>
+				<Index>0x34</Index>
+			</Texture>
+		</Top>
+		<HitSound>monster/stone_walls_hit</HitSound>
+		<DeathSound>monster/stone_walls_death</DeathSound>
+		<Static/>
+		<FullOccupy/>
+		<OccupySquare/>
+		<EnemyOccupySquare/>
+	</Object>
+	<Object type="0x6494" id="Monster Spawner">
+		<Class>Wall</Class>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x20</Index>
+		</Texture>
+		<Top>
+			<Texture>
+				<File>lofiProjsBig</File>
+				<Index>0x20</Index>
+			</Texture>
+		</Top>
+		<HitSound>monster/stone_walls_hit</HitSound>
+		<DeathSound>monster/stone_walls_death</DeathSound>
+		<FullOccupy/>
+		<OccupySquare/>
+		<EnemyOccupySquare/>
+	</Object>
+	<Object type="0x6495" id="Creeper Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x6496" id="Sheep Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x6497" id="Cow Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x6498" id="Pig Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x6499" id="Chicken Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x6450" id="Slime Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x6451" id="Skeleton Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x6452" id="Spider Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x6453" id="Zombie Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x6458" id="Herobrine Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x6459" id="Witch Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x6460" id="Miner Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x6461" id="Steve Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x6465" id="Piglin Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x6466" id="Blaze Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x6467" id="Magma Cube Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x6468" id="Ghast Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x6469" id="Wither Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x6470" id="Guardian Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+	<Object type="0x6471" id="Ender Dragon Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>	
+	<Object type="0x6472" id="Obsidian Pillar Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>	
+	<Object type="0x6473" id="Enderman Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>	
+	<Object type="0x6474" id="Hamood Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>	
+	<Object type="0x6475" id="Among Monster Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>		
+	<Object type="0x6476" id="Wither Monster Checker">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>
+
+	<Object type="0x6477" id="Stone Spawner">
+		<Class>Character</Class>
+		<Texture>
+			<File>invisible</File>
+			<Index>0</Index>
+		</Texture>
+		<NoMiniMap/>
+		<MaxHitPoints>99999999999</MaxHitPoints>		
+		<Size>0</Size>
+	</Object>		
+</Objects>
+<!--
+Invisible Texture      
+      <Texture><File>invisible</File><Index>0</Index></Texture>
+BagType 0 = Brown Bag
+BagType 1 = Pink Bag
+BagType 2 = Purple Bag
+BagType 3 = Egg Basket
+BagType 4 = Cyan Bag
+BagType 5 = Blue Bag
+BagType 6 = White Bag
+BagType 7 = Big White Bag
+BagType 8 = Unholy Bag
+BagType 9 = Big Unholy Bag
+BagType 10 = Orange Bag
+BagType 11 = Red Bag
+BagType 12 = Gold Bag
+-->

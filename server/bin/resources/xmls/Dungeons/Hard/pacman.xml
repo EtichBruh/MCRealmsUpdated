@@ -1,0 +1,43 @@
+﻿<Objects>
+	<Object type="0x6877" id="Pac-Man's Boxing Glove">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\pacmanGloves</Id>
+		</RemoteTexture>
+		<SlotType>30</SlotType>
+		<Description>paacccc mans boxing fucker.</Description>
+		<RateOfFire>1.55</RateOfFire>
+		<Sound>weapon/blunt_sword</Sound>
+		<Projectile>
+			<ObjectId>Fireball</ObjectId>
+			<Speed>160</Speed>
+			<MinDamage>450</MinDamage>
+			<MaxDamage>625</MaxDamage>
+			<LifetimeMS>550</LifetimeMS>
+			<Size>200</Size>
+		</Projectile>
+		<BagType>6</BagType>
+	    <Legendary/>
+    	<NumProjectiles>5</NumProjectiles>
+    	<ArcGap>11</ArcGap>
+		<OldSound>bladeSwing</OldSound>
+	</Object>	
+   <Object type="0x6878" id="Cheese Block">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x12</Index>
+      </Texture>
+      <SlotType>9</SlotType>
+      <Description>bracer lol wtf.</Description>
+      <ActivateOnEquip stat="21" amount="400">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="20" amount="400">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="0" amount="5000">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="3" amount="5000">IncrementStat</ActivateOnEquip>
+      <BagType>6</BagType>
+	  <Legendary/>
+   </Object>	
+</Objects>

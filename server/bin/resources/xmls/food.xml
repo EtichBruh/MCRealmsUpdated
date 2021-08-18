@@ -1,0 +1,128 @@
+﻿<Objects>
+
+ <Object type="0x6832" id="Golden Apple">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\apple_golden</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>just fucking eat this shit to max out a character.</Description>
+      <Sound>use_potion</Sound>
+      <Activate stat="0" amount="999">IncrementStat</Activate>
+      <Activate stat="3" amount="999">IncrementStat</Activate>  
+      <Activate stat="20" amount="999">IncrementStat</Activate>  
+      <Activate stat="21" amount="999">IncrementStat</Activate>  
+      <Activate stat="22" amount="999">IncrementStat</Activate>  
+      <Activate stat="26" amount="999">IncrementStat</Activate>  
+      <Activate stat="27" amount="999">IncrementStat</Activate>  
+      <Activate stat="28" amount="999">IncrementStat</Activate>  	  
+      <Consumable/>
+      <Potion/>
+      <BagType>4</BagType>
+   </Object>
+   
+ <Object type="0x6834" id="Raw Beef">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Food\beef_raw</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>just fucking eat this shit to max out a character.</Description>
+      <Sound>use_potion</Sound>
+      <Activate stat="0" amount="5">IncrementStat</Activate>
+      <Activate stat="3" amount="5">IncrementStat</Activate>  
+      <Consumable/>
+      <Potion/>
+      <BagType>5</BagType>
+   </Object>
+   
+  <Object type="0x6835" id="Raw Porkchop">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Food\porkchop_raw</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>just fucking eat this shit to max out a character.</Description>
+      <Sound>use_potion</Sound>
+      <Activate stat="20" amount="1">IncrementStat</Activate>
+      <Activate stat="26" amount="1">IncrementStat</Activate>  
+      <Consumable/>
+      <Potion/>
+      <BagType>5</BagType>
+   </Object>
+
+  <Object type="0x6836" id="Raw Mutton">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Food\mutton_raw</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>just fucking eat this shit to max out a character.</Description>
+      <Sound>use_potion</Sound>
+      <Activate stat="21" amount="1">IncrementStat</Activate>
+      <Activate stat="27" amount="1">IncrementStat</Activate>  
+      <Consumable/>
+      <Potion/>
+      <BagType>5</BagType>
+   </Object> 
+
+  <Object type="0x6837" id="Raw Chicken">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Food\chicken_raw</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>just fucking eat this shit to max out a character.</Description>
+      <Sound>use_potion</Sound>
+      <Activate stat="22" amount="1">IncrementStat</Activate>
+      <Activate stat="28" amount="1">IncrementStat</Activate>  
+      <Consumable/>
+      <Potion/>
+      <BagType>5</BagType>
+   </Object> 
+
+  <Object type="0x6838" id="Rotten Flesh">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Food\rotten_flesh</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>dont eat this nigga, its used for something else... smh</Description>
+      <Sound>use_potion</Sound>
+      <Consumable/>
+      <Potion/>
+      <BagType>5</BagType>
+   </Object>       
+         </Objects>
+<!--
+Invisible Texture      
+      <Texture>
+         <File>invisible</File>
+         <Index>0</Index>
+      </Texture>
+BagType 0 = Brown Bag
+BagType 1 = Pink Bag
+BagType 2 = Purple Bag
+BagType 3 = Egg Basket
+BagType 4 = Cyan Bag
+BagType 5 = Blue Bag
+BagType 6 = White Bag
+BagType 7 = Big White Bag
+BagType 8 = Unholy Bag
+BagType 9 = Big Unholy Bag
+BagType 10 = Orange Bag
+BagType 11 = Red Bag
+BagType 12 = Gold Bag
+-->

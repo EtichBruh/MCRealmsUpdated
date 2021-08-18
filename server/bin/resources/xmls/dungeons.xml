@@ -1,0 +1,857 @@
+﻿<Objects>
+	<Object type="0x5768" id="Mcdonalds Map">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\map</Id>
+			<Right/>
+		</RemoteTexture>
+		<SlotType>10</SlotType>
+		<Description>A map to a dungeon nigger.</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<Activate id="Mcdonalds Portal">Create</Activate>
+		<Track/>
+	</Object>
+	<Object type="0x5289" id="Mcdonalds Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Mcdonalds</DisplayId>
+		<DungeonName>Mcdonalds</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\mcdonald</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+	<Object type="0x5788" id="Slime Map">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\map</Id>
+			<Right/>
+		</RemoteTexture>
+		<SlotType>10</SlotType>
+		<Description>A map to a dungeon nigger.</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<Activate id="Slime Portal">Create</Activate>
+		<Track/>
+	</Object>
+	<Object type="0x5789" id="Slime Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Slime Portal</DisplayId>
+		<DungeonName>Slime Portal</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\Slime</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+	<Object type="0x5689" id="Cave Map">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\map</Id>
+			<Right/>
+		</RemoteTexture>
+		<SlotType>10</SlotType>
+		<Description>A map to a dungeon nigger.</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<Activate id="Cave Portal">Create</Activate>
+		<Track/>
+	</Object>
+	<Object type="0x5790" id="Cave Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Cave</DisplayId>
+		<DungeonName>Cave</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\Cave</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+	<Object type="0x5699" id="Village Map">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\map</Id>
+			<Right/>
+		</RemoteTexture>
+		<SlotType>10</SlotType>
+		<Description>A map to a dungeon nigger.</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<Activate id="Village Portal">Create</Activate>
+		<Track/>
+	</Object>
+	<Object type="0x5791" id="Village Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Village</DisplayId>
+		<DungeonName>Village</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\village</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+	<Object type="0x4599" id="Temple Map">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\map</Id>
+			<Right/>
+		</RemoteTexture>
+		<SlotType>10</SlotType>
+		<Description>A map to a dungeon nigger.</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<Activate id="Temple Portal">Create</Activate>
+		<Track/>
+	</Object>
+	<Object type="0x5792" id="Temple Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Temple</DisplayId>
+		<DungeonName>Temple</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\pyramid</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+	<Object type="0x5794" id="Mansion Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Woodland Mansion</DisplayId>
+		<DungeonName>Woodland Mansion</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\mansion</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+	<Object type="0x5795" id="Witches Hut Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Witches Hut</DisplayId>
+		<DungeonName>Witches Hut</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\swamp</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+	<Object type="0x5796" id="Mineshaft Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Mineshaft</DisplayId>
+		<DungeonName>Mineshaft</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\mineshaft</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+	<Object type="0x5797" id="Apple Store Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Apple Store</DisplayId>
+		<DungeonName>Apple Store</DungeonName>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>21</Index>
+		</Texture>
+		<BigPortal/>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+	<Object type="0x5798" id="Nether Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Nether Portal</DisplayId>
+		<DungeonName>Nether Portal</DungeonName>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>22</Index>
+		</Texture>
+		<BigPortal/>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+	
+	<Object type="0x5799" id="Sea Temple Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Sea Temple</DisplayId>
+		<DungeonName>Sea Temple</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\seaTemple</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+
+	<Object type="0x5800" id="End Portal">
+		<Class>Portal</Class>
+		<DisplayId>End Portal</DisplayId>
+		<DungeonName>End Portal</DungeonName>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>31</Index>
+		</Texture>
+		<BigPortal/>
+		<ShadowSize>0</ShadowSize>
+	</Object>	
+	
+	<Object type="0x5801" id="End Map">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\map</Id>
+			<Right/>
+		</RemoteTexture>
+		<SlotType>10</SlotType>
+		<Description>use in nexus to start raid niger.</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<Activate>Alarm</Activate>
+		<Track/>
+	    <BagType>6</BagType>	
+	</Object>
+	
+	<Object type="0x5802" id="Enderman Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Enderman</DisplayId>
+		<DungeonName>Enderman</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\enderman</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+
+	<Object type="0x5803" id="Hamood Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Hamood</DisplayId>
+		<DungeonName>Hamood</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\hamood</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+
+	<Object type="0x5804" id="Allah Portal">
+		<Class>Portal</Class>
+		<DisplayId>Allah Raid</DisplayId>
+		<DungeonName>Allah Raid</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\allah</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>	
+
+	<Object type="0x5805" id="Allah Map">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\map</Id>
+			<Right/>
+		</RemoteTexture>
+		<SlotType>10</SlotType>
+		<Description>use in nexus to start Allah niger.</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<BagType>6</BagType>
+		<Activate id="Allah">Alarm</Activate>
+		<Track/>
+	</Object>
+	<Object type="0x5806" id="Wither Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Withers Lair</DisplayId>
+		<DungeonName>Withers Lair</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\wither</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+	<Object type="0x5807" id="Wither Storm Portal">
+		<Class>Portal</Class>
+		<DisplayId>Wither Storm</DisplayId>
+		<DungeonName>Wither Storm</DungeonName>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>41</Index>
+		</Texture>
+		<BigPortal/>
+		<ShadowSize>0</ShadowSize>
+	</Object>	
+
+	<Object type="0x5808" id="Wither Storm Map">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\map</Id>
+			<Right/>
+		</RemoteTexture>
+		<SlotType>10</SlotType>
+		<Description>use in nexus to start WITHER STORMMMMMMMMMMMMMMMMMMMMMMRRR niger.</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<BagType>6</BagType>		
+		<Activate id="Wither Storm">Alarm</Activate>
+		<Track/>
+	</Object>
+
+	<Object type="0x5809" id="Polar Bear Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Polar Bear</DisplayId>
+		<DungeonName>Polar Bear</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\polarbear</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+
+	<Object type="0x5810" id="Iron Golem Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Iron Golem</DisplayId>
+		<DungeonName>Iron Golem</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\irongolem</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+
+	<Object type="0x5811" id="Godzilla Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Godzilla Field</DisplayId>
+		<DungeonName>Godzilla Field</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\godzilla</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+	<Object type="0x5812" id="Zombie King Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Fallen Kingdom</DisplayId>
+		<DungeonName>Fallen Kingdom</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\zombieking</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>	
+
+	<Object type="0x5813" id="Thanos Portal">
+		<Class>Portal</Class>
+		<DisplayId>Thanos Raid</DisplayId>
+		<DungeonName>Thanos Raid</DungeonName>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>41</Index>
+		</Texture>
+		<BigPortal/>
+		<ShadowSize>0</ShadowSize>
+	</Object>		
+
+	<Object type="0x5814" id="Thanos Map">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\map</Id>
+			<Right/>
+		</RemoteTexture>
+		<SlotType>10</SlotType>
+		<Description>aron bad.</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<BagType>6</BagType>
+		<Activate id="Thanos">Alarm</Activate>
+		<Track/>
+	</Object>
+
+	<Object type="0x5815" id="Creeper Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Creeper</DisplayId>
+		<DungeonName>Creeper</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\creeper</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+
+	<Object type="0x5816" id="Bee Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Bee</DisplayId>
+		<DungeonName>Bee</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\bee</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>	
+
+	<Object type="0x5817" id="Sonic Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Sonic</DisplayId>
+		<DungeonName>Sonic</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\sonic</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>	
+
+	<Object type="0x5818" id="King Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>King</DisplayId>
+		<DungeonName>King</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\king</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+
+	<Object type="0x5819" id="Santa Map">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\map</Id>
+			<Right/>
+		</RemoteTexture>
+		<SlotType>10</SlotType>
+		<Description>lol.</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<BagType>6</BagType>
+		<Activate id="Santa">Alarm</Activate>
+		<Track/>
+	</Object>
+
+	<Object type="0x5820" id="Santa Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Santa</DisplayId>
+		<DungeonName>Santa</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\santa</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>	
+	
+	<Object type="0x5821" id="Penis Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Penis Land</DisplayId>
+		<DungeonName>Penis Land</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\penis</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+
+	<Object type="0x5822" id="Halloween Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Halloween</DisplayId>
+		<DungeonName>Halloween</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\roofus</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+	
+	<Object type="0x5823" id="Pepe Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Pepe</DisplayId>
+		<DungeonName>Pepe</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\pepe</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+
+	<Object type="0x5824" id="Viktor Portal">
+		<Class>Portal</Class>
+		<DisplayId>Hitler Raid</DisplayId>
+		<DungeonName>Hitler Raid</DungeonName>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>63</Index>
+		</Texture>
+		<BigPortal/>
+		<ShadowSize>0</ShadowSize>
+	</Object>		
+
+	<Object type="0x5825" id="Hitler Map">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\map</Id>
+			<Right/>
+		</RemoteTexture>
+		<SlotType>10</SlotType>
+		<Description>heil hitler.</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<BagType>6</BagType>
+		<Activate id="Viktor">Alarm</Activate>
+		<Track/>
+	</Object>	
+	
+		<Object type="0x5826" id="Boshy Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Boshy</DisplayId>
+		<DungeonName>Boshy</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\boshy</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+
+	<Object type="0x5827" id="Polar Bear Map">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\map</Id>
+			<Right/>
+		</RemoteTexture>
+		<SlotType>10</SlotType>
+		<Description>A map to a dungeon nigger.</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<Activate id="Polar Bear Portal">Create</Activate>
+		<Track/>
+	</Object>
+
+	<Object type="0x5828" id="Iron Golem Map">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\map</Id>
+			<Right/>
+		</RemoteTexture>
+		<SlotType>10</SlotType>
+		<Description>A map to a dungeon nigger.</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<Activate id="Iron Golem Portal">Create</Activate>
+		<Track/>
+	</Object>
+
+	<Object type="0x5829" id="Mineshaft Map">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\map</Id>
+			<Right/>
+		</RemoteTexture>
+		<SlotType>10</SlotType>
+		<Description>A map to a dungeon nigger.</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<Activate id="Mineshaft Portal">Create</Activate>
+		<Track/>
+	</Object>
+
+	<Object type="0x5830" id="Witches Hut Map">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\map</Id>
+			<Right/>
+		</RemoteTexture>
+		<SlotType>10</SlotType>
+		<Description>A map to a dungeon nigger.</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<Activate id="Witches Hut Portal">Create</Activate>
+		<Track/>
+	</Object>
+
+	<Object type="0x5831" id="Enderman Map">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\map</Id>
+			<Right/>
+		</RemoteTexture>
+		<SlotType>10</SlotType>
+		<Description>A map to a dungeon nigger.</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<Activate id="Enderman Portal">Create</Activate>
+		<Track/>
+	</Object>
+
+	<Object type="0x5832" id="Sea Temple Map">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\map</Id>
+			<Right/>
+		</RemoteTexture>
+		<SlotType>10</SlotType>
+		<Description>A map to a dungeon nigger.</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<Activate id="Sea Temple Portal">Create</Activate>
+		<Track/>
+	</Object>
+
+		<Object type="0x5834" id="Among Us Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Among Us</DisplayId>
+		<DungeonName>Among Us</DungeonName>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x30</Index>
+      </Texture>
+	</Object>
+
+		<Object type="0x5835" id="Barbie World Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Barbie World</DisplayId>
+		<DungeonName>Barbie World</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\barbieworld</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>	
+
+		<Object type="0x5836" id="Pacman Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Pacman</DisplayId>
+		<DungeonName>Pacman</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\pacman</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+
+		<Object type="0x5837" id="Reaper Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Reaper</DisplayId>
+		<DungeonName>Reaper</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\reaper</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+
+		<Object type="0x5838" id="Farm Portal">
+		<Class>Portal</Class>
+		<IntergamePortal/>
+		<DisplayId>Farm</DisplayId>
+		<DungeonName>Farm</DungeonName>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Portal\farm</Id>
+			<Right/>
+		</RemoteTexture>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+	
+   <Object type="0x6a07" id="Groove Street Portal">
+      <Class>Portal</Class>
+      <IntergamePortal/>
+      <DisplayId>Groove Street</DisplayId>
+      <DungeonName>Groove Street</DungeonName>
+      <Texture>
+         <File>lofiEnvironment</File>
+         <Index>0x7c</Index>
+      </Texture>
+   </Object>	
+   <Object type="0x6a08" id="Groove Street Map">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\map</Id>
+			<Right/>
+		</RemoteTexture>
+		<SlotType>10</SlotType>
+		<Description>A map to the fucking groove street, are you blind?</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<Activate id="Groove Street Portal">Create</Activate>
+		<Track/>
+	</Object>	
+	
+	   <Object type="0x6a14" id="Franks Sex Portal">
+      <Class>Portal</Class>
+      <IntergamePortal/>
+      <DisplayId>Franks Sex</DisplayId>
+      <DungeonName>Franks Sex</DungeonName>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x31</Index>
+      </Texture>
+   </Object>
+
+	   <Object type="0x6a15" id="Fazbear Portal">
+      <Class>Portal</Class>
+      <IntergamePortal/>
+      <DisplayId>Fazbear world</DisplayId>
+      <DungeonName>Fazbear world</DungeonName>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x32</Index>
+      </Texture>
+   </Object>
+   
+	<Object type="0x5a16" id="Aether Portal">
+		<Class>Portal</Class>
+		<DisplayId>Aether Dimension</DisplayId>
+		<DungeonName>Aether Dimension</DungeonName>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>94</Index>
+		</Texture>
+		<BigPortal/>
+		<ShadowSize>0</ShadowSize>
+	</Object>
+	
+		   <Object type="0x5a17" id="Wish Portal">
+      <Class>Portal</Class>
+      <IntergamePortal/>
+      <DisplayId>Wish Dungeon</DisplayId>
+      <DungeonName>Wish Dungeon</DungeonName>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x50</Index>
+      </Texture>
+   </Object>
+   
+ 		   <Object type="0x5a18" id="Gay Dimension Portal">
+      <Class>Portal</Class>
+      <IntergamePortal/>
+      <DisplayId>Gay Dimension</DisplayId>
+      <DungeonName>Gay Dimension</DungeonName>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x53</Index>
+      </Texture>
+   </Object> 
+
+ 		   <Object type="0x5a19" id="Obama Portal">
+      <Class>Portal</Class>
+      <IntergamePortal/>
+      <DisplayId>Obama</DisplayId>
+      <DungeonName>Obama</DungeonName>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x51</Index>
+      </Texture>
+   </Object> 
+
+ 		   <Object type="0x5a1a" id="Ricardo Portal">
+      <Class>Portal</Class>
+      <IntergamePortal/>
+      <DisplayId>Ricardo Pit</DisplayId>
+      <DungeonName>Ricardo Pit</DungeonName>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x52</Index>
+      </Texture>
+   </Object>     
+</Objects>
+<!--
+Invisible Texture      
+      <Texture><File>invisible</File><Index>0</Index></Texture>
+BagType 0 = Brown Bag
+BagType 1 = Pink Bag
+BagType 2 = Purple Bag
+BagType 3 = Egg Basket
+BagType 4 = Cyan Bag
+BagType 5 = Blue Bag
+BagType 6 = White Bag
+BagType 7 = Big White Bag
+BagType 8 = Unholy Bag
+BagType 9 = Big Unholy Bag
+BagType 10 = Orange Bag
+BagType 11 = Red Bag
+BagType 12 = Gold Bag
+-->

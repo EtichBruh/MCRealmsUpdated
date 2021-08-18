@@ -1,0 +1,107 @@
+<Objects>
+	<Object type="0x5131" id="Flash Bang">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\flashBang</Id>
+			<Right/>
+		</RemoteTexture>
+		<SlotType>10</SlotType>
+		<Description>LMAOOOOOOOOOOOOOOOOOoooOOooOooO.</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<BagType>6</BagType>
+		<Activate>FlashBang</Activate>
+		<Track/>
+	</Object>
+
+	<Object type="0x4422" id="viktors gun">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\niggacock</Id>
+		</RemoteTexture>
+		<SlotType>8</SlotType>
+		<Description>so big uwu.</Description>
+		<RateOfFire>1.45</RateOfFire>
+		<Sound>weapon/wand_of_death</Sound>
+		<Projectile>
+			<ObjectId>cocksss Projectile</ObjectId>
+			<Speed>70</Speed>
+			<LifetimeMS>900</LifetimeMS>
+			<MinDamage>1000</MinDamage>
+			<MaxDamage>2500</MaxDamage>
+			<Size>250</Size>
+			<MultiHit/>
+		</Projectile>
+		<Legendary/>
+		<BagType>6</BagType>
+		<FameBonus>10000</FameBonus>
+		<OldSound>magicShoot</OldSound>
+	</Object>	
+	
+	
+	 <Object type="0x4423" id="Handcannon">
+    <Class>Equipment</Class>
+    <Item />
+    <RemoteTexture>
+      <Instance>production</Instance>
+      <Id>separate\handcannon</Id>
+    </RemoteTexture>
+    <SlotType>3</SlotType>
+    <Description>It was Boshy Time</Description>
+    <RateOfFire>1.25</RateOfFire>
+    <OldSound>weapon/boshy_gun</OldSound>
+    <Projectile>
+      <ObjectId>White Bullet</ObjectId>
+      <Speed>160</Speed>
+      <MinDamage>1500</MinDamage>
+      <MaxDamage>6000</MaxDamage>
+      <LifetimeMS>500</LifetimeMS>
+      <Size>70</Size>
+      <MultiHit/>
+      <PassesCover/>
+    </Projectile>
+    <NumProjectiles>8</NumProjectiles>
+    <ArcGap>8</ArcGap>
+    <BagType>6</BagType>
+    <FameBonus>50000</FameBonus>
+    <feedPower>0</feedPower>
+    <Soulbound/>
+  </Object>
+  
+  	 <Object type="0x4424" id="Real Handcannon">
+    <Class>Equipment</Class>
+    <Item />
+    <RemoteTexture>
+      <Instance>production</Instance>
+      <Id>separate\handcannon</Id>
+    </RemoteTexture>
+    <SlotType>3</SlotType>
+    <Description>It was Boshy Time</Description>
+    <RateOfFire>1.25</RateOfFire>
+    <OldSound>weapon/boshy_gun</OldSound>
+    <Projectile>
+      <ObjectId>White Bullet</ObjectId>
+      <Speed>160</Speed>
+      <MinDamage>1</MinDamage>
+      <MaxDamage>666</MaxDamage>
+      <LifetimeMS>500</LifetimeMS>
+      <Size>70</Size>
+      <MultiHit/>
+      <PassesCover/>
+    </Projectile>
+	<Legendary/>
+    <NumProjectiles>40</NumProjectiles>
+    <ArcGap>8</ArcGap>
+    <BagType>6</BagType>
+    <FameBonus>100</FameBonus>
+    <feedPower>0</feedPower>
+    <Soulbound/>
+  </Object>
+  
+
+  
+</Objects>

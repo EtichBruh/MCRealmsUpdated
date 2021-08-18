@@ -1,0 +1,122 @@
+﻿<Objects>
+	<Object type="0x5324" id="r0tten flesh">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\fleshWand</Id>
+			<Right/>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x5335" id="Wand of the Unrevoken Death">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\fleshWand</Id>
+		</RemoteTexture>
+		<SlotType>8</SlotType>
+		<Description>A wand with some flesh on it.</Description>
+		<RateOfFire>1.15</RateOfFire>
+		<Sound>weapon/wand_of_death</Sound>
+		<Projectile>
+			<ObjectId>r0tten flesh</ObjectId>
+			<Speed>125</Speed>
+			<LifetimeMS>550</LifetimeMS>
+			<MinDamage>100</MinDamage>
+			<MaxDamage>250</MaxDamage>
+			<ArmorPiercing/>
+			<MultiHit/>
+		</Projectile>
+		<BagType>6</BagType>
+		<Uncommon/>
+		<FameBonus>4</FameBonus>
+		<OldSound>magicShoot</OldSound>
+	</Object>
+
+	<Object type="0x5535" id="Boner Sword Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Tools\boner</Id>
+			<Right/>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x5357" id="Boner Sword">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Tools\boner</Id>
+		</RemoteTexture>
+		<SlotType>1</SlotType>
+		<Description>Shove that boner up that villagers ass</Description>
+		<RateOfFire>1.25</RateOfFire>
+		<Sound>weapon/blunt_sword</Sound>
+		<Projectile>
+			<ObjectId>Boner Sword Projectile</ObjectId>
+			<Speed>145</Speed>
+			<MinDamage>125</MinDamage>
+			<MaxDamage>350</MaxDamage>
+			<LifetimeMS>350</LifetimeMS>
+			<Wavy/>
+			<Size>170</Size>
+		</Projectile>
+		<BagType>6</BagType>
+		<Uncommon/>
+		<OldSound>bladeSwing</OldSound>
+	</Object>
+		<Object type="0x4055" id="Eye of a Spider">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\MC\spiderEye</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>eye of a nigga spider asshole fucker</Description>
+		<ActivateOnEquip stat="0" amount="-250">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="400">IncrementStat</ActivateOnEquip>
+	    <ActivateOnEquip stat="27" amount="70">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<Uncommon/>
+		<FameBonus>10</FameBonus>
+	</Object>
+	
+	<Object type="0x4056" id="Skeleton Plate">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\MC\skeletonArmor</Id>
+		</RemoteTexture>
+		<SlotType>7</SlotType>
+		<Description>a plate of a skeleton white lives matter</Description>
+		<ActivateOnEquip stat="20" amount="50">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="50">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="50">IncrementStat</ActivateOnEquip>						
+		<ActivateOnEquip stat="21" amount="90">IncrementStat</ActivateOnEquip>		
+		<Legendary/>
+		<BagType>6</BagType>
+		<Uncommon/>
+		<FameBonus>4</FameBonus>
+	</Object>
+
+		<Object type="0x4057" id="Heart of a Creeper">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\MC\greentnt</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>a creeper has a heart toooooooooooooo</Description>
+		<ActivateOnEquip stat="3" amount="1250">IncrementStat</ActivateOnEquip>
+	    <ActivateOnEquip stat="21" amount="-100">IncrementStat</ActivateOnEquip>
+	    <ActivateOnEquip stat="26" amount="-250">IncrementStat</ActivateOnEquip>		
+		<BagType>6</BagType>
+		<Uncommon/>
+		<FameBonus>6</FameBonus>
+	</Object>	
+</Objects>

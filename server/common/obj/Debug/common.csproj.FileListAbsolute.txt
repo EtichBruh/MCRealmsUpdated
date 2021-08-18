@@ -1,0 +1,35 @@
+D:\heatblast-main\heatblast-main\MC-realm-master\server\bin\log4net.config
+D:\heatblast-main\heatblast-main\MC-realm-master\server\bin\common.dll.config
+D:\heatblast-main\heatblast-main\MC-realm-master\server\bin\common.dll
+D:\heatblast-main\heatblast-main\MC-realm-master\server\bin\common.pdb
+D:\heatblast-main\heatblast-main\MC-realm-master\server\common\obj\Debug\common.csproj.CoreCompileInputs.cache
+D:\heatblast-main\heatblast-main\MC-realm-master\server\common\obj\Debug\common.csproj.CopyComplete
+D:\heatblast-main\heatblast-main\MC-realm-master\server\common\obj\Debug\common.dll
+D:\heatblast-main\heatblast-main\MC-realm-master\server\common\obj\Debug\common.pdb
+D:\heatblast-main\heatblast-main\MC-realm-master\server\common\obj\Debug\common.csprojAssemblyReference.cache
+D:\heatblast-main\heatblast-main\heatblast-main\heatblast-main\MC-realm-master\server\bin\log4net.config
+D:\heatblast-main\heatblast-main\heatblast-main\heatblast-main\MC-realm-master\server\bin\common.dll.config
+D:\heatblast-main\heatblast-main\heatblast-main\heatblast-main\MC-realm-master\server\bin\common.dll
+D:\heatblast-main\heatblast-main\heatblast-main\heatblast-main\MC-realm-master\server\bin\common.pdb
+D:\heatblast-main\heatblast-main\heatblast-main\heatblast-main\MC-realm-master\server\common\obj\Debug\common.csproj.CoreCompileInputs.cache
+D:\heatblast-main\heatblast-main\heatblast-main\heatblast-main\MC-realm-master\server\common\obj\Debug\common.csproj.CopyComplete
+D:\heatblast-main\heatblast-main\heatblast-main\heatblast-main\MC-realm-master\server\common\obj\Debug\common.dll
+D:\heatblast-main\heatblast-main\heatblast-main\heatblast-main\MC-realm-master\server\common\obj\Debug\common.pdb
+C:\Users\я\Downloads\MC realms\server\bin\log4net.config
+C:\Users\я\Downloads\MC realms\server\bin\common.dll.config
+C:\Users\я\Downloads\MC realms\server\bin\common.dll
+C:\Users\я\Downloads\MC realms\server\bin\common.pdb
+C:\Users\я\Downloads\MC realms\server\common\obj\Debug\common.csproj.AssemblyReference.cache
+C:\Users\я\Downloads\MC realms\server\common\obj\Debug\common.csproj.CoreCompileInputs.cache
+C:\Users\я\Downloads\MC realms\server\common\obj\Debug\common.csproj.CopyComplete
+C:\Users\я\Downloads\MC realms\server\common\obj\Debug\common.dll
+C:\Users\я\Downloads\MC realms\server\common\obj\Debug\common.pdb
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\bin\log4net.config
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\bin\common.dll.config
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\bin\common.dll
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\bin\common.pdb
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\common\obj\Debug\common.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\common\obj\Debug\common.csproj.CopyComplete
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\common\obj\Debug\common.dll
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\common\obj\Debug\common.pdb
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\common\obj\Debug\common.csproj.AssemblyReference.cache

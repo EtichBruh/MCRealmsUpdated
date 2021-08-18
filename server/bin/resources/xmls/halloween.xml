@@ -1,0 +1,206 @@
+﻿<Objects>  
+  <Object type="0x7425" id="Halloween Staff">
+      <Class>Equipment</Class>
+      <Item/>
+       <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x01</Index>
+      </Texture>
+      <SlotType>17</SlotType>
+      <Description>a fuckign stick.</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/wand_of_death</Sound>
+      <Projectile>
+         <ObjectId>Big Fireball</ObjectId>
+         <Speed>180</Speed>
+         <MinDamage>500</MinDamage>
+         <MaxDamage>1666</MaxDamage>
+         <LifetimeMS>600</LifetimeMS>
+         <Amplitude>0.5</Amplitude>
+         <Frequency>1</Frequency>
+      </Projectile>
+      <BagType>6</BagType>
+      <FameBonus>400</FameBonus>
+      <NumProjectiles>1</NumProjectiles>
+      <ArcGap>0</ArcGap>
+      <OldSound>magicShoot</OldSound>
+   </Object> 
+   
+           <Object type="0x7426" id="Halloween Sword Projectile">
+      <Class>Projectile</Class>
+       <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x04</Index>
+      </Texture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+   
+        <Object type="0x7427" id="Halloween Sword">
+      <Class>Equipment</Class>
+      <Item/>
+       <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x04</Index>
+      </Texture>
+      <SlotType>1</SlotType>
+      <Description>A Halloween sword made for defense.</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/blunt_sword</Sound>
+      <Projectile>
+         <ObjectId>Halloween Sword Projectile</ObjectId>
+         <Speed>145</Speed>
+         <MinDamage>800</MinDamage>
+         <MaxDamage>2750</MaxDamage>
+         <LifetimeMS>666</LifetimeMS>
+         <Size>120</Size>		 
+      </Projectile>
+      <BagType>6</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+   
+        <Object type="0x7428" id="Halloween Axe Projectile">
+      <Class>Projectile</Class>
+       <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x02</Index>
+      </Texture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+     <Object type="0x7429" id="Halloween Axe">
+      <Class>Equipment</Class>
+      <Item/>
+       <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x02</Index>
+      </Texture>
+      <SlotType>30</SlotType>
+      <Description>A halloween Axe made for practice.</Description>
+      <RateOfFire>1.25</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Halloween Axe Projectile</ObjectId>
+         <Speed>145</Speed>
+         <MinDamage>500</MinDamage>
+         <MaxDamage>2500</MaxDamage>
+         <LifetimeMS>666</LifetimeMS>
+         <Size>180</Size>		 		 
+      </Projectile>
+      <BagType>6</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+   
+      
+     <Object type="0x7430" id="Halloween Pickaxe Projectile">
+      <Class>Projectile</Class>
+       <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x03</Index>
+      </Texture>
+	  <AngleCorrection>1</AngleCorrection>
+      <Rotation>100</Rotation>	  	  
+   </Object>  
+   
+   
+       <Object type="0x7431" id="Halloween Pickaxe">
+      <Class>Equipment</Class>
+      <Item/>
+       <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x03</Index>
+      </Texture>
+      <SlotType>32</SlotType>
+      <Description>A halloween pickaxe made for practice.</Description>
+      <RateOfFire>0.85</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Halloween Pickaxe Projectile</ObjectId>
+         <Speed>155</Speed>
+         <MinDamage>1590</MinDamage>
+         <MaxDamage>2250</MaxDamage>
+         <LifetimeMS>425</LifetimeMS>
+         <Size>144</Size>		 		 
+      </Projectile>
+      <BagType>6</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+   
+            <Object type="0x7432" id="Halloween Wand Projectile">
+      <Class>Projectile</Class>
+       <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x00</Index>
+      </Texture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+     <Object type="0x7434" id="Halloween Wand">
+      <Class>Equipment</Class>
+      <Item/>
+       <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x00</Index>
+      </Texture>
+      <SlotType>8</SlotType>
+      <Description>A Halloween wand made for practice.</Description>
+      <RateOfFire>1.25</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Halloween Wand Projectile</ObjectId>
+         <Speed>190</Speed>
+         <MinDamage>1000</MinDamage>
+         <MaxDamage>1800</MaxDamage>
+         <LifetimeMS>550</LifetimeMS>
+         <Size>144</Size>		 		 
+      </Projectile>
+      <BagType>6</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+   
+    <Object type="0x8438" id="Halloween Bow">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x10</Index>
+      </Texture>
+      <SlotType>3</SlotType>
+      <Description>a bow for noobs</Description>
+      <RateOfFire>1.4</RateOfFire>
+      <Sound>weapon/golden_bow</Sound>
+      <Projectile>
+         <ObjectId>Wooden Arrow</ObjectId>
+         <Speed>235</Speed>
+         <MinDamage>350</MinDamage>
+         <MaxDamage>1250</MaxDamage>
+         <LifetimeMS>500</LifetimeMS>
+         <Size>50</Size>
+         <Wavy/>
+      </Projectile>
+      <BagType>6</BagType>
+      <NumProjectiles>3</NumProjectiles>
+      <OldSound>arrowShoot</OldSound>
+      <ArcGap>5</ArcGap>
+   </Object>  
+ </Objects>
+<!--
+Invisible Texture      
+      <Texture>
+         <File>invisible</File>
+         <Index>0</Index>
+      </Texture>
+BagType 0 = Brown Bag
+BagType 1 = Pink Bag
+BagType 2 = Purple Bag
+BagType 3 = Egg Basket
+BagType 4 = Cyan Bag
+BagType 5 = Blue Bag
+BagType 6 = White Bag
+BagType 7 = Big White Bag
+BagType 8 = Unholy Bag
+BagType 9 = Big Unholy Bag
+BagType 10 = Orange Bag
+BagType 11 = Red Bag
+BagType 12 = Gold Bag
+-->

@@ -1,0 +1,57 @@
+﻿<Objects>
+	<Object type="0x4427" id="Wand of a Foul Foe">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\toothWand</Id>
+		</RemoteTexture>
+		<SlotType>8</SlotType>
+		<Description>A wand with some tooth on it.</Description>
+		<RateOfFire>1.2</RateOfFire>
+		<Sound>weapon/wand_of_death</Sound>
+		<Projectile>
+			<ObjectId>r0tten t00th</ObjectId>
+			<Speed>300</Speed>
+			<LifetimeMS>250</LifetimeMS>
+			<MinDamage>200</MinDamage>
+			<MaxDamage>300</MaxDamage>
+			<ArmorPiercing/>
+		</Projectile>
+		<NumProjectiles>2</NumProjectiles>
+		<ArcGap>4</ArcGap>
+		<BagType>6</BagType>
+		<Uncommon/>		
+		<FameBonus>10</FameBonus>
+		<OldSound>magicShoot</OldSound>
+	</Object>
+
+	<Object type="0x4428" id="r0tten t00th">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\tooth</Id>
+			<Right/>
+		</RemoteTexture>
+	</Object>	
+		<Object type="0x5113" id="Foot of a Foe">
+		<Class>Equipment</Class>
+		<Usable/>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\foot</Id>
+		</RemoteTexture>
+		<SlotType>4</SlotType>
+		<Description>sheesh fire</Description>
+		<Sound>spell/major_heal</Sound>
+        <Activate stat="20" amount="80" duration="2" range="3">StatBoostAura</Activate>				
+        <Activate stat="28" amount="80" duration="2" range="3">StatBoostAura</Activate>		
+        <Activate stat="22" amount="50" duration="3" range="4.5">StatBoostAura</Activate>
+		<Uncommon/>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+		<Cooldown>2.5</Cooldown>
+		<MpCost>150</MpCost>
+	</Object>
+</Objects>

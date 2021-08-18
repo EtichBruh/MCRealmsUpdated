@@ -1,0 +1,53 @@
+﻿<Objects>
+	<Object type="0x5110" id="FISTS Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\fistsofiron</Id>
+			<Right/>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x5111" id="FISTS of fury iron">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\fistsofiron</Id>
+		</RemoteTexture>
+		<SlotType>1</SlotType>
+		<Description>holy shitt.</Description>
+		<RateOfFire>0.9</RateOfFire>
+		<Sound>weapon/blunt_axe</Sound>
+		<Projectile>
+			<ObjectId>FISTS Projectile</ObjectId>
+			<Speed>190</Speed>
+			<MinDamage>125</MinDamage>
+			<MaxDamage>250</MaxDamage>
+			<LifetimeMS>500</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>150</Size>
+		</Projectile>
+	    <ActivateOnEquip stat="20" amount="25">IncrementStat</ActivateOnEquip>		
+	    <NumProjectiles>2</NumProjectiles>
+		<ArcGap>6</ArcGap>			
+		<Uncommon/>
+		<BagType>6</BagType>
+		<OldSound>bladeSwing</OldSound>
+	</Object>	
+	<Object type="0x4425" id="Iron Golem's THICC Chestplate">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\golemchestplate</Id>
+		</RemoteTexture>
+		<SlotType>7</SlotType>
+		<Description>smash smash fuck</Description>
+		<ActivateOnEquip stat="0" amount="800">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="100">IncrementStat</ActivateOnEquip>
+		<Crafted/>
+		<BagType>6</BagType>
+		<FameBonus>4</FameBonus>
+	</Object> 
+</Objects>

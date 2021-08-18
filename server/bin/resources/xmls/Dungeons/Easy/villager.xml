@@ -1,0 +1,61 @@
+﻿<Objects>
+	<Object type="0x4534" id="Villager's Emerald Bow">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\emeraldbow</Id>
+		</RemoteTexture>
+		<SlotType>3</SlotType>
+		<Description>oh shit emeralds for life nigga.</Description>
+		<RateOfFire>1.05</RateOfFire>
+		<Sound>weapon/poor_quality_bow</Sound>
+		<Projectile>
+			<ObjectId>Emerald Projectile</ObjectId>
+			<Speed>200</Speed>
+			<Size>150</Size>
+			<MinDamage>80</MinDamage>
+			<MaxDamage>180</MaxDamage>
+			<LifetimeMS>440</LifetimeMS>
+			<MultiHit/>
+			<ArmorPiercing/>
+		</Projectile>
+		<Crafted/>
+		<BagType>6</BagType>
+		<NumProjectiles>3</NumProjectiles>
+		<ArcGap>7</ArcGap>
+		<OldSound>arrowShoot</OldSound>
+	</Object>
+	<Object type="0x6565" id="Emerald Villager Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\emeraldsword</Id>
+			<Right/>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x5375" id="Villager's Emerald Dildo">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\emeraldsword</Id>
+		</RemoteTexture>
+		<SlotType>1</SlotType>
+		<Description>ok wtf?</Description>
+		<RateOfFire>1.1</RateOfFire>
+		<Sound>weapon/blunt_sword</Sound>
+		<Projectile>
+			<ObjectId>Emerald Villager Projectile</ObjectId>
+			<Speed>80</Speed>
+			<MinDamage>200</MinDamage>
+			<MaxDamage>500</MaxDamage>
+			<LifetimeMS>600</LifetimeMS>
+			<Size>169</Size>
+		</Projectile>
+		<Common/>
+		<BagType>6</BagType>
+		<OldSound>bladeSwing</OldSound>
+	</Object>
+</Objects>

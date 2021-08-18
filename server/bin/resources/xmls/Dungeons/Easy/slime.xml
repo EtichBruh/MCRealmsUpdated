@@ -1,0 +1,72 @@
+﻿<Objects>
+	<Object type="0x5595" id="Slime Basher">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\slimeBasher</Id>
+		</RemoteTexture>
+		<SlotType>1</SlotType>
+		<Description>so slime???????????</Description>
+		<RateOfFire>1.75</RateOfFire>
+		<Sound>weapon/blunt_sword</Sound>
+		<Projectile>
+			<ObjectId>Slime Projectile</ObjectId>
+			<Speed>145</Speed>
+			<MinDamage>80</MinDamage>
+			<MaxDamage>195</MaxDamage>
+			<LifetimeMS>550</LifetimeMS>
+			<MultiHit/>
+			<Amplitude>0.5</Amplitude>
+			<Frequency>0.9</Frequency>
+			<Size>145</Size>
+		</Projectile>
+		<Uncommon/>
+		<BagType>6</BagType>
+		<OldSound>bladeSwing</OldSound>
+	</Object>
+	<Object type="0x4243" id="Slime Boots">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\MC\slimeBoots</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>so slime??????????</Description>
+		<ActivateOnEquip stat="22" amount="300">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="-10000">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="28" amount="-1000">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<Uncommon/>		
+		<FameBonus>10</FameBonus>
+	</Object>
+	   <Object type="0x4426" id="Slime Staff">
+      <Class>Equipment</Class>
+      <Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\slimestaff</Id>
+		</RemoteTexture>
+      <SlotType>17</SlotType>
+      <Description> nigger a d lold</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/wand_of_death</Sound>
+      <Projectile>
+         <ObjectId>Stinger</ObjectId>
+         <Speed>180</Speed>
+         <MinDamage>125</MinDamage>
+         <MaxDamage>150</MaxDamage>
+         <LifetimeMS>600</LifetimeMS>
+         <Amplitude>0.5</Amplitude>
+         <Frequency>3</Frequency>
+		 <ArmorPiercing/>
+      </Projectile>
+	 <Uncommon/>
+      <BagType>6</BagType>
+      <FameBonus>7</FameBonus>
+      <NumProjectiles>2</NumProjectiles>
+      <ArcGap>0</ArcGap>
+      <OldSound>magicShoot</OldSound>
+   </Object>
+</Objects>

@@ -1,0 +1,61 @@
+﻿<Objects>
+		<Object type="0x5684" id="Vindicator's Ram Axe">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\pillageraxe</Id>
+		</RemoteTexture>
+		<SlotType>30</SlotType>
+		<Description>slice em cut em fuck em</Description>
+		<RateOfFire>1.35</RateOfFire>
+		<Sound>weapon/blunt_sword</Sound>
+		<Projectile>
+			<ObjectId>Iron Axe Projectile</ObjectId>
+			<Speed>145</Speed>
+			<MinDamage>475</MinDamage>
+			<MaxDamage>1600</MaxDamage>
+			<LifetimeMS>555</LifetimeMS>
+			<Size>222</Size>
+		</Projectile>
+		<Legendary/>
+		<NumProjectiles>2</NumProjectiles>
+		<ArcGap>6</ArcGap>
+		<BagType>6</BagType>
+		<OldSound>bladeSwing</OldSound>
+	</Object>
+	
+	<Object type="0x5685" id="Evokers Powerful Potion">
+		<Class>Equipment</Class>
+		<Usable/>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Abilitys\witchpot</Id>
+		</RemoteTexture>
+		<SlotType>4</SlotType>
+		<Description>splash mobs with this</Description>
+		<Sound>spell/major_heal</Sound>
+		<Activate radius="5" totalDamage="50000" duration="2">PoisonGrenade</Activate>
+		<Legendary/>
+		<BagType>6</BagType>
+		<FameBonus>15</FameBonus>
+		<Cooldown>4</Cooldown>
+		<MpCost>250</MpCost>
+	</Object>
+
+	<Object type="0x5101" id="Totem of Undying">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\totem</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>this is for pussys</Description>
+		<ActivateOnEquip stat="0" amount="15000">IncrementStat</ActivateOnEquip>	
+		<Legendary/>		
+		<BagType>6</BagType>
+		<FameBonus>50</FameBonus>
+	</Object>
+</Objects>

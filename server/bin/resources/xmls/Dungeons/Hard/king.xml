@@ -1,0 +1,54 @@
+﻿<Objects>
+ 	<Object type="0x5124" id="Royal Sword Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\royalSword</Id>
+			<Right/>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x4356" id="Royal Sword">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\royalSword</Id>
+		</RemoteTexture>
+		<SlotType>1</SlotType>
+		<Description>ahh shit</Description>
+		<RateOfFire>1.25</RateOfFire>
+		<Sound>weapon/blunt_sword</Sound>
+		<Projectile>
+			<ObjectId>Royal Sword Projectile</ObjectId>
+			<Speed>90</Speed>
+			<MinDamage>250</MinDamage>
+			<MaxDamage>600</MaxDamage>
+			<LifetimeMS>900</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>250</Size>
+			<Wavy/>			
+		</Projectile>
+		<Legendary/>
+		<NumProjectiles>3</NumProjectiles>
+		<ArcGap>13</ArcGap>
+		<BagType>6</BagType>
+		<OldSound>bladeSwing</OldSound>
+	</Object>
+	
+	<Object type="0x5129" id="Royal Armor">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\royalArmor</Id>
+		</RemoteTexture>
+		<SlotType>7</SlotType>
+		<Description>creampie lol</Description>
+		<ActivateOnEquip stat="0" amount="20000">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="4000">IncrementStat</ActivateOnEquip>
+		<Legendary/>
+		<BagType>6</BagType>
+		<FameBonus>5</FameBonus>
+	</Object>
+</Objects>

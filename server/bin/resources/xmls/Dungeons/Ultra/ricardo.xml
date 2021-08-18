@@ -1,0 +1,68 @@
+﻿<Objects>
+      <Object type="0x8886" id="Ricardo Axe Projectile">
+      <Class>Projectile</Class>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x65</Index>
+      </Texture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+     <Object type="0x8887" id="Ricardo's Cock of Death">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x65</Index>
+      </Texture>
+      <SlotType>30</SlotType>
+      <Description>uwu omg big af ricardo be packin doe.</Description>
+      <RateOfFire>0.9</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Ricardo Axe Projectile</ObjectId>
+         <Speed>120</Speed>
+         <MinDamage>5000</MinDamage>
+         <MaxDamage>22000</MaxDamage>
+         <LifetimeMS>500</LifetimeMS>
+         <Size>200</Size>		 
+		 <ArmorPiercing/>		 
+      </Projectile>
+	  <Legendary/>
+      <BagType>6</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+   
+ 	<Object type="0x8888" id="Ricardo's Speedo">
+		<Class>Equipment</Class>
+		<Usable/>
+		<Item/>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x64</Index>
+      </Texture>
+		<SlotType>4</SlotType>
+		<Description>omg</Description>
+		<Sound>spell/major_heal</Sound> 
+        <Activate stat="3" amount="2500000" duration="15" range="6">StatBoostAura</Activate>					
+        <Activate stat="27" amount="250000" duration="5" range="6">StatBoostAura</Activate>		
+		<BagType>6</BagType>
+		<Legendary/>
+		<FameBonus>500</FameBonus>
+		<Cooldown>25</Cooldown>
+		<MpCost>0</MpCost>
+	</Object> 
+
+	<Object type="0x8889" id="Ricardo's Magical Cum">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>lofiItems16x16</File>
+			<Index>0x66</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>craft nigga.</Description>
+		<Sound>use_key</Sound>
+		<BagType>6</BagType>
+   </Object> 	
+</Objects>

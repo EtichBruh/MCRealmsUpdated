@@ -1,0 +1,76 @@
+﻿<Objects>
+	<Object type="0x8421" id="Freddy's Bras">
+		<Class>Equipment</Class>
+		<Usable/>
+		<Item/>
+        <Texture> 
+           <File>lofiItems16x16</File>
+           <Index>0x16</Index>
+        </Texture>
+		<SlotType>4</SlotType>
+		<Description>freddys bras so cool</Description>
+		<Sound>spell/major_heal</Sound> 
+        <Activate stat="28" amount="500" duration="5" range="2">StatBoostAura</Activate>				
+        <Activate stat="21" amount="800" duration="5" range="2">StatBoostAura</Activate>		
+		<BagType>6</BagType>
+		<FameBonus>250</FameBonus>
+		<Epic/>
+		<Cooldown>7.5</Cooldown>
+		<MpCost>800</MpCost>
+	</Object>
+	
+	<Object type="0x8422" id="Chica's Panties">
+		<Class>Equipment</Class>
+		<Usable/>
+		<Item/>
+        <Texture>
+           <File>lofiItems16x16</File>
+           <Index>0x17</Index>
+        </Texture>
+		<SlotType>4</SlotType>
+		<Description>these panties smell so cheese</Description>
+		<Sound>spell/major_heal</Sound>
+        <Activate stat="3" amount="50000" duration="15" range="5">StatBoostAura</Activate>						
+        <Activate stat="27" amount="2000" duration="15" range="5.5">StatBoostAura</Activate>				
+		<BagType>6</BagType>
+		<Legendary/>
+		<FameBonus>500</FameBonus>
+		<Cooldown>40</Cooldown>
+		<Epic/>
+		<MpCost>0</MpCost>
+	</Object>
+	
+	   <Object type="0x8236" id="Sexy Dress of Bonnie">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x18</Index>
+      </Texture>
+      <SlotType>7</SlotType>
+      <Description>omg so sexy uwu, wish would look dirty with it owo.</Description>
+      <ActivateOnEquip stat="3" amount="125000">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="27" amount="70000">IncrementStat</ActivateOnEquip>	
+      <ActivateOnEquip stat="21" amount="450">IncrementStat</ActivateOnEquip>
+		<Epic/>	  
+      <BagType>6</BagType>
+   </Object>
+   
+     <Object type="0x8237" id="so Bad Ring of Fuckers">
+		<Class>Equipment</Class>
+		<Usable/>
+		<Item/>
+        <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x19</Index>
+        </Texture>
+		<SlotType>9</SlotType>
+		<Description>sheesh shit</Description>
+        <ActivateOnEquip stat="0" amount="150000">IncrementStat</ActivateOnEquip>	
+        <ActivateOnEquip stat="3" amount="150000">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="20" amount="600">IncrementStat</ActivateOnEquip>
+        <ActivateOnEquip stat="28" amount="600">IncrementStat</ActivateOnEquip>
+		<Epic/>
+		<BagType>6</BagType>
+	</Object>
+</Objects>

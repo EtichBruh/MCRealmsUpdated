@@ -1,0 +1,289 @@
+<Objects>
+      <Object type="0x8980" id="Wooden Hoe Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Hoes\WoodenHoe</Id>
+         <Right/>
+      </RemoteTexture>
+      <Rotation>100</Rotation>
+      <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+     <Object type="0x8981" id="Wooden Hoe">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Hoes\WoodenHoe</Id>
+      </RemoteTexture>
+      <SlotType>18</SlotType>
+      <Tier>0</Tier>
+      <Description>A basic Hoe made for practice.</Description>
+      <RateOfFire>1.1</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Wooden Hoe Projectile</ObjectId>
+         <Speed>120</Speed>
+         <MinDamage>55</MinDamage>
+         <MaxDamage>90</MaxDamage>
+         <LifetimeMS>700</LifetimeMS>
+         <Size>150</Size>
+         <Boomerang/>
+      </Projectile>
+      <BagType>1</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+
+      <Object type="0x8982" id="Stone Hoe Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Hoes\StoneHoe</Id>
+         <Right/>
+      </RemoteTexture>
+      <Rotation>100</Rotation>
+      <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+     <Object type="0x8983" id="Stone Hoe">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Hoes\StoneHoe</Id>
+      </RemoteTexture>
+      <SlotType>18</SlotType>
+      <Tier>1</Tier>
+      <Description>A Stone Hoe made for fisting.</Description>
+      <RateOfFire>1.1</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Stone Hoe Projectile</ObjectId>
+         <Speed>200</Speed>
+         <MinDamage>70</MinDamage>
+         <MaxDamage>115</MaxDamage>
+         <LifetimeMS>700</LifetimeMS>
+         <Size>150</Size>
+         <Boomerang/>
+      </Projectile>
+      <BagType>2</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+
+      <Object type="0x8984" id="RedStone Hoe Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Hoes\RedStoneHoe</Id>
+         <Right/>
+      </RemoteTexture>
+      <Rotation>100</Rotation>
+      <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+     <Object type="0x8985" id="RedStone Hoe">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Hoes\RedStoneHoe</Id>
+      </RemoteTexture>
+      <SlotType>18</SlotType>
+      <Tier>2</Tier>
+      <Description>A RedStone Hoe made for robots.</Description>
+      <RateOfFire>1.1</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>RedStone Hoe Projectile</ObjectId>
+         <Speed>200</Speed>
+         <MinDamage>80</MinDamage>
+         <MaxDamage>130</MaxDamage>
+         <LifetimeMS>700</LifetimeMS>
+         <Size>150</Size>
+         <Boomerang/>
+      </Projectile>
+      <BagType>2</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+
+      <Object type="0x8986" id="LapisLazuri Hoe Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Hoes\LapisLazuriHoe</Id>
+         <Right/>
+      </RemoteTexture>
+      <Rotation>100</Rotation>
+      <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+     <Object type="0x8987" id="LapisLazuri Hoe">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Hoes\LapisLazuriHoe</Id>
+      </RemoteTexture>
+      <SlotType>18</SlotType>
+      <Tier>3</Tier>
+      <Description>A LapisLazuri Hoe made for enchanment.</Description>
+      <RateOfFire>1.1</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>LapisLazuri Hoe Projectile</ObjectId>
+         <Speed>200</Speed>
+         <MinDamage>90</MinDamage>
+         <MaxDamage>150</MaxDamage>
+         <LifetimeMS>700</LifetimeMS>
+         <Size>155</Size>
+         <Boomerang/>
+      </Projectile>
+      <BagType>2</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+
+      <Object type="0x8988" id="Golden Hoe Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Hoes\GoldenHoe</Id>
+         <Right/>
+      </RemoteTexture>
+      <Rotation>100</Rotation>
+      <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+     <Object type="0x8989" id="Golden Hoe">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Hoes\GoldenHoe</Id>
+      </RemoteTexture>
+      <SlotType>18</SlotType>
+      <Tier>4</Tier>
+      <Description>A Golden Hoe made for flex.</Description>
+      <RateOfFire>1.1</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Golden Hoe Projectile</ObjectId>
+         <Speed>200</Speed>
+         <MinDamage>110</MinDamage>
+         <MaxDamage>160</MaxDamage>
+         <LifetimeMS>700</LifetimeMS>
+         <Size>160</Size>
+         <Boomerang/>
+      </Projectile>
+      <BagType>2</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+
+      <Object type="0x8990" id="Iron Hoe Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Hoes\IronHoe</Id>
+         <Right/>
+      </RemoteTexture>
+      <Rotation>100</Rotation>
+      <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+     <Object type="0x8991" id="Iron Hoe">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Hoes\IronHoe</Id>
+      </RemoteTexture>
+      <SlotType>18</SlotType>
+      <Tier>5</Tier>
+      <Description>A Iron Hoe made for defense.</Description>
+      <RateOfFire>1.1</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Iron Hoe Projectile</ObjectId>
+         <Speed>200</Speed>
+         <MinDamage>120</MinDamage>
+         <MaxDamage>175</MaxDamage>
+         <LifetimeMS>700</LifetimeMS>
+         <Size>165</Size>
+         <Boomerang/>
+      </Projectile>
+      <BagType>2</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+
+      <Object type="0x8992" id="Diamond Hoe Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Hoes\DiamondHoe</Id>
+         <Right/>
+      </RemoteTexture>
+      <Rotation>100</Rotation>
+      <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+     <Object type="0x8993" id="Diamond Hoe">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Hoes\DiamondHoe</Id>
+      </RemoteTexture>
+      <SlotType>18</SlotType>
+      <Tier>6</Tier>
+      <Description>A Diamond Hoe made for defense.</Description>
+      <RateOfFire>1.1</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Diamond Hoe Projectile</ObjectId>
+         <Speed>200</Speed>
+         <MinDamage>135</MinDamage>
+         <MaxDamage>190</MaxDamage>
+         <LifetimeMS>700</LifetimeMS>
+         <Size>170</Size>
+         <Boomerang/>
+      </Projectile>
+      <BagType>2</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+   
+      <Object type="0x8994" id="Emerald Hoe Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Hoes\EmeraldHoe</Id>
+         <Right/>
+      </RemoteTexture>
+      <Rotation>100</Rotation>
+      <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+     <Object type="0x8995" id="Emerald Hoe">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Hoes\EmeraldHoe</Id>
+      </RemoteTexture>
+      <SlotType>18</SlotType>
+      <Tier>6</Tier>
+      <Description>A Emerald Hoe made for trading.</Description>
+      <RateOfFire>1.1</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Emerald Hoe Projectile</ObjectId>
+         <Speed>200</Speed>
+         <MinDamage>150</MinDamage>
+         <MaxDamage>210</MaxDamage>
+         <LifetimeMS>700</LifetimeMS>
+         <Size>180</Size>
+         <Boomerang/>
+      </Projectile>
+      <BagType>2</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+</Objects>

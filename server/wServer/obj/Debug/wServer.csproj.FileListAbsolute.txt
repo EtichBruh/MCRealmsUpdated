@@ -1,0 +1,40 @@
+D:\heatblast-main\heatblast-main\MC-realm-master\server\bin\log4net.config
+D:\heatblast-main\heatblast-main\MC-realm-master\server\bin\wServer.json
+D:\heatblast-main\heatblast-main\MC-realm-master\server\bin\WorldEngine.exe.config
+D:\heatblast-main\heatblast-main\MC-realm-master\server\bin\WorldEngine.exe
+D:\heatblast-main\heatblast-main\MC-realm-master\server\bin\WorldEngine.pdb
+D:\heatblast-main\heatblast-main\MC-realm-master\server\wServer\obj\Debug\wServer.csprojAssemblyReference.cache
+D:\heatblast-main\heatblast-main\MC-realm-master\server\wServer\obj\Debug\wServer.csproj.CoreCompileInputs.cache
+D:\heatblast-main\heatblast-main\MC-realm-master\server\wServer\obj\Debug\wServer.csproj.CopyComplete
+D:\heatblast-main\heatblast-main\MC-realm-master\server\wServer\obj\Debug\WorldEngine.exe
+D:\heatblast-main\heatblast-main\MC-realm-master\server\wServer\obj\Debug\WorldEngine.pdb
+D:\heatblast-main\heatblast-main\heatblast-main\heatblast-main\MC-realm-master\server\bin\log4net.config
+D:\heatblast-main\heatblast-main\heatblast-main\heatblast-main\MC-realm-master\server\bin\wServer.json
+D:\heatblast-main\heatblast-main\heatblast-main\heatblast-main\MC-realm-master\server\bin\WorldEngine.exe.config
+D:\heatblast-main\heatblast-main\heatblast-main\heatblast-main\MC-realm-master\server\bin\WorldEngine.exe
+D:\heatblast-main\heatblast-main\heatblast-main\heatblast-main\MC-realm-master\server\bin\WorldEngine.pdb
+D:\heatblast-main\heatblast-main\heatblast-main\heatblast-main\MC-realm-master\server\wServer\obj\Debug\wServer.csprojAssemblyReference.cache
+D:\heatblast-main\heatblast-main\heatblast-main\heatblast-main\MC-realm-master\server\wServer\obj\Debug\wServer.csproj.CoreCompileInputs.cache
+D:\heatblast-main\heatblast-main\heatblast-main\heatblast-main\MC-realm-master\server\wServer\obj\Debug\wServer.csproj.CopyComplete
+D:\heatblast-main\heatblast-main\heatblast-main\heatblast-main\MC-realm-master\server\wServer\obj\Debug\WorldEngine.exe
+D:\heatblast-main\heatblast-main\heatblast-main\heatblast-main\MC-realm-master\server\wServer\obj\Debug\WorldEngine.pdb
+C:\Users\я\Downloads\MC realms\server\bin\log4net.config
+C:\Users\я\Downloads\MC realms\server\bin\wServer.json
+C:\Users\я\Downloads\MC realms\server\bin\WorldEngine.exe.config
+C:\Users\я\Downloads\MC realms\server\bin\WorldEngine.exe
+C:\Users\я\Downloads\MC realms\server\bin\WorldEngine.pdb
+C:\Users\я\Downloads\MC realms\server\wServer\obj\Debug\wServer.csproj.AssemblyReference.cache
+C:\Users\я\Downloads\MC realms\server\wServer\obj\Debug\wServer.csproj.CoreCompileInputs.cache
+C:\Users\я\Downloads\MC realms\server\wServer\obj\Debug\wServer.csproj.CopyComplete
+C:\Users\я\Downloads\MC realms\server\wServer\obj\Debug\WorldEngine.exe
+C:\Users\я\Downloads\MC realms\server\wServer\obj\Debug\WorldEngine.pdb
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\bin\log4net.config
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\bin\wServer.json
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\bin\WorldEngine.exe.config
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\bin\WorldEngine.exe
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\bin\WorldEngine.pdb
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\wServer\obj\Debug\wServer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\wServer\obj\Debug\wServer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\wServer\obj\Debug\wServer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\wServer\obj\Debug\WorldEngine.exe
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\wServer\obj\Debug\WorldEngine.pdb

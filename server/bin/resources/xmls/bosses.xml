@@ -1,0 +1,2304 @@
+﻿<Objects>
+	<Object type="0x8439" id="Emerald Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\MC\emerald</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x8440" id="Wither Skull Shot">
+		<Class>Projectile</Class>
+		<Texture>
+			<File>lofiProjs</File>
+			<Index>0x97</Index>
+		</Texture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x8441" id="Wither Skull Shot Blue">
+		<Class>Projectile</Class>
+		<Texture>
+			<File>lofiProjs</File>
+			<Index>0x98</Index>
+		</Texture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x8444" id="MC Cow">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>3</Index>
+		</Texture>
+		<HitSound>monster/creeper_hit</HitSound>
+		<DeathSound>monster/creeper_death</DeathSound>
+		<Sound id="0">monster/creeper_hit</Sound>
+		<MaxHitPoints>4500</MaxHitPoints>
+		<Size>50</Size>
+		<Defense>25</Defense>
+		<Experience>150</Experience>
+		<NoArticle/>
+	</Object>
+	<Object type="0x8446" id="MC Pig">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>5</Index>
+		</Texture>
+		<HitSound>monster/creeper_hit</HitSound>
+		<DeathSound>monster/creeper_death</DeathSound>
+		<Sound id="0">monster/creeper_hit</Sound>
+		<MaxHitPoints>2500</MaxHitPoints>
+		<Size>30</Size>
+		<Defense>25</Defense>
+		<Experience>150</Experience>
+		<NoArticle/>
+	</Object>
+	<Object type="0x8447" id="MC Sheep">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>4</Index>
+		</Texture>
+		<HitSound>monster/creeper_hit</HitSound>
+		<DeathSound>monster/creeper_death</DeathSound>
+		<Sound id="0">monster/creeper_hit</Sound>
+		<MaxHitPoints>4000</MaxHitPoints>
+		<Size>50</Size>
+		<Defense>25</Defense>
+		<Experience>150</Experience>
+		<NoArticle/>
+	</Object>
+	<Object type="0x8448" id="MC Chicken">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>6</Index>
+		</Texture>
+		<HitSound>monster/creeper_hit</HitSound>
+		<DeathSound>monster/creeper_death</DeathSound>
+		<Sound id="0">monster/creeper_hit</Sound>
+		<MaxHitPoints>1500</MaxHitPoints>
+		<Size>25</Size>
+		<Defense>25</Defense>
+		<Experience>150</Experience>
+		<NoArticle/>
+	</Object>
+	<Object type="0x8261" id="MC Slime">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>7</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>25000</MaxHitPoints>
+		<Size>50</Size>
+		<Defense>25</Defense>
+		<Experience>5000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Slime Projectile</ObjectId>
+			<Damage>80</Damage>
+			<Speed>190</Speed>
+			<LifetimeMS>3500</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>170</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x8264" id="MC Slime Minion">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>7</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>5000</MaxHitPoints>
+		<Size>30</Size>
+		<Defense>25</Defense>
+		<Experience>10000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Slime Projectile</ObjectId>
+			<Damage>35</Damage>
+			<Speed>135</Speed>
+			<LifetimeMS>2600</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>120</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x5428" id="Slime Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\slime</Id>
+			<Right/>
+		</RemoteTexture>
+		<Rotation>60</Rotation>
+	</Object>
+	<Object type="0x8443" id="MC Creeper">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>2</Index>
+		</Texture>
+		<HitSound>monster/creeper_hit</HitSound>
+		<DeathSound>monster/creeper_death</DeathSound>
+		<MaxHitPoints>40000</MaxHitPoints>
+		<Size>45</Size>
+		<Defense>25</Defense>
+		<Experience>500</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Green Gas</ObjectId>
+			<Damage>50</Damage>
+			<Speed>125</Speed>
+			<LifetimeMS>4500</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>125</Size>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Green Gas</ObjectId>
+			<Damage>100</Damage>
+			<Speed>55</Speed>
+			<LifetimeMS>4500</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>70</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x8450" id="MC Skeleton">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>8</Index>
+		</Texture>
+		<HitSound>monster/demons_hit</HitSound>
+		<DeathSound>monster/demons_death</DeathSound>
+		<MaxHitPoints>40000</MaxHitPoints>
+		<Size>50</Size>
+		<Defense>50</Defense>
+		<Experience>2500</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Wooden Arrow</ObjectId>
+			<Damage>45</Damage>
+			<Speed>145</Speed>
+			<LifetimeMS>4500</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>125</Size>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Wooden Arrow</ObjectId>
+			<Damage>100</Damage>
+			<Speed>100</Speed>
+			<LifetimeMS>4500</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>160</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x8451" id="MC Spider">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>9</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>25000</MaxHitPoints>
+		<Size>40</Size>
+		<Defense>50</Defense>
+		<Experience>2500</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Web Thread</ObjectId>
+			<Damage>40</Damage>
+			<Speed>70</Speed>
+			<LifetimeMS>4500</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>90</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x8452" id="MC Zombie">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>10</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>50000</MaxHitPoints>
+		<Size>50</Size>
+		<Defense>50</Defense>
+		<Experience>2500</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>r0tten flesh</ObjectId>
+			<Damage>80</Damage>
+			<Speed>150</Speed>
+			<LifetimeMS>3000</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>115</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x8458" id="MC Herobrine">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>12</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>80000</MaxHitPoints>
+		<Size>60</Size>
+		<Defense>70</Defense>
+		<Experience>7500</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Herobrines Projectile</ObjectId>
+			<Damage>180</Damage>
+			<Speed>125</Speed>
+			<LifetimeMS>3000</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>155</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x8459" id="MC Vindicator">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>14</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>300000</MaxHitPoints>
+		<Size>70</Size>
+		<Defense>70</Defense>
+		<Experience>25000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Iron Axe Projectile</ObjectId>
+			<Damage>2500</Damage>
+			<Speed>250</Speed>
+			<LifetimeMS>2250</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>200</Size>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Iron Axe Projectile</ObjectId>
+			<Damage>1250</Damage>
+			<Speed>125</Speed>
+			<LifetimeMS>1500</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>350</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x8469" id="MC Evoker">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>16</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>350000</MaxHitPoints>
+		<Size>70</Size>
+		<Defense>70</Defense>
+		<Experience>25000</Experience>
+		<NoArticle/>
+	</Object>
+	<Object type="0x8349" id="MC Vex">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>15</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>70000</MaxHitPoints>
+		<Size>30</Size>
+		<Defense>70</Defense>
+		<Experience>1000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Iron Sword Projectile</ObjectId>
+			<Damage>70</Damage>
+			<Speed>170</Speed>
+			<LifetimeMS>6000</LifetimeMS>
+			<Size>60</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x8460" id="MC Ravanger">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>13</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>25000</MaxHitPoints>
+		<Size>40</Size>
+		<Defense>70</Defense>
+		<Experience>25000</Experience>
+		<NoArticle/>
+	</Object>
+	<Object type="0x8461" id="MC Witch">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>17</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>60000</MaxHitPoints>
+		<Size>45</Size>
+		<Defense>5</Defense>
+		<Experience>10000</Experience>
+		<NoArticle/>
+	</Object>
+	<Object type="0x8462" id="MC Miner">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>18</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>40000</MaxHitPoints>
+		<Size>45</Size>
+		<Defense>5</Defense>
+		<Experience>10000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Diamond Pickaxe Projectile</ObjectId>
+			<Damage>70</Damage>
+			<Speed>80</Speed>
+			<LifetimeMS>3500</LifetimeMS>
+			<Size>80</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x8463" id="MC Steve Jobs">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>20</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>180000</MaxHitPoints>
+		<Size>70</Size>
+		<Defense>5</Defense>
+		<Experience>200000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Apple Projectile</ObjectId>
+			<Damage>600</Damage>
+			<Speed>135</Speed>
+			<LifetimeMS>6000</LifetimeMS>
+			<Size>300</Size>
+			<ArmorPiercing/>
+		</Projectile>
+	</Object>
+	<Object type="0x5245" id="Apple Projectile">
+		<Class>Projectile</Class>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x46</Index>
+		</Texture>
+	</Object>
+	<Object type="0x8464" id="MC Piglin">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>23</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>65000</MaxHitPoints>
+		<Size>50</Size>
+		<Defense>50</Defense>
+		<Experience>40000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Golden Sword Projectile</ObjectId>
+			<Damage>300</Damage>
+			<Speed>125</Speed>
+			<LifetimeMS>500</LifetimeMS>
+			<Size>250</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x8465" id="MC Blaze">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>24</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>80000</MaxHitPoints>
+		<Size>50</Size>
+		<Defense>25</Defense>
+		<Experience>40000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Blaze Projectile</ObjectId>
+			<Damage>250</Damage>
+			<Speed>180</Speed>
+			<LifetimeMS>5000</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>125</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x8466" id="MC Ghast">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>25</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>90000</MaxHitPoints>
+		<Size>50</Size>
+		<Defense>25</Defense>
+		<Experience>40000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Fireball Projectile</ObjectId>
+			<Damage>150</Damage>
+			<Speed>70</Speed>
+			<LifetimeMS>5000</LifetimeMS>
+			<Size>70</Size>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Fireball Projectile</ObjectId>
+			<Damage>400</Damage>
+			<Speed>125</Speed>
+			<LifetimeMS>5000</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>250</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x8467" id="MC Magma Cube">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>26</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>70000</MaxHitPoints>
+		<Size>50</Size>
+		<Defense>25</Defense>
+		<Experience>40000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Magma Projectile</ObjectId>
+			<Damage>200</Damage>
+			<Speed>200</Speed>
+			<LifetimeMS>3500</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>170</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x8427" id="MC Magma Cube Minion">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>26</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>17500</MaxHitPoints>
+		<Size>25</Size>
+		<Defense>25</Defense>
+		<Experience>10000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Magma Projectile</ObjectId>
+			<Damage>200</Damage>
+			<Speed>200</Speed>
+			<LifetimeMS>1250</LifetimeMS>
+			<Size>115</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x5688" id="Magma Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\magma</Id>
+			<Right/>
+		</RemoteTexture>
+		<Rotation>60</Rotation>
+	</Object>
+	<Object type="0x5489" id="Blaze Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\blaze</Id>
+			<Right/>
+		</RemoteTexture>
+	</Object>
+	<Object type="0x5690" id="Fireball Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Fireball</Id>
+			<Right/>
+		</RemoteTexture>
+	</Object>
+	<Object type="0x8468" id="MC Wither Skeleton">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>27</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>80000</MaxHitPoints>
+		<Size>50</Size>
+		<Defense>60</Defense>
+		<Experience>40000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Stone Sword Projectile</ObjectId>
+			<Damage>400</Damage>
+			<Speed>160</Speed>
+			<LifetimeMS>1500</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>250</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x8239" id="MC Elder Guardian">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>28</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>80000</MaxHitPoints>
+		<Size>60</Size>
+		<Defense>60</Defense>
+		<Experience>25000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Super Blast Purple</ObjectId>
+			<Damage>100</Damage>
+			<Speed>135</Speed>
+			<LifetimeMS>3500</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>250</Size>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Super Blast Red</ObjectId>
+			<Damage>160</Damage>
+			<Speed>135</Speed>
+			<LifetimeMS>450</LifetimeMS>
+			<Size>250</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x8240" id="MC Ender Dragon">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>29</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>150000</MaxHitPoints>
+		<Size>70</Size>
+		<Defense>60</Defense>
+		<Experience>250000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Dragon Eye Blast</ObjectId>
+			<Damage>500</Damage>
+			<Speed>45</Speed>
+			<Size>350</Size>
+			<LifetimeMS>4000</LifetimeMS>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Dragon Eye Blast</ObjectId>
+			<Damage>700</Damage>
+			<Speed>110</Speed>
+			<Size>255</Size>
+			<LifetimeMS>4000</LifetimeMS>
+		</Projectile>
+	</Object>
+	<Object type="0x8241" id="MC Obsidian Pillar">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>30</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>80000</MaxHitPoints>
+		<Size>40</Size>
+		<Defense>25</Defense>
+		<Experience>10000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Dragon Eye Blast</ObjectId>
+			<Damage>600</Damage>
+			<Speed>110</Speed>
+			<Size>165</Size>
+			<LifetimeMS>2700</LifetimeMS>
+		</Projectile>
+	</Object>
+	<Object type="0x8242" id="MC Enderman">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>32</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>70000</MaxHitPoints>
+		<Size>50</Size>
+		<Defense>35</Defense>
+		<Experience>25000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Dragon Eye Blast</ObjectId>
+			<Damage>250</Damage>
+			<Speed>150</Speed>
+			<Size>165</Size>
+			<LifetimeMS>2700</LifetimeMS>
+		</Projectile>
+	</Object>
+	<Object type="0x8243" id="MC Hamood">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>34</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>35000</MaxHitPoints>
+		<Size>50</Size>
+		<Defense>35</Defense>
+		<Experience>5000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Fireball Projectile</ObjectId>
+			<Damage>70</Damage>
+			<Speed>150</Speed>
+			<Size>165</Size>
+			<LifetimeMS>2700</LifetimeMS>
+		</Projectile>
+	</Object>
+	<Object type="0x8244" id="MC Allah">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>35</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>500000</MaxHitPoints>
+		<Size>55</Size>
+		<Defense>100</Defense>
+		<Experience>5000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Fireball Projectile</ObjectId>
+			<Damage>5000</Damage>
+			<Speed>150</Speed>
+			<Size>165</Size>
+			<LifetimeMS>6000</LifetimeMS>
+		</Projectile>
+	</Object>
+	<Object type="0x8245" id="MC Toolsmith Villager">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>36</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>12500</MaxHitPoints>
+		<Size>45</Size>
+		<Defense>35</Defense>
+		<Experience>2500</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Iron Pickaxe Projectile</ObjectId>
+			<Damage>15</Damage>
+			<Speed>190</Speed>
+			<LifetimeMS>3000</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>200</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x8247" id="MC Weaponsmith Villager">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>37</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>12500</MaxHitPoints>
+		<Size>45</Size>
+		<Defense>35</Defense>
+		<Experience>2500</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Iron Sword Projectile</ObjectId>
+			<Damage>15</Damage>
+			<Speed>190</Speed>
+			<LifetimeMS>3000</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>200</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x8249" id="MC Mason Villager">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>38</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>12500</MaxHitPoints>
+		<Size>45</Size>
+		<Defense>35</Defense>
+		<Experience>2500</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Iron Wand Projectile</ObjectId>
+			<Damage>15</Damage>
+			<Speed>190</Speed>
+			<LifetimeMS>3000</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>200</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x8251" id="MC Armorer Villager">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>39</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>12500</MaxHitPoints>
+		<Size>45</Size>
+		<Defense>35</Defense>
+		<Experience>2500</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Armorer Projectile</ObjectId>
+			<Damage>15</Damage>
+			<Speed>190</Speed>
+			<LifetimeMS>3000</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>200</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x8252" id="Armorer Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Armor\iron</Id>
+			<Right/>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x8442" id="Wither Boss">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>1</Index>
+		</Texture>
+		<AltTexture id="1">
+			<Texture>
+				<File>MCbosses64x64</File>
+				<Index>0</Index>
+			</Texture>
+		</AltTexture>
+		<HitSound>monster/rocks_hit</HitSound>
+		<DeathSound>monster/rocks_death</DeathSound>
+		<MaxHitPoints>4000000</MaxHitPoints>
+		<Size>40</Size>
+		<Defense>70</Defense>
+		<Experience>50000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Wither Skull Shot</ObjectId>
+			<Damage>50000</Damage>
+			<Speed>135</Speed>
+			<LifetimeMS>6000</LifetimeMS>
+			<Size>190</Size>
+			<ArmorPiercing/>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Wither Skull Shot Blue</ObjectId>
+			<Damage>8000</Damage>
+			<Speed>170</Speed>
+			<LifetimeMS>6000</LifetimeMS>
+			<Size>190</Size>
+			<ArmorPiercing/>
+		</Projectile>
+	</Object>
+	<Object type="0x8254" id="Wither Statue 1">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>42</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>15000</MaxHitPoints>
+		<Size>40</Size>
+		<Defense>35</Defense>
+		<NoArticle/>
+	</Object>
+	<Object type="0x8255" id="Wither Statue 2">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>43</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>15000</MaxHitPoints>
+		<Size>40</Size>
+		<Defense>35</Defense>
+		<NoArticle/>
+	</Object>
+	<Object type="0x8256" id="Wither Statue 3">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>44</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>15000</MaxHitPoints>
+		<Size>40</Size>
+		<Defense>35</Defense>
+		<NoArticle/>
+	</Object>
+	<Object type="0x8257" id="Wither Statue 0">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>45</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>15000</MaxHitPoints>
+		<Size>40</Size>
+		<Defense>35</Defense>
+		<NoArticle/>
+	</Object>
+	<Object type="0x8258" id="MC GRASS PROJECTILE">
+		<Class>Projectile</Class>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x21</Index>
+		</Texture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x8259" id="MC STONE PROJECTILE">
+		<Class>Projectile</Class>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x23</Index>
+		</Texture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x8260" id="MC Wither Storm">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>33</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>1000000</MaxHitPoints>
+		<Size>80</Size>
+		<Defense>60</Defense>
+		<Experience>500000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>MC GRASS PROJECTILE</ObjectId>
+			<Damage>9000</Damage>
+			<Speed>100</Speed>
+			<Size>300</Size>
+			<LifetimeMS>15555</LifetimeMS>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>MC STONE PROJECTILE</ObjectId>
+			<Damage>25000</Damage>
+			<Speed>60</Speed>
+			<Size>350</Size>
+			<LifetimeMS>15555</LifetimeMS>
+		</Projectile>
+	</Object>
+	<Object type="0x8161" id="MC Iron Golem">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>40</Index>
+		</Texture>
+		<HitSound>monster/stone_walls_hit</HitSound>
+		<DeathSound>monster/stone_walls_death</DeathSound>
+		<MaxHitPoints>25000</MaxHitPoints>
+		<Size>60</Size>
+		<Defense>50</Defense>
+		<Experience>5000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Iron Sword Projectile</ObjectId>
+			<Damage>200</Damage>
+			<Speed>90</Speed>
+			<Size>250</Size>
+			<LifetimeMS>6000</LifetimeMS>
+		</Projectile>
+	</Object>
+	<Object type="0x8262" id="MC Polar Bear">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>46</Index>
+		</Texture>
+		<HitSound>monster/stone_walls_hit</HitSound>
+		<DeathSound>monster/stone_walls_death</DeathSound>
+		<MaxHitPoints>25000</MaxHitPoints>
+		<Size>55</Size>
+		<Defense>25</Defense>
+		<Experience>5000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>snow flakes</ObjectId>
+			<Damage>50</Damage>
+			<Speed>60</Speed>
+			<Size>155</Size>
+			<ArmorPiercing/>
+			<LifetimeMS>9000</LifetimeMS>
+		</Projectile>
+	</Object>
+	<Object type="0x8263" id="MC Zombie King">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>47</Index>
+		</Texture>
+		<HitSound>monster/stone_walls_hit</HitSound>
+		<DeathSound>monster/stone_walls_death</DeathSound>
+		<MaxHitPoints>125000</MaxHitPoints>
+		<Size>65</Size>
+		<Defense>25</Defense>
+		<Experience>25000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>r0tten flesh</ObjectId>
+			<Damage>300</Damage>
+			<Speed>150</Speed>
+			<Size>145</Size>
+			<ArmorPiercing/>
+			<Boomerang/>
+			<LifetimeMS>9000</LifetimeMS>
+		</Projectile>
+	</Object>
+	<Object type="0x8265" id="MC Godzilla">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>48</Index>
+		</Texture>
+		<HitSound>monster/stone_walls_hit</HitSound>
+		<DeathSound>monster/stone_walls_death</DeathSound>
+		<MaxHitPoints>500000</MaxHitPoints>
+		<Size>100</Size>
+		<Defense>40</Defense>
+		<Experience>500000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Directed Explosion</ObjectId>
+			<Damage>1250</Damage>
+			<Speed>110</Speed>
+			<Size>145</Size>
+			<ArmorPiercing/>
+			<LifetimeMS>9000</LifetimeMS>
+		</Projectile>
+	</Object>
+	<Object type="0x8266" id="thanos 1">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\thanos1</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x8267" id="thanos 2">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\thanos2</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x8268" id="thanos 3">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\thanos3</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x8269" id="thanos 4">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\thanos4</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x8270" id="thanos 5">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\thanos5</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x8271" id="thanos 6">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\thanos6</Id>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x8272" id="MC Thanos">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>49</Index>
+		</Texture>
+		<HitSound>monster/stone_walls_hit</HitSound>
+		<DeathSound>monster/stone_walls_death</DeathSound>
+		<MaxHitPoints>2500000</MaxHitPoints>
+		<Size>45</Size>
+		<Defense>40</Defense>
+		<Experience>1000000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>thanos 1</ObjectId>
+			<Damage>7500</Damage>
+			<Speed>225</Speed>
+			<Size>225</Size>
+			<MultiHit/>
+			<LifetimeMS>9000</LifetimeMS>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>thanos 2</ObjectId>
+			<Damage>10000</Damage>
+			<Speed>225</Speed>
+			<Size>225</Size>
+			<MultiHit/>
+			<LifetimeMS>9000</LifetimeMS>
+		</Projectile>
+		<Projectile id="2">
+			<ObjectId>thanos 3</ObjectId>
+			<Damage>20000</Damage>
+			<Speed>225</Speed>
+			<Size>225</Size>
+			<MultiHit/>
+			<LifetimeMS>9000</LifetimeMS>
+		</Projectile>
+		<Projectile id="3">
+			<ObjectId>thanos 4</ObjectId>
+			<Damage>30000</Damage>
+			<Speed>225</Speed>
+			<Size>225</Size>
+			<MultiHit/>
+			<LifetimeMS>9000</LifetimeMS>
+		</Projectile>
+		<Projectile id="4">
+			<ObjectId>thanos 5</ObjectId>
+			<Damage>40000</Damage>
+			<Speed>225</Speed>
+			<Size>225</Size>
+			<MultiHit/>
+			<LifetimeMS>9000</LifetimeMS>
+		</Projectile>
+		<Projectile id="5">
+			<ObjectId>thanos 6</ObjectId>
+			<Damage>50000</Damage>
+			<Speed>225</Speed>
+			<Size>225</Size>
+			<MultiHit/>
+			<LifetimeMS>9000</LifetimeMS>
+		</Projectile>
+	</Object>
+	<Object type="0x8273" id="MC Sonic">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>50</Index>
+		</Texture>
+		<HitSound>monster/stone_walls_hit</HitSound>
+		<DeathSound>monster/stone_walls_death</DeathSound>
+		<MaxHitPoints>1000000</MaxHitPoints>
+		<Size>50</Size>
+		<Defense>25</Defense>
+		<Experience>1000000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Vortex</ObjectId>
+			<Damage>1000</Damage>
+			<Speed>200</Speed>
+			<Size>200</Size>
+			<MultiHit/>
+			<ArmorPiercing/>
+			<LifetimeMS>9000</LifetimeMS>
+		</Projectile>
+	</Object>
+	<Object type="0x8274" id="MC Bee">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>51</Index>
+		</Texture>
+		<HitSound>monster/stone_walls_hit</HitSound>
+		<DeathSound>monster/stone_walls_death</DeathSound>
+		<MaxHitPoints>90000</MaxHitPoints>
+		<Size>50</Size>
+		<Defense>50</Defense>
+		<Experience>5000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Stinger</ObjectId>
+			<Damage>200</Damage>
+			<Speed>250</Speed>
+			<Size>200</Size>
+			<MultiHit/>
+			<ArmorPiercing/>
+			<LifetimeMS>9000</LifetimeMS>
+		</Projectile>
+	</Object>
+	<Object type="0x8275" id="MC King">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>52</Index>
+		</Texture>
+		<HitSound>monster/stone_walls_hit</HitSound>
+		<DeathSound>monster/stone_walls_death</DeathSound>
+		<MaxHitPoints>230000</MaxHitPoints>
+		<Size>50</Size>
+		<Defense>50</Defense>
+		<Experience>1000000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>White Beam</ObjectId>
+			<Damage>600</Damage>
+			<Speed>190</Speed>
+			<Size>250</Size>
+			<MultiHit/>
+			<ArmorPiercing/>
+			<LifetimeMS>9000</LifetimeMS>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Fireball</ObjectId>
+			<Damage>1250</Damage>
+			<Speed>150</Speed>
+			<Size>350</Size>
+			<MultiHit/>
+			<ArmorPiercing/>
+			<LifetimeMS>9000</LifetimeMS>
+		</Projectile>
+	</Object>
+	<Object type="0x8276" id="MC Mutant Creeper">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>53</Index>
+		</Texture>
+		<HitSound>monster/creeper_hit</HitSound>
+		<DeathSound>monster/creeper_death</DeathSound>
+		<MaxHitPoints>80000</MaxHitPoints>
+		<Size>45</Size>
+		<Defense>25</Defense>
+		<Experience>500</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Green Gas</ObjectId>
+			<Damage>100</Damage>
+			<Speed>180</Speed>
+			<LifetimeMS>9000</LifetimeMS>
+			<MultiHit/>
+			<Size>250</Size>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Green Gas</ObjectId>
+			<Damage>200</Damage>
+			<Speed>70</Speed>
+			<LifetimeMS>9000</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>150</Size>
+		</Projectile>
+	</Object>
+	
+	      <Object type="0x4369" id="Pepe Projec">
+      <Class>Projectile</Class>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x25</Index>
+      </Texture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>    
+   
+	<Object type="0x8277" id="MC PEPE">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>58</Index>
+		</Texture>
+		<AltTexture id="1">
+			<Texture>
+				<File>MCbosses64x64</File>
+				<Index>54</Index>
+			</Texture>
+		</AltTexture>
+		<HitSound>monster/creeper_hit</HitSound>
+		<DeathSound>monster/creeper_death</DeathSound>
+		<MaxHitPoints>1500000</MaxHitPoints>
+		<Size>60</Size>
+		<Defense>35</Defense>
+		<Experience>500000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Pepe Projec</ObjectId>
+			<Damage>15000</Damage>
+			<Speed>170</Speed>
+			<Wavy/>
+			<LifetimeMS>9000</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>155</Size>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Pepe Projec</ObjectId>
+			<Damage>4500</Damage>
+			<Speed>250</Speed>
+			<LifetimeMS>9000</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>255</Size>
+		</Projectile>		
+	</Object>
+	<Object type="0x8278" id="MC Santa">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>59</Index>
+		</Texture>
+		<AltTexture id="1">
+			<Texture>
+				<File>MCbosses64x64</File>
+				<Index>57</Index>
+			</Texture>
+		</AltTexture>
+		<HitSound>monster/creeper_hit</HitSound>
+		<DeathSound>monster/creeper_death</DeathSound>
+		<MaxHitPoints>25000000</MaxHitPoints>
+		<Size>55</Size>
+		<Defense>35</Defense>
+		<Experience>5000000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>White Bullet</ObjectId>
+			<Damage>90000</Damage>
+			<Speed>80</Speed>
+			<LifetimeMS>15000</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>200</Size>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>White Bullet</ObjectId>
+			<Damage>150000</Damage>
+			<Speed>60</Speed>
+			<LifetimeMS>9000</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>125</Size>
+			<Wavy/>
+		</Projectile>
+	</Object>
+	<Object type="0x8279" id="MC Cock">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>55</Index>
+		</Texture>
+		<HitSound>monster/creeper_hit</HitSound>
+		<DeathSound>monster/creeper_death</DeathSound>
+		<MaxHitPoints>1000000</MaxHitPoints>
+		<Size>55</Size>
+		<Defense>35</Defense>
+		<Experience>500000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>White Bullet</ObjectId>
+			<Damage>1500</Damage>
+			<Speed>155</Speed>
+			<LifetimeMS>9000</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>65</Size>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>White Bullet</ObjectId>
+			<Damage>22500</Damage>
+			<Speed>155</Speed>
+			<LifetimeMS>9000</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>190</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x8280" id="MC Roofus">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>56</Index>
+		</Texture>
+		<HitSound>monster/creeper_hit</HitSound>
+		<DeathSound>monster/creeper_death</DeathSound>
+		<MaxHitPoints>5000000</MaxHitPoints>
+		<Size>60</Size>
+		<Defense>40</Defense>
+		<Experience>1000000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Dragon Attack Red Big Fireball</ObjectId>
+			<Damage>40000</Damage>
+			<Speed>300</Speed>
+			<LifetimeMS>9000</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>600</Size>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Dragon Attack Red Firewave</ObjectId>
+			<Damage>50000</Damage>
+			<Speed>250</Speed>
+			<LifetimeMS>700</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>400</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x8281" id="MC Viktor">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>60</Index>
+		</Texture>
+		<HitSound>monster/creeper_hit</HitSound>
+		<DeathSound>monster/creeper_death</DeathSound>
+		<MaxHitPoints>50000000</MaxHitPoints>
+		<Size>55</Size>
+		<Defense>35</Defense>
+		<Experience>500000000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>cocksss Projectile</ObjectId>
+			<Damage>694200</Damage>
+			<Speed>150</Speed>
+			<LifetimeMS>15000</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>300</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x8282" id="MC Boshy">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>62</Index>
+		</Texture>
+		<HitSound>monster/creeper_hit</HitSound>
+		<DeathSound>monster/creeper_death</DeathSound>
+		<MaxHitPoints>100000000</MaxHitPoints>
+		<Size>55</Size>
+		<Defense>35</Defense>
+		<Experience>500000000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>White Bullet</ObjectId>
+			<Damage>1000000</Damage>
+			<Speed>150</Speed>
+			<LifetimeMS>15000</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>250</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x8283" id="Pumpkin Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\halloween\pumpkin</Id>
+			<Right/>
+		</RemoteTexture>
+	</Object>
+	<Object type="0x8284" id="Glowing Bone Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\halloween\bone</Id>
+			<Right/>
+		</RemoteTexture>
+	</Object>
+	<Object type="0x8287" id="MC Halloween Pumpkin">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>64</Index>
+		</Texture>
+		<HitSound>monster/creeper_hit</HitSound>
+		<DeathSound>monster/creeper_death</DeathSound>
+		<MaxHitPoints>150000</MaxHitPoints>
+		<Size>60</Size>
+		<Defense>35</Defense>
+		<Experience>50000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Pumpkin Projectile</ObjectId>
+			<Damage>3000</Damage>
+			<Speed>300</Speed>
+			<LifetimeMS>15000</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>150</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x8288" id="MC Halloween Skeleton">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>65</Index>
+		</Texture>
+		<HitSound>monster/creeper_hit</HitSound>
+		<DeathSound>monster/creeper_death</DeathSound>
+		<MaxHitPoints>150000</MaxHitPoints>
+		<Size>60</Size>
+		<Defense>35</Defense>
+		<Experience>50000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Pumpkin Projectile</ObjectId>
+			<Damage>3000</Damage>
+			<Speed>300</Speed>
+			<LifetimeMS>15000</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>150</Size>
+		</Projectile>
+	</Object>
+	<Object type="0x8289" id="MC Pac-Man">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>71</Index>
+		</Texture>
+		<HitSound>monster/rocks_hit</HitSound>
+		<DeathSound>monster/rocks_death</DeathSound>
+		<MaxHitPoints>200000</MaxHitPoints>
+		<Size>55</Size>
+		<Defense>70</Defense>
+		<Experience>50000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Yellow Arrow Projectiles</ObjectId>
+			<Damage>500</Damage>
+			<Speed>155</Speed>
+			<LifetimeMS>2500</LifetimeMS>
+			<Size>140</Size>
+			<ConditionEffect duration="0.15">Paralyzed</ConditionEffect>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Yellow Arrow Projectiles</ObjectId>
+			<Damage>1200</Damage>
+			<Speed>125</Speed>
+			<LifetimeMS>3000</LifetimeMS>
+			<Size>300</Size>
+			<ConditionEffect duration="0.15">Paralyzed</ConditionEffect>
+		</Projectile>
+		<Projectile id="2">
+			<ObjectId>Silver Shield</ObjectId>
+			<Damage>750</Damage>
+			<Speed>180</Speed>
+			<LifetimeMS>150</LifetimeMS>
+			<Size>170</Size>
+			<ConditionEffect duration="1">Stunned</ConditionEffect>
+		</Projectile>
+	</Object>
+	<Object type="0x8290" id="MC Pink Ghost">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>72</Index>
+		</Texture>
+		<HitSound>monster/rocks_hit</HitSound>
+		<DeathSound>monster/rocks_death</DeathSound>
+		<MaxHitPoints>100000</MaxHitPoints>
+		<Size>55</Size>
+		<Defense>70</Defense>
+		<Experience>50000</Experience>
+		<NoArticle/>
+	</Object>
+	<Object type="0x8291" id="MC Orange Ghost">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>73</Index>
+		</Texture>
+		<HitSound>monster/rocks_hit</HitSound>
+		<DeathSound>monster/rocks_death</DeathSound>
+		<MaxHitPoints>100000</MaxHitPoints>
+		<Size>55</Size>
+		<Defense>70</Defense>
+		<Experience>50000</Experience>
+		<NoArticle/>
+	</Object>
+	<Object type="0x8292" id="MC Blue Ghost">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>74</Index>
+		</Texture>
+		<HitSound>monster/rocks_hit</HitSound>
+		<DeathSound>monster/rocks_death</DeathSound>
+		<MaxHitPoints>100000</MaxHitPoints>
+		<Size>55</Size>
+		<Defense>70</Defense>
+		<Experience>50000</Experience>
+		<NoArticle/>
+	</Object>
+	<Object type="0x8293" id="MC Red Ghost">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>75</Index>
+		</Texture>
+		<HitSound>monster/rocks_hit</HitSound>
+		<DeathSound>monster/rocks_death</DeathSound>
+		<MaxHitPoints>100000</MaxHitPoints>
+		<Size>55</Size>
+		<Defense>70</Defense>
+		<Experience>50000</Experience>
+		<NoArticle/>
+	</Object>
+	<Object type="0x8294" id="Yellow Arrow Projectiles">
+		<Class>Projectile</Class>
+		<Texture>
+			<File>lofiObj2</File>
+			<Index>0x16</Index>
+		</Texture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x8295" id="MC Hitler">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>80</Index>
+		</Texture>
+		<AltTexture id="1">
+			<Texture>
+				<File>MCbosses64x64</File>
+				<Index>81</Index>
+			</Texture>
+		</AltTexture>
+		<HitSound>monster/rocks_hit</HitSound>
+		<DeathSound>monster/rocks_death</DeathSound>
+		<MaxHitPoints>1500000</MaxHitPoints>
+		<Size>55</Size>
+		<Defense>45</Defense>
+		<Experience>500000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Nazi Projectiles</ObjectId>
+			<Damage>6969</Damage>
+			<Speed>200</Speed>
+			<LifetimeMS>5000</LifetimeMS>
+			<Size>250</Size>
+			<ConditionEffect duration="1">Stunned</ConditionEffect>
+		</Projectile>
+	</Object>
+	<Object type="0x8296" id="Nazi Projectiles">
+		<Class>Projectile</Class>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x57</Index>
+		</Texture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	
+	
+	<Object type="0x8297" id="MC Barbie Bitch1">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>78</Index>
+		</Texture>
+		<HitSound>monster/rocks_hit</HitSound>
+		<DeathSound>monster/rocks_death</DeathSound>
+		<MaxHitPoints>1000000</MaxHitPoints>
+		<Size>70</Size>
+		<Defense>66</Defense>
+		<Experience>500000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Nazi Projectiles</ObjectId>
+			<Damage>500</Damage>
+			<Speed>200</Speed>
+			<LifetimeMS>5000</LifetimeMS>
+			<Size>80</Size>
+			<MultiHit/>
+			<Boomerang/>
+			<Amplitude>2</Amplitude>
+			<Frequency>2.5</Frequency>			
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Nazi Projectiles</ObjectId>
+			<Damage>2500</Damage>
+			<Speed>200</Speed>
+			<LifetimeMS>5000</LifetimeMS>
+			<Size>150</Size>
+			<MultiHit/>
+			<Boomerang/>
+			<Amplitude>2</Amplitude>
+			<Frequency>2.5</Frequency>			
+		</Projectile>
+		<Projectile id="2">
+			<ObjectId>Nazi Projectiles</ObjectId>
+			<Damage>6000</Damage>
+			<Speed>200</Speed>
+			<LifetimeMS>5000</LifetimeMS>
+			<Size>275</Size>
+			<MultiHit/>
+			<Boomerang/>
+			<Amplitude>2</Amplitude>
+			<Frequency>2.5</Frequency>			
+		</Projectile>		
+	</Object>
+
+	<Object type="0x8298" id="MC Barbie Bitch2">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>79</Index>
+		</Texture>
+		<HitSound>monster/rocks_hit</HitSound>
+		<DeathSound>monster/rocks_death</DeathSound>
+		<MaxHitPoints>1000000</MaxHitPoints>
+		<Size>70</Size>
+		<Defense>66</Defense>
+		<Experience>500000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Nazi Projectiles</ObjectId>
+			<Damage>500</Damage>
+			<Speed>200</Speed>
+			<LifetimeMS>5000</LifetimeMS>
+			<Size>80</Size>
+			<MultiHit/>
+			<Boomerang/>
+			<Amplitude>2</Amplitude>
+			<Frequency>2.5</Frequency>			
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Nazi Projectiles</ObjectId>
+			<Damage>2500</Damage>
+			<Speed>200</Speed>
+			<LifetimeMS>5000</LifetimeMS>
+			<Size>150</Size>
+			<MultiHit/>
+			<Boomerang/>
+			<Amplitude>2</Amplitude>
+			<Frequency>2.5</Frequency>			
+		</Projectile>
+		<Projectile id="2">
+			<ObjectId>Nazi Projectiles</ObjectId>
+			<Damage>6000</Damage>
+			<Speed>200</Speed>
+			<LifetimeMS>5000</LifetimeMS>
+			<Size>275</Size>
+			<MultiHit/>
+			<Boomerang/>
+			<Amplitude>2</Amplitude>
+			<Frequency>2.5</Frequency>			
+		</Projectile>		
+	</Object>
+
+	<Object type="0x8299" id="MC REAPER OF DEATH MOTHERFUCKER">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>82</Index>
+		</Texture>
+		<HitSound>monster/rocks_hit</HitSound>
+		<DeathSound>monster/rocks_death</DeathSound>
+		<MaxHitPoints>8000000</MaxHitPoints>
+		<Size>70</Size>
+		<Defense>66</Defense>
+		<Experience>500000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Ninja Star Silver</ObjectId>
+			<Damage>20000</Damage>
+			<Speed>200</Speed>
+			<LifetimeMS>5000</LifetimeMS>
+			<Size>200</Size>
+			<ArmorPiercing/>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Ninja Star Silver</ObjectId>
+			<Damage>45000</Damage>
+			<Speed>200</Speed>
+			<LifetimeMS>5000</LifetimeMS>
+			<Size>300</Size>
+			<MultiHit/>
+			<ArmorPiercing/>
+		</Projectile>		
+	</Object>
+
+	<Object type="0x6797" id="MC Red Crewmate">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>83</Index>
+		</Texture>
+		<HitSound>monster/rocks_hit</HitSound>
+		<DeathSound>monster/rocks_death</DeathSound>
+		<MaxHitPoints>60000</MaxHitPoints>
+		<Size>55</Size>
+		<Defense>66</Defense>
+		<Experience>5000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Murders Blade</ObjectId>
+			<Damage>400</Damage>
+			<Speed>200</Speed>
+			<LifetimeMS>5000</LifetimeMS>
+			<Size>200</Size>
+			<ArmorPiercing/>		
+		</Projectile>
+	</Object>
+
+	<Object type="0x8302" id="MC Slave">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>76</Index>
+		</Texture>
+		<HitSound>monster/rocks_hit</HitSound>
+		<DeathSound>monster/rocks_death</DeathSound>
+		<MaxHitPoints>30000</MaxHitPoints>
+		<Size>40</Size>
+		<Defense>25</Defense>
+		<Experience>5000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Ninja Star Basic</ObjectId>
+			<Damage>50</Damage>
+			<Speed>300</Speed>
+			<LifetimeMS>5000</LifetimeMS>
+			<Size>80</Size>
+			<ArmorPiercing/>		
+		</Projectile>
+	</Object>		
+	
+	<Object type="0x6a00" id="Gangsta Rap Chest">
+      <DisplayId>Test Chest</DisplayId>
+      <Class>Character</Class>
+      <Enemy/>
+      <Texture>
+         <File>lofiObj3</File>
+         <Index>0x466</Index>
+      </Texture>
+      <MaxHitPoints>600000</MaxHitPoints>
+      <Size>80</Size>
+      <XpMult>6.0</XpMult>
+   </Object>	
+	
+	<Object type="0x6a05" id="MC Big Smoke">
+      <DisplayId>Big Smoke</DisplayId>
+      <Class>Character</Class>
+      <Enemy/>
+	  <Texture>
+		<File>MCbosses64x64</File>
+		<Index>84</Index>
+	  </Texture>
+      <MaxHitPoints>50000000</MaxHitPoints>
+	  <Defense>3000</Defense>
+      <Size>80</Size>
+      <XpMult>0.0</XpMult>
+		<Projectile id="0">
+			<ObjectId>Giant Cannonball</ObjectId>
+			<Damage>100000</Damage>
+			<Speed>300</Speed>
+			<LifetimeMS>1000</LifetimeMS>
+			<Size>250</Size>
+			<ArmorPiercing/>		
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Giant Cannonball</ObjectId>
+			<Damage>50000</Damage>
+			<Speed>100</Speed>
+			<LifetimeMS>2000</LifetimeMS>
+			<Size>120</Size>		
+		</Projectile>
+   </Object>
+	<Object type="0x6a06" id="MC Ryder">
+      <DisplayId>Ryder</DisplayId>
+      <Class>Character</Class>
+      <Enemy/>
+	  <Texture>
+		<File>MCbosses64x64</File>
+		<Index>85</Index>
+	  </Texture>
+      <MaxHitPoints>50000000</MaxHitPoints>
+	  <Defense>3000</Defense>
+      <Size>80</Size>
+      <XpMult>0.0</XpMult>
+		<Projectile id="0">
+			<ObjectId>Giant Cannonball</ObjectId>
+			<Damage>100000</Damage>
+			<Speed>300</Speed>
+			<LifetimeMS>1000</LifetimeMS>
+			<Size>250</Size>
+			<ArmorPiercing/>		
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Giant Cannonball</ObjectId>
+			<Damage>50000</Damage>
+			<Speed>100</Speed>
+			<LifetimeMS>2000</LifetimeMS>
+			<Size>120</Size>		
+		</Projectile>
+   </Object>
+ 
+ 
+ 	<Object type="0x6a21" id="MC Frankster">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>86</Index>
+		</Texture>
+		<HitSound>monster/rocks_hit</HitSound>
+		<DeathSound>monster/rocks_death</DeathSound>
+		<MaxHitPoints>3500000</MaxHitPoints>
+		<Size>80</Size>
+		<Defense>70</Defense>
+		<Experience>5000000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Murders Blade</ObjectId>
+			<Damage>45000</Damage>
+			<Speed>300</Speed>
+			<LifetimeMS>8000</LifetimeMS>
+			<Size>250</Size>
+			<ArmorPiercing/>		
+		</Projectile>
+	</Object>
+	
+ 	<Object type="0x6a22" id="MC Fazzzybearrr">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>87</Index>
+		</Texture>
+		<HitSound>monster/rocks_hit</HitSound>
+		<DeathSound>monster/rocks_death</DeathSound>
+		<MaxHitPoints>700000</MaxHitPoints>
+		<Size>60</Size>
+		<Defense>70</Defense>
+		<Experience>5000000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Murders Blade</ObjectId>
+			<Damage>25000</Damage>
+			<Speed>55</Speed>
+			<LifetimeMS>8000</LifetimeMS>
+			<Size>120</Size>
+			<ArmorPiercing/>		
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Murders Blade</ObjectId>
+			<Damage>10000</Damage>
+			<Speed>140</Speed>
+			<LifetimeMS>8000</LifetimeMS>
+			<Size>200</Size>
+			<ArmorPiercing/>		
+		</Projectile>		
+	</Object>
+	<Object type="0x6a23" id="Aether Portal 1">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>88</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>1500000</MaxHitPoints>
+		<Size>40</Size>
+		<Defense>35</Defense>
+		<NoArticle/>
+	</Object>
+	<Object type="0x6a24" id="Aether Portal 2">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>89</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>1500000</MaxHitPoints>
+		<Size>40</Size>
+		<Defense>35</Defense>
+		<NoArticle/>
+	</Object>	
+	<Object type="0x6a25" id="Aether Portal 3">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>90</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>1500000</MaxHitPoints>
+		<Size>40</Size>
+		<Defense>35</Defense>
+		<NoArticle/>
+	</Object>
+	<Object type="0x6a26" id="Aether Portal 4">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>91</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>1500000</MaxHitPoints>
+		<Size>40</Size>
+		<Defense>35</Defense>
+		<NoArticle/>
+	</Object>
+	<Object type="0x6a27" id="Aether Portal 5">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>92</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>1500000</MaxHitPoints>
+		<Size>40</Size>
+		<Defense>35</Defense>
+		<NoArticle/>
+	</Object>
+	<Object type="0x6a28" id="Aether Portal 6">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>93</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>1500000</MaxHitPoints>
+		<Size>40</Size>
+		<Defense>35</Defense>
+		<NoArticle/>
+	</Object>	
+
+	<Object type="0x6a29" id="MC Shitass">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>34</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>50000000</MaxHitPoints>
+		<Size>50</Size>
+		<Defense>35</Defense>
+		<Experience>5000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Fireball Projectile</ObjectId>
+			<Damage>1000000</Damage>
+			<Speed>70</Speed>
+			<Size>125</Size>
+			<LifetimeMS>12500</LifetimeMS>
+		</Projectile>
+		<Projectile id="1">
+			<ObjectId>Fireball Projectile</ObjectId>
+			<Damage>500000</Damage>
+			<Speed>155</Speed>
+			<Size>300</Size>
+			<LifetimeMS>6000</LifetimeMS>
+		</Projectile>		
+	</Object>
+
+	<Object type="0x6a2a" id="MC Ricardo">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>98</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>5000000</MaxHitPoints>
+		<Size>50</Size>
+		<Defense>35</Defense>
+		<Experience>5000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Fireball Projectile</ObjectId>
+			<Damage>50000</Damage>
+			<Speed>70</Speed>
+			<Size>125</Size>
+			<LifetimeMS>12500</LifetimeMS>
+		</Projectile>		
+	</Object>
+
+	<Object type="0x6a2b" id="MC Obama">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>97</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>250000</MaxHitPoints>
+		<Size>45</Size>
+		<Defense>35</Defense>
+		<Experience>5000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Fireball Projectile</ObjectId>
+			<Damage>900</Damage>
+			<Speed>150</Speed>
+			<Size>135</Size>
+			<LifetimeMS>12500</LifetimeMS>
+		</Projectile>		
+	</Object>
+
+	<Object type="0x6a2c" id="MC Gay">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>96</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>75000</MaxHitPoints>
+		<Size>45</Size>
+		<Defense>60</Defense>
+		<Experience>5000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Fireball Projectile</ObjectId>
+			<Damage>300</Damage>
+			<Speed>150</Speed>
+			<Size>135</Size>
+			<LifetimeMS>12500</LifetimeMS>
+		</Projectile>		
+	</Object>
+
+<Object type="0x6a2d" id="MC Wish">
+		<Enemy/>
+		<Class>Character</Class>
+		<Level>20</Level>
+		<Texture>
+			<File>MCbosses64x64</File>
+			<Index>95</Index>
+		</Texture>
+		<HitSound>monster/spiders_hit</HitSound>
+		<DeathSound>monster/spiders_death</DeathSound>
+		<MaxHitPoints>21000</MaxHitPoints>
+		<Size>45</Size>
+		<Defense>60</Defense>
+		<Experience>5000</Experience>
+		<NoArticle/>
+		<Projectile id="0">
+			<ObjectId>Fireball Projectile</ObjectId>
+			<Damage>45</Damage>
+			<Speed>150</Speed>
+			<Size>135</Size>
+			<LifetimeMS>12500</LifetimeMS>
+		</Projectile>		
+	</Object>	
+</Objects>
+<!--
+BagType 0 = Brown Bag
+BagType 1 = Pink Bag
+BagType 2 = Purple Bag
+BagType 3 = Egg Basket
+BagType 4 = Cyan Bag
+BagType 5 = Blue Bag
+BagType 6 = White Bag
+BagType 7 = Big White Bag
+BagType 8 = Unholy Bag
+BagType 9 = Big Unholy Bag
+BagType 10 = Orange Bag
+BagType 11 = Red Bag
+BagType 12 = Gold Bag
+-->

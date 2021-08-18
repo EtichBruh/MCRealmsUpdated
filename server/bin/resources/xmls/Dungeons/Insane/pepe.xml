@@ -1,0 +1,27 @@
+﻿<Objects>
+	<Object type="0x8532" id="Pepe's Head">
+		<Class>Equipment</Class>
+		<Usable/>
+		<Item/>
+        <RemoteTexture>
+           <Instance>production</Instance>
+           <Id>separate\pepehead</Id>
+        </RemoteTexture>
+		<SlotType>4</SlotType>
+		<Description>pepe headddddd</Description>
+		<Sound>spell/major_heal</Sound> 
+        <Activate stat="0" amount="8000" duration="5" range="8">StatBoostAura</Activate>				
+        <Activate stat="3" amount="8000" duration="5" range="8">StatBoostAura</Activate>
+        <Activate stat="20" amount="1600" duration="2" range="4">StatBoostAura</Activate>		
+        <Activate stat="21" amount="1600" duration="2" range="4">StatBoostAura</Activate>		
+        <Activate stat="22" amount="125" duration="2" range="4">StatBoostAura</Activate>		
+        <Activate stat="26" amount="1800" duration="2" range="4">StatBoostAura</Activate>		
+        <Activate stat="27" amount="1800" duration="2" range="4">StatBoostAura</Activate>		
+        <Activate stat="28" amount="1800" duration="2" range="4">StatBoostAura</Activate>			
+		<BagType>6</BagType>
+		<Epic/>
+		<FameBonus>800</FameBonus>
+		<Cooldown>10</Cooldown>
+		<MpCost>4500</MpCost>
+	</Object>
+</Objects>

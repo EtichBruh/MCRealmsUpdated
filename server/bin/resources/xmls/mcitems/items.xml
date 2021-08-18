@@ -1,0 +1,2328 @@
+<Objects>   
+         <Object type="0x8752" id="Leather Tunic">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Armor\leather</Id>
+      </RemoteTexture>
+      <SlotType>7</SlotType>
+	  <Tier>0</Tier>
+      <Description>an amour !!!!  omg.</Description>
+      <ActivateOnEquip stat="0" amount="55">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="21" amount="12">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="20" amount="3">IncrementStat</ActivateOnEquip>
+      <BagType>1</BagType>
+   </Object>
+   
+          <Object type="0x8753" id="Stone Chestplate">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Armor\stone</Id>
+      </RemoteTexture>
+      <SlotType>7</SlotType>
+	  <Tier>1</Tier>
+      <Description>an amour !!!!  omg.</Description>
+      <ActivateOnEquip stat="0" amount="65">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="21" amount="14">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="20" amount="5">IncrementStat</ActivateOnEquip>
+      <BagType>2</BagType>
+   </Object>  
+
+          <Object type="0x8754" id="Redstone Chestplate">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Armor\redstone</Id>
+      </RemoteTexture>
+      <SlotType>7</SlotType>
+	  <Tier>2</Tier>
+      <Description>an amour !!!!  omg.</Description>
+      <ActivateOnEquip stat="0" amount="80">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="21" amount="16">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="20" amount="6">IncrementStat</ActivateOnEquip>
+      <BagType>2</BagType>
+   </Object>
+
+          <Object type="0x8755" id="Lapis Lazuli Chestplate">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Armor\lapis</Id>
+      </RemoteTexture>
+      <SlotType>7</SlotType>
+	  <Tier>3</Tier>
+      <Description>an amour !!!!  omg.</Description>
+      <ActivateOnEquip stat="0" amount="90">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="21" amount="17">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="20" amount="6">IncrementStat</ActivateOnEquip>
+      <BagType>4</BagType>
+   </Object>
+
+          <Object type="0x8756" id="Golden Chestplate">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Armor\gold</Id>
+      </RemoteTexture>
+      <SlotType>7</SlotType>
+	  <Tier>4</Tier>
+      <Description>an amour !!!!  omg.</Description>
+      <ActivateOnEquip stat="0" amount="100">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="21" amount="18">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="20" amount="6">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="22" amount="3">IncrementStat</ActivateOnEquip>	  
+      <BagType>4</BagType>
+   </Object>
+
+          <Object type="0x8757" id="Iron Chestplate">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Armor\iron</Id>
+      </RemoteTexture>
+      <SlotType>7</SlotType>
+	  <Tier>5</Tier>
+      <Description>an amour !!!!  omg.</Description>
+      <ActivateOnEquip stat="0" amount="115">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="21" amount="19">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="20" amount="7">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="22" amount="3">IncrementStat</ActivateOnEquip>	  
+      <BagType>4</BagType>
+   </Object>
+
+          <Object type="0x8758" id="Diamond Chestplate">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Armor\diamond</Id>
+      </RemoteTexture>
+      <SlotType>7</SlotType>
+	  <Tier>6</Tier>
+      <Description>an amour !!!!  omg.</Description>
+      <ActivateOnEquip stat="0" amount="135">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="21" amount="20">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="20" amount="8">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="22" amount="4">IncrementStat</ActivateOnEquip>	  
+      <BagType>4</BagType>
+   </Object>
+
+
+          <Object type="0x8759" id="Emerald Chestplate">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Armor\emerald</Id>
+      </RemoteTexture>
+      <SlotType>7</SlotType>
+	  <Tier>7</Tier>
+      <Description>an amour !!!!  omg.</Description>
+      <ActivateOnEquip stat="0" amount="135">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="21" amount="21">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="20" amount="10">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="22" amount="4">IncrementStat</ActivateOnEquip>	  
+      <BagType>4</BagType>
+   </Object>
+ 
+
+          <Object type="0x8760" id="Obsidian Chestplate">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Armor\obsidian</Id>
+      </RemoteTexture>
+      <SlotType>7</SlotType>
+	  <Tier>8</Tier>
+      <Description>an amour !!!!  omg.</Description>
+      <ActivateOnEquip stat="0" amount="155">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="21" amount="22">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="20" amount="12">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="22" amount="6">IncrementStat</ActivateOnEquip>	  
+      <BagType>4</BagType>
+   </Object>
+   
+   
+   <Object type="0x5435" id="Wooden Sword Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Swords\woodsword</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+     <Object type="0x5436" id="Wooden Sword">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Swords\woodsword</Id>
+      </RemoteTexture>
+      <SlotType>1</SlotType>
+      <Tier>0</Tier>
+      <Description>A basic sword made for practice.</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/blunt_sword</Sound>
+      <Projectile>
+         <ObjectId>Wooden Sword Projectile</ObjectId>
+         <Speed>100</Speed>
+         <MinDamage>55</MinDamage>
+         <MaxDamage>90</MaxDamage>
+         <LifetimeMS>475</LifetimeMS>
+         <Size>135</Size>		 		 
+      </Projectile>
+      <BagType>1</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+
+
+   <Object type="0x5437" id="Stone Sword Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Swords\stonesword</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+   
+        <Object type="0x5438" id="Stone Sword">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Swords\stonesword</Id>
+      </RemoteTexture>
+      <SlotType>1</SlotType>
+      <Tier>1</Tier>
+      <Description>A stone sword made for defense.</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/blunt_sword</Sound>
+      <Projectile>
+         <ObjectId>Stone Sword Projectile</ObjectId>
+         <Speed>100</Speed>
+         <MinDamage>60</MinDamage>
+         <MaxDamage>100</MaxDamage>
+         <LifetimeMS>475</LifetimeMS>
+         <Size>135</Size>		 
+      </Projectile>
+      <BagType>2</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+   
+   
+   
+      <Object type="0x5439" id="Redstone Sword Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Swords\redstonesword</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+   
+        <Object type="0x5440" id="Redstone Sword">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Swords\redstonesword</Id>
+      </RemoteTexture>
+      <SlotType>1</SlotType>
+      <Tier>2</Tier>
+      <Description>A redstonesword sword made for defense.</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/blunt_sword</Sound>
+      <Projectile>
+         <ObjectId>Redstone Sword Projectile</ObjectId>
+         <Speed>100</Speed>
+         <MinDamage>80</MinDamage>
+         <MaxDamage>130</MaxDamage>
+         <LifetimeMS>475</LifetimeMS>
+         <Size>135</Size>		 
+      </Projectile>
+      <BagType>2</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+   
+      <Object type="0x5441" id="Lapis Lazuli Sword Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Swords\lapissword</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+   
+        <Object type="0x5442" id="Lapis Lazuli Sword">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Swords\lapissword</Id>
+      </RemoteTexture>
+      <SlotType>1</SlotType>
+      <Tier>3</Tier>
+      <Description>A lapis lazuli sword made for defense.</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/blunt_sword</Sound>
+      <Projectile>
+         <ObjectId>Lapis Lazuli Sword Projectile</ObjectId>
+         <Speed>100</Speed>
+         <MinDamage>90</MinDamage>
+         <MaxDamage>165</MaxDamage>
+         <LifetimeMS>475</LifetimeMS>
+         <Size>135</Size>		 
+      </Projectile>
+      <BagType>2</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>   
+   
+   
+         <Object type="0x5443" id="Golden Sword Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Swords\goldsword</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+   
+        <Object type="0x5444" id="Golden Sword">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Swords\goldsword</Id>
+      </RemoteTexture>
+      <SlotType>1</SlotType>
+      <Tier>4</Tier>
+      <Description>A golden sword made for defense.</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/blunt_sword</Sound>
+      <Projectile>
+         <ObjectId>Golden Sword Projectile</ObjectId>
+         <Speed>100</Speed>
+         <MinDamage>100</MinDamage>
+         <MaxDamage>180</MaxDamage>
+         <LifetimeMS>475</LifetimeMS>
+         <Size>135</Size>		 
+      </Projectile>
+      <BagType>4</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object> 
+
+
+         <Object type="0x5445" id="Iron Sword Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Swords\ironsword</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+   
+        <Object type="0x5446" id="Iron Sword">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Swords\ironsword</Id>
+      </RemoteTexture>
+      <SlotType>1</SlotType>
+      <Tier>5</Tier>
+      <Description>A iron sword made for defense.</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/blunt_sword</Sound>
+      <Projectile>
+         <ObjectId>Iron Sword Projectile</ObjectId>
+         <Speed>100</Speed>
+         <MinDamage>120</MinDamage>
+         <MaxDamage>210</MaxDamage>
+         <LifetimeMS>475</LifetimeMS>
+         <Size>135</Size>		 
+      </Projectile>
+      <BagType>4</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object> 
+
+
+         <Object type="0x5447" id="Diamond Sword Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Swords\diamondsword</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+   
+        <Object type="0x5448" id="Diamond Sword">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Swords\diamondsword</Id>
+      </RemoteTexture>
+      <SlotType>1</SlotType>
+      <Tier>6</Tier>
+      <Description>A diamond sword made for defense.</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/blunt_sword</Sound>
+      <Projectile>
+         <ObjectId>Diamond Sword Projectile</ObjectId>
+         <Speed>100</Speed>
+         <MinDamage>155</MinDamage>
+         <MaxDamage>260</MaxDamage>
+         <LifetimeMS>475</LifetimeMS>
+         <Size>135</Size>		 
+      </Projectile>
+      <BagType>4</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+   
+            <Object type="0x5125" id="Emerald Sword Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Swords\emeraldsword</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+
+
+        <Object type="0x5150" id="Emerald Sword">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Swords\emeraldsword</Id>
+      </RemoteTexture>
+      <SlotType>1</SlotType>
+      <Tier>7</Tier>
+      <Description>A diamond sword made for defense.</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/blunt_sword</Sound>
+      <Projectile>
+         <ObjectId>Emerald Sword Projectile</ObjectId>
+         <Speed>100</Speed>
+         <MinDamage>165</MinDamage>
+         <MaxDamage>275</MaxDamage>
+         <LifetimeMS>475</LifetimeMS>
+         <Size>135</Size>		 
+      </Projectile>
+      <BagType>4</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>       
+
+         <Object type="0x4123" id="Obsidian Sword Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Swords\obsidiansword</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+
+        <Object type="0x5234" id="Obsidian Sword">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Swords\obsidiansword</Id>
+      </RemoteTexture>
+      <SlotType>1</SlotType>
+      <Tier>8</Tier>
+      <Description>A diamond sword made for defense.</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/blunt_sword</Sound>
+      <Projectile>
+         <ObjectId>Obsidian Sword Projectile</ObjectId>
+         <Speed>100</Speed>
+         <MinDamage>170</MinDamage>
+         <MaxDamage>285</MaxDamage>
+         <LifetimeMS>475</LifetimeMS>
+         <Size>135</Size>		 
+      </Projectile>
+      <BagType>4</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>   
+   
+   
+   
+   
+      <Object type="0x5449" id="Wooden Axe Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\axes\woodaxe</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+     <Object type="0x5450" id="Wooden Axe">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\axes\woodaxe</Id>
+      </RemoteTexture>
+      <SlotType>30</SlotType>
+      <Tier>0</Tier>
+      <Description>A basic Axe made for practice.</Description>
+      <RateOfFire>1.35</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Wooden Axe Projectile</ObjectId>
+         <Speed>120</Speed>
+         <MinDamage>55</MinDamage>
+         <MaxDamage>90</MaxDamage>
+         <LifetimeMS>375</LifetimeMS>
+         <Size>135</Size>		 		 
+      </Projectile>
+      <BagType>1</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+
+
+   <Object type="0x5451" id="Stone Axe Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\axes\stoneaxe</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+   
+        <Object type="0x5452" id="Stone Axe">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\axes\stoneaxe</Id>
+      </RemoteTexture>
+      <SlotType>30</SlotType>
+      <Tier>1</Tier>
+      <Description>A stone Axe made for defense.</Description>
+      <RateOfFire>1.35</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Stone Axe Projectile</ObjectId>
+         <Speed>120</Speed>
+         <MinDamage>60</MinDamage>
+         <MaxDamage>100</MaxDamage>
+         <LifetimeMS>375</LifetimeMS>
+         <Size>135</Size>		 
+      </Projectile>
+      <BagType>2</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+   
+   
+   
+      <Object type="0x5453" id="Redstone Axe Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\axes\redstoneaxe</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+   
+        <Object type="0x5454" id="Redstone Axe">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\axes\redstoneaxe</Id>
+      </RemoteTexture>
+      <SlotType>30</SlotType>
+      <Tier>2</Tier>
+      <Description>A redstoneaxe Axe made for defense.</Description>
+      <RateOfFire>1.35</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Redstone Axe Projectile</ObjectId>
+         <Speed>120</Speed>
+         <MinDamage>80</MinDamage>
+         <MaxDamage>130</MaxDamage>
+         <LifetimeMS>375</LifetimeMS>
+         <Size>135</Size>		 
+      </Projectile>
+      <BagType>2</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+   
+      <Object type="0x5455" id="Lapis Lazuli Axe Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\axes\lapisaxe</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+   
+        <Object type="0x5456" id="Lapis Lazuli Axe">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\axes\lapisaxe</Id>
+      </RemoteTexture>
+      <SlotType>30</SlotType>
+      <Tier>3</Tier>
+      <Description>A lapis lazuli Axe made for defense.</Description>
+      <RateOfFire>1.35</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Lapis Lazuli Axe Projectile</ObjectId>
+         <Speed>120</Speed>
+         <MinDamage>90</MinDamage>
+         <MaxDamage>165</MaxDamage>
+         <LifetimeMS>375</LifetimeMS>
+         <Size>135</Size>		 
+      </Projectile>
+      <BagType>2</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>   
+   
+   
+         <Object type="0x5457" id="Golden Axe Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\axes\goldaxe</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+   
+        <Object type="0x5458" id="Golden Axe">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\axes\goldaxe</Id>
+      </RemoteTexture>
+      <SlotType>30</SlotType>
+      <Tier>4</Tier>
+      <Description>A golden Axe made for defense.</Description>
+      <RateOfFire>1.35</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Golden Axe Projectile</ObjectId>
+         <Speed>120</Speed>
+         <MinDamage>100</MinDamage>
+         <MaxDamage>180</MaxDamage>
+         <LifetimeMS>375</LifetimeMS>
+         <Size>135</Size>		 
+      </Projectile>
+      <BagType>4</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object> 
+
+
+         <Object type="0x5459" id="Iron Axe Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\axes\ironaxe</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+   
+        <Object type="0x5460" id="Iron Axe">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\axes\ironaxe</Id>
+      </RemoteTexture>
+      <SlotType>30</SlotType>
+      <Tier>5</Tier>
+      <Description>A iron Axe made for defense.</Description>
+      <RateOfFire>1.35</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Iron Axe Projectile</ObjectId>
+         <Speed>120</Speed>
+         <MinDamage>120</MinDamage>
+         <MaxDamage>210</MaxDamage>
+         <LifetimeMS>375</LifetimeMS>
+         <Size>135</Size>		 
+      </Projectile>
+      <BagType>4</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object> 
+
+
+         <Object type="0x5461" id="Diamond Axe Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\axes\diamondaxe</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+   
+        <Object type="0x5462" id="Diamond Axe">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\axes\diamondaxe</Id>
+      </RemoteTexture>
+      <SlotType>30</SlotType>
+      <Tier>6</Tier>
+      <Description>A diamond Axe made for defense.</Description>
+      <RateOfFire>1.35</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Diamond Axe Projectile</ObjectId>
+         <Speed>120</Speed>
+         <MinDamage>155</MinDamage>
+         <MaxDamage>260</MaxDamage>
+         <LifetimeMS>375</LifetimeMS>
+         <Size>135</Size>		 
+      </Projectile>
+      <BagType>4</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+
+         <Object type="0x5463" id="Emerald Axe Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\axes\emeraldaxe</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+   
+        <Object type="0x5464" id="Emerald Axe">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\axes\emeraldaxe</Id>
+      </RemoteTexture>
+      <SlotType>30</SlotType>
+      <Tier>7</Tier>
+      <Description>A emerald Axe made for defense.</Description>
+      <RateOfFire>1.35</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Emerald Axe Projectile</ObjectId>
+         <Speed>120</Speed>
+         <MinDamage>160</MinDamage>
+         <MaxDamage>270</MaxDamage>
+         <LifetimeMS>375</LifetimeMS>
+         <Size>135</Size>		 
+      </Projectile>
+      <BagType>4</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>      
+
+         <Object type="0x5465" id="Obsidian Axe Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\axes\obsidianaxe</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+   
+        <Object type="0x5466" id="Obsidian Axe">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\axes\obsidianaxe</Id>
+      </RemoteTexture>
+      <SlotType>30</SlotType>
+      <Tier>8</Tier>
+      <Description>A obsidian Axe made for defense.</Description>
+      <RateOfFire>1.35</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Obsidian Axe Projectile</ObjectId>
+         <Speed>120</Speed>
+         <MinDamage>165</MinDamage>
+         <MaxDamage>285</MaxDamage>
+         <LifetimeMS>375</LifetimeMS>
+         <Size>135</Size>		 
+      </Projectile>
+      <BagType>4</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>      
+   
+         <Object type="0x5467" id="Wooden Wand Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Wand\woodwand</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+     <Object type="0x5468" id="Wooden Wand">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Wand\woodwand</Id>
+      </RemoteTexture>
+      <SlotType>8</SlotType>
+      <Tier>0</Tier>
+      <Description>A basic wand made for practice.</Description>
+      <RateOfFire>1.1</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Wooden Wand Projectile</ObjectId>
+         <Speed>140</Speed>
+         <MinDamage>45</MinDamage>
+         <MaxDamage>70</MaxDamage>
+         <LifetimeMS>550</LifetimeMS>
+         <Size>115</Size>		 		 
+      </Projectile>
+      <BagType>1</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+
+
+   <Object type="0x5469" id="Stone Wand Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Wand\stonewand</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+   
+        <Object type="0x5470" id="Stone Wand">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Wand\stonewand</Id>
+      </RemoteTexture>
+      <SlotType>8</SlotType>
+      <Tier>1</Tier>
+      <Description>A stone wand made for defense.</Description>
+      <RateOfFire>1.1</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Stone Wand Projectile</ObjectId>
+         <Speed>140</Speed>
+         <MinDamage>50</MinDamage>
+         <MaxDamage>80</MaxDamage>
+         <LifetimeMS>550</LifetimeMS>
+         <Size>115</Size>		 
+      </Projectile>
+      <BagType>2</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+   
+   
+   
+      <Object type="0x5471" id="Redstone Wand Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Wand\redstonewand</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+   
+        <Object type="0x5472" id="Redstone Wand">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Wand\redstonewand</Id>
+      </RemoteTexture>
+      <SlotType>8</SlotType>
+      <Tier>2</Tier>
+      <Description>A redstoneaxe wand made for defense.</Description>
+      <RateOfFire>1.1</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Redstone Wand Projectile</ObjectId>
+         <Speed>140</Speed>
+         <MinDamage>60</MinDamage>
+         <MaxDamage>95</MaxDamage>
+         <LifetimeMS>550</LifetimeMS>
+         <Size>115</Size>		 
+      </Projectile>
+      <BagType>2</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+   
+      <Object type="0x5473" id="Lapis Lazuli Wand Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Wand\lapiswand</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+   
+        <Object type="0x5474" id="Lapis Lazuli Wand">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Wand\lapiswand</Id>
+      </RemoteTexture>
+      <SlotType>8</SlotType>
+      <Tier>3</Tier>
+      <Description>A lapis lazuli wand made for defense.</Description>
+      <RateOfFire>1.1</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Lapis Lazuli Wand Projectile</ObjectId>
+         <Speed>140</Speed>
+         <MinDamage>65</MinDamage>
+         <MaxDamage>100</MaxDamage>
+         <LifetimeMS>550</LifetimeMS>
+         <Size>115</Size>		 
+      </Projectile>
+      <BagType>2</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>   
+   
+   
+         <Object type="0x5475" id="Golden Wand Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Wand\goldwand</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+   
+        <Object type="0x5476" id="Golden Wand">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Wand\goldwand</Id>
+      </RemoteTexture>
+      <SlotType>8</SlotType>
+      <Tier>4</Tier>
+      <Description>A golden wand made for defense.</Description>
+      <RateOfFire>1.1</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Golden Wand Projectile</ObjectId>
+         <Speed>140</Speed>
+         <MinDamage>70</MinDamage>
+         <MaxDamage>110</MaxDamage>
+         <LifetimeMS>550</LifetimeMS>
+         <Size>115</Size>		 
+      </Projectile>
+      <BagType>4</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object> 
+
+
+         <Object type="0x5477" id="Iron Wand Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Wand\ironwand</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+   
+        <Object type="0x5478" id="Iron Wand">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Wand\ironwand</Id>
+      </RemoteTexture>
+      <SlotType>8</SlotType>
+      <Tier>5</Tier>
+      <Description>A iron wand made for defense.</Description>
+      <RateOfFire>1.1</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Iron Wand Projectile</ObjectId>
+         <Speed>140</Speed>
+         <MinDamage>80</MinDamage>
+         <MaxDamage>135</MaxDamage>
+         <LifetimeMS>550</LifetimeMS>
+         <Size>115</Size>		 
+      </Projectile>
+      <BagType>4</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object> 
+
+
+         <Object type="0x5479" id="Diamond Wand Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Wand\diamondwand</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+   
+        <Object type="0x5480" id="Diamond Wand">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Wand\diamondwand</Id>
+      </RemoteTexture>
+      <SlotType>8</SlotType>
+      <Tier>6</Tier>
+      <Description>A diamond wand made for defense.</Description>
+      <RateOfFire>1.1</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Diamond Wand Projectile</ObjectId>
+         <Speed>140</Speed>
+         <MinDamage>95</MinDamage>
+         <MaxDamage>145</MaxDamage>
+         <LifetimeMS>550</LifetimeMS>
+         <Size>115</Size>		 
+      </Projectile>
+      <BagType>4</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+
+         <Object type="0x5481" id="Emerald Wand Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Wand\emeraldwand</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+   
+        <Object type="0x5482" id="Emerald Wand">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Wand\emeraldwand</Id>
+      </RemoteTexture>
+      <SlotType>8</SlotType>
+      <Tier>7</Tier>
+      <Description>A emerald wand made for defense.</Description>
+      <RateOfFire>1.1</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Emerald Wand Projectile</ObjectId>
+         <Speed>140</Speed>
+         <MinDamage>100</MinDamage>
+         <MaxDamage>150</MaxDamage>
+         <LifetimeMS>550</LifetimeMS>
+         <Size>115</Size>		 
+      </Projectile>
+      <BagType>4</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>      
+
+         <Object type="0x5483" id="Obsidian Wand Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Wand\obsidianwand</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+   
+        <Object type="0x5484" id="Obsidian Wand">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Wand\obsidianwand</Id>
+      </RemoteTexture>
+      <SlotType>8</SlotType>
+      <Tier>8</Tier>
+      <Description>A obsidian wand made for defense.</Description>
+      <RateOfFire>1.1</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Obsidian Wand Projectile</ObjectId>
+         <Speed>140</Speed>
+         <MinDamage>115</MinDamage>
+         <MaxDamage>175</MaxDamage>
+         <LifetimeMS>550</LifetimeMS>
+         <Size>115</Size>		 
+      </Projectile>
+      <BagType>4</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>      
+   
+   
+     <Object type="0x5567" id="Wooden Pickaxe Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Picks\woodpick</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+      <Rotation>100</Rotation>	  	  
+   </Object>  
+   
+   
+       <Object type="0x5568" id="Wooden Pickaxe">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Picks\woodpick</Id>
+      </RemoteTexture>
+      <SlotType>32</SlotType>
+      <Tier>0</Tier>
+      <Description>A basic pickaxe made for practice.</Description>
+      <RateOfFire>0.85</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Wooden Pickaxe Projectile</ObjectId>
+         <Speed>170</Speed>
+         <MinDamage>70</MinDamage>
+         <MaxDamage>95</MaxDamage>
+         <LifetimeMS>425</LifetimeMS>
+         <Size>115</Size>		 		 
+      </Projectile>
+      <BagType>1</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+
+
+   <Object type="0x5569" id="Stone Pickaxe Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Picks\stonepick</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+      <Rotation>100</Rotation>	  	  
+   </Object>
+   
+   
+        <Object type="0x5570" id="Stone Pickaxe">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Picks\stonepick</Id>
+      </RemoteTexture>
+      <SlotType>32</SlotType>
+      <Tier>1</Tier>
+      <Description>A stone pickaxe made for defense.</Description>
+      <RateOfFire>0.85</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Stone Pickaxe Projectile</ObjectId>
+         <Speed>170</Speed>
+         <MinDamage>90</MinDamage>
+         <MaxDamage>110</MaxDamage>
+         <LifetimeMS>425</LifetimeMS>
+         <Size>115</Size>		 
+      </Projectile>
+      <BagType>2</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+   
+   
+   
+      <Object type="0x5571" id="Redstone Pickaxe Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Picks\redstonepick</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+      <Rotation>100</Rotation>	  	  
+   </Object>
+   
+   
+        <Object type="0x5572" id="Redstone Pickaxe">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Picks\redstonepick</Id>
+      </RemoteTexture>
+      <SlotType>32</SlotType>
+      <Tier>2</Tier>
+      <Description>A redstoneaxe pickaxe made for defense.</Description>
+      <RateOfFire>0.85</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Redstone Pickaxe Projectile</ObjectId>
+         <Speed>170</Speed>
+         <MinDamage>110</MinDamage>
+         <MaxDamage>135</MaxDamage>
+         <LifetimeMS>425</LifetimeMS>
+         <Size>115</Size>		 
+      </Projectile>
+      <BagType>2</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+   
+      <Object type="0x5573" id="Lapis Lazuli Pickaxe Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Picks\lapispick</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+      <Rotation>100</Rotation>	  	  
+   </Object>
+   
+   
+        <Object type="0x5574" id="Lapis Lazuli Pickaxe">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Picks\lapispick</Id>
+      </RemoteTexture>
+      <SlotType>32</SlotType>
+      <Tier>3</Tier>
+      <Description>A lapis lazuli pickaxe made for defense.</Description>
+      <RateOfFire>0.85</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Lapis Lazuli Pickaxe Projectile</ObjectId>
+         <Speed>170</Speed>
+         <MinDamage>125</MinDamage>
+         <MaxDamage>150</MaxDamage>
+         <LifetimeMS>425</LifetimeMS>
+         <Size>115</Size>		 
+      </Projectile>
+      <BagType>2</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>   
+   
+   
+         <Object type="0x5575" id="Golden Pickaxe Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Picks\goldpick</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+      <Rotation>100</Rotation>	  	  
+   </Object>
+   
+   
+        <Object type="0x5576" id="Golden Pickaxe">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Picks\goldpick</Id>
+      </RemoteTexture>
+      <SlotType>32</SlotType>
+      <Tier>4</Tier>
+      <Description>A golden pickaxe made for defense.</Description>
+      <RateOfFire>0.85</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Golden Pickaxe Projectile</ObjectId>
+         <Speed>170</Speed>
+         <MinDamage>135</MinDamage>
+         <MaxDamage>165</MaxDamage>
+         <LifetimeMS>425</LifetimeMS>
+         <Size>115</Size>		 
+      </Projectile>
+      <BagType>4</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object> 
+
+
+         <Object type="0x5577" id="Iron Pickaxe Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Picks\ironpick</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+      <Rotation>100</Rotation>	  	  
+   </Object>
+   
+   
+        <Object type="0x5578" id="Iron Pickaxe">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Picks\ironpick</Id>
+      </RemoteTexture>
+      <SlotType>32</SlotType>
+      <Tier>5</Tier>
+      <Description>A iron pickaxe made for defense.</Description>
+      <RateOfFire>0.85</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Iron Pickaxe Projectile</ObjectId>
+         <Speed>170</Speed>
+         <MinDamage>145</MinDamage>
+         <MaxDamage>185</MaxDamage>
+         <LifetimeMS>425</LifetimeMS>
+         <Size>115</Size>		 
+      </Projectile>
+      <BagType>4</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object> 
+
+
+         <Object type="0x5579" id="Diamond Pickaxe Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Picks\diamondpick</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+      <Rotation>100</Rotation>	  	  
+   </Object>
+   
+   
+        <Object type="0x5580" id="Diamond Pickaxe">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Picks\diamondpick</Id>
+      </RemoteTexture>
+      <SlotType>32</SlotType>
+      <Tier>6</Tier>
+      <Description>A diamond pickaxe made for defense.</Description>
+      <RateOfFire>0.85</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Diamond Pickaxe Projectile</ObjectId>
+         <Speed>170</Speed>
+         <MinDamage>165</MinDamage>
+         <MaxDamage>200</MaxDamage>
+         <LifetimeMS>425</LifetimeMS>
+         <Size>115</Size>		 
+      </Projectile>
+      <BagType>4</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+
+         <Object type="0x5581" id="Emerald Pickaxe Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Picks\emeraldpick</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+      <Rotation>100</Rotation>	  	  
+   </Object>
+   
+   
+        <Object type="0x5582" id="Emerald Pickaxe">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Picks\emeraldpick</Id>
+      </RemoteTexture>
+      <SlotType>32</SlotType>
+      <Tier>7</Tier>
+      <Description>A emerald pickaxe made for defense.</Description>
+      <RateOfFire>0.85</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Emerald Pickaxe Projectile</ObjectId>
+         <Speed>170</Speed>
+         <MinDamage>190</MinDamage>
+         <MaxDamage>225</MaxDamage>
+         <LifetimeMS>425</LifetimeMS>
+         <Size>115</Size>		 
+      </Projectile>
+      <BagType>4</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>      
+
+         <Object type="0x5583" id="Obsidian Pickaxe Projectile">
+      <Class>Projectile</Class>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Picks\obsidianpick</Id>
+         <Right/>
+      </RemoteTexture>
+	  <AngleCorrection>1</AngleCorrection>
+      <Rotation>100</Rotation>	  
+   </Object>
+   
+   
+        <Object type="0x5584" id="Obsidian Pickaxe">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Picks\obsidianpick</Id>
+      </RemoteTexture>
+      <SlotType>32</SlotType>
+      <Tier>8</Tier>
+      <Description>A obsidian pickaxe made for defense.</Description>
+      <RateOfFire>0.85</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Obsidian Pickaxe Projectile</ObjectId>
+         <Speed>170</Speed>
+         <MinDamage>200</MinDamage>
+         <MaxDamage>245</MaxDamage>
+         <LifetimeMS>425</LifetimeMS>
+         <Size>115</Size>		 
+      </Projectile>
+      <BagType>4</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>      
+   
+   
+   
+      <Object type="0x7678" id="Speed I Potion">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Abilitys\speed1</Id>
+      </RemoteTexture>
+	  <Tier>1</Tier>
+      <SlotType>4</SlotType>
+      <Description>glob glob glob</Description>
+      <ActivateOnEquip stat="22" amount="5">IncrementStat</ActivateOnEquip>
+      <Usable/>
+      <BagType>4</BagType>
+      <FameBonus>2</FameBonus>
+      <MpCost>50</MpCost>
+      <Activate effect="Speedy" duration="3">ConditionEffectSelf</Activate>	  
+	  <Cooldown>4</Cooldown>
+   </Object>
+   
+         <Object type="0x7677" id="Speed II Potion">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Abilitys\speed2</Id>
+      </RemoteTexture>
+	  <Tier>2</Tier>
+      <SlotType>4</SlotType>
+      <Description>glob glob glob</Description>
+      <ActivateOnEquip stat="22" amount="25">IncrementStat</ActivateOnEquip>
+      <Usable/>
+      <BagType>4</BagType>
+      <MpCost>90</MpCost>
+      <Activate effect="Speedy" duration="6">ConditionEffectSelf</Activate>	  
+	  <Cooldown>5</Cooldown>
+   </Object>
+   
+            <Object type="0x7679" id="Speed III Potion">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Abilitys\speed2</Id>
+      </RemoteTexture>
+	  <Tier>3</Tier>
+      <SlotType>4</SlotType>
+      <Description>glob glob glob</Description>
+      <ActivateOnEquip stat="22" amount="100">IncrementStat</ActivateOnEquip>
+      <Usable/>
+      <BagType>4</BagType>
+      <MpCost>135</MpCost>
+      <Activate effect="Speedy" duration="9">ConditionEffectSelf</Activate>	  
+	  <Cooldown>4</Cooldown>
+   </Object>
+   
+   
+            <Object type="0x8488" id="Instant Health I Potion">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Abilitys\hp1</Id>
+      </RemoteTexture>
+	  <Tier>1</Tier>
+      <SlotType>4</SlotType>
+      <Description>glob glob glob</Description>
+      <Activate amount="300">Heal</Activate>
+      <Usable/>
+      <BagType>4</BagType>
+      <MpCost>110</MpCost>
+      <Activate effect="Healing" duration="3">ConditionEffectSelf</Activate>	  
+	  <Cooldown>4</Cooldown>
+   </Object>
+   
+            <Object type="0x7577" id="Instant Health II Potion">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Abilitys\hp2</Id>
+      </RemoteTexture>
+	  <Tier>2</Tier>
+      <SlotType>4</SlotType>
+      <Description>glob glob glob</Description>
+      <Activate amount="900">Heal</Activate>
+      <Usable/>
+      <BagType>4</BagType>
+      <MpCost>150</MpCost>
+      <Activate effect="Healing" duration="6">ConditionEffectSelf</Activate>	  
+	  <Cooldown>3</Cooldown>
+   </Object> 
+   
+               <Object type="0x7578" id="Instant Health III Potion">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Abilitys\hp2</Id>
+      </RemoteTexture>
+	  <Tier>3</Tier>
+      <SlotType>4</SlotType>
+      <Description>glob glob glob</Description>
+      <Activate amount="1800">Heal</Activate>
+      <Usable/>
+      <BagType>4</BagType>
+      <MpCost>250</MpCost>
+      <Activate effect="Healing" duration="9">ConditionEffectSelf</Activate>	  
+	  <Cooldown>2.5</Cooldown>
+   </Object> 
+
+
+         <Object type="0x8589" id="Haste I Potion">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Abilitys\haste1</Id>
+      </RemoteTexture>
+	  <Tier>1</Tier>
+      <SlotType>4</SlotType>
+      <Description>glob glob glob</Description>
+      <ActivateOnEquip stat="28" amount="5">IncrementStat</ActivateOnEquip>
+      <Usable/>
+      <BagType>4</BagType>
+      <MpCost>90</MpCost>
+      <Activate effect="Berserk" duration="3">ConditionEffectSelf</Activate>	  
+	  <Cooldown>5</Cooldown>
+   </Object>
+
+
+         <Object type="0x8599" id="Haste II Potion">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Abilitys\haste2</Id>
+      </RemoteTexture>
+	  <Tier>2</Tier>
+      <SlotType>4</SlotType>
+      <Description>glob glob glob</Description>
+      <ActivateOnEquip stat="28" amount="25">IncrementStat</ActivateOnEquip>
+      <Usable/>
+      <BagType>4</BagType>
+      <MpCost>135</MpCost>
+      <Activate effect="Berserk" duration="6">ConditionEffectSelf</Activate>	  
+	  <Cooldown>5</Cooldown>
+   </Object>    
+   
+            <Object type="0x8600" id="Haste III Potion">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Abilitys\haste2</Id>
+      </RemoteTexture>
+	  <Tier>3</Tier>
+      <SlotType>4</SlotType>
+      <Description>glob glob glob</Description>
+      <ActivateOnEquip stat="28" amount="100">IncrementStat</ActivateOnEquip>
+      <Usable/>
+      <BagType>4</BagType>
+      <MpCost>160</MpCost>
+      <Activate effect="Berserk" duration="7">ConditionEffectSelf</Activate>	  
+	  <Cooldown>4</Cooldown>
+   </Object>   
+
+
+	<Object type="0x6a0e" id="Haste IV Potion">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Abilitys\haste2</Id>
+      </RemoteTexture>
+      <SlotType>4</SlotType>
+      <Description>glob glob glob GLOB DRAIN</Description>
+      <ActivateOnEquip stat="28" amount="1000">IncrementStat</ActivateOnEquip>
+      <Usable/>
+      <BagType>4</BagType>
+      <MpCost>5000</MpCost>
+      <Activate stat="27" amount="5000" duration="10">StatBoostSelf</Activate>
+      <Activate effect="Berserk" duration="42">ConditionEffectSelf</Activate>	  
+	  <Cooldown>9</Cooldown>
+   </Object>
+	<Object type="0x6a0f" id="Instant Health IV Potion">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Abilitys\hp2</Id>
+      </RemoteTexture>
+      <SlotType>4</SlotType>
+      <Description>glob glob glob GLOB HEAL UP</Description>
+      <Activate amount="800000">Heal</Activate>
+      <ActivateOnEquip stat="0" amount="169420">IncrementStat</ActivateOnEquip>
+      <Usable/>
+      <BagType>4</BagType>
+      <MpCost>5000</MpCost>
+      <Activate stat="0" amount="1000000" duration="10">StatBoostSelf</Activate>
+      <Activate effect="Healing" duration="42">ConditionEffectSelf</Activate>	  
+	  <Cooldown>9</Cooldown>
+   </Object>
+   <Object type="0x6a09" id="Speed IV Potion">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Abilitys\speed2</Id>
+      </RemoteTexture>
+      <SlotType>4</SlotType>
+      <Description>idk why you are using this chief</Description>
+      <ActivateOnEquip stat="22" amount="1000000000">IncrementStat</ActivateOnEquip>
+      <Usable/>
+      <BagType>4</BagType>
+      <MpCost>5000</MpCost>
+      <Activate stat="22" amount="1337" duration="10">StatBoostSelf</Activate>
+      <Activate effect="Speedy" duration="69">ConditionEffectSelf</Activate>	  
+	  <Cooldown>9</Cooldown>
+   </Object>
+	<Object type="0x6a0a" id="Strength Potion">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Abilitys\hp2</Id>
+      </RemoteTexture>
+      <SlotType>4</SlotType>
+      <Description>kill them all.................................................</Description>
+      <ActivateOnEquip stat="20" amount="500">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="28" amount="350">IncrementStat</ActivateOnEquip>
+      <Usable/>
+      <BagType>4</BagType>
+      <MpCost>5000</MpCost>
+      <Activate stat="20" amount="1000" duration="8">StatBoostSelf</Activate>
+      <Activate effect="Damaging" duration="42">ConditionEffectSelf</Activate>  
+	  <Cooldown>9</Cooldown>
+   </Object>
+	<Object type="0x6a0d" id="TRUE Strength Potion">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Abilitys\hp2</Id>
+      </RemoteTexture>
+      <SlotType>4</SlotType>
+      <Description>kill yourself.................................................</Description>
+      <ActivateOnEquip stat="20" amount="-1000000000">IncrementStat</ActivateOnEquip>
+      <Usable/>
+      <BagType>4</BagType>
+      <MpCost>5000</MpCost>
+      <Activate stat="0" amount="-1000000000" duration="10">StatBoostSelf</Activate>
+	  <Cooldown>9</Cooldown>
+      <FameBonus>1</FameBonus>
+   </Object>
+	<Object type="0x6a10" id="Invisibility Potion">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>testing</Instance>
+         <Id>separate\Mc\Abilitys\invispotion</Id> <!-- fix this later, sprite is broken somehow lol-->
+      </RemoteTexture>
+      <SlotType>4</SlotType>
+      <Description>impossible. va t'faire enculer\nva t'faire enculer\nva t'faire enculer\nva t'faire enculer\nva t'faire enculer</Description>
+      <ActivateOnEquip stat="22" amount="1">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="20" amount="2000">IncrementStat</ActivateOnEquip>
+      <Usable/>
+      <BagType>6</BagType>
+      <MpCost>30000</MpCost>
+      <Activate stat="0" amount="-100000" duration="10">StatBoostSelf</Activate>
+      <Activate stat="3" amount="12000" duration="10">StatBoostSelf</Activate>
+      <Activate stat="27" amount="420" duration="6">StatBoostSelf</Activate>
+      <Activate effect="Invisible" duration="8">ConditionEffectSelf</Activate>  
+      <Activate effect="Invulnerable" duration="8">ConditionEffectSelf</Activate>
+	  <Cooldown>14</Cooldown>
+      <FameBonus>10000</FameBonus>
+   </Object>
+    <Object type="0x6a11" id="Magic? Stick">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Staffs\woodenStick</Id>
+      </RemoteTexture>
+      <SlotType>10</SlotType>
+      <Description>SUCK THE STICK</Description>
+      <BagType>6</BagType>
+   </Object> 
+  
+
+  <Object type="0x6983" id="Wooden Staff">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Staffs\woodenStick</Id>
+      </RemoteTexture>
+      <SlotType>17</SlotType>
+      <Description>a fuckign stick.</Description>
+      <RateOfFire>1</RateOfFire>
+	  <Tier>0</Tier>
+      <Sound>weapon/wand_of_death</Sound>
+      <Projectile>
+         <ObjectId>Big Fireball</ObjectId>
+         <Speed>180</Speed>
+         <MinDamage>40</MinDamage>
+         <MaxDamage>80</MaxDamage>
+         <LifetimeMS>475</LifetimeMS>
+         <Amplitude>0.5</Amplitude>
+         <Frequency>2</Frequency>
+      </Projectile>
+      <BagType>1</BagType>
+      <FameBonus>4</FameBonus>
+      <NumProjectiles>2</NumProjectiles>
+      <ArcGap>0</ArcGap>
+      <OldSound>magicShoot</OldSound>
+   </Object> 
+
+  <Object type="0x6984" id="Stone Staff">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Staffs\stoneStick</Id>
+      </RemoteTexture>
+      <SlotType>17</SlotType>
+      <Description>a fuckign stick.</Description>
+      <RateOfFire>1</RateOfFire>
+	  <Tier>1</Tier>
+      <Sound>weapon/wand_of_death</Sound>
+      <Projectile>
+         <ObjectId>Big Fireball</ObjectId>
+         <Speed>180</Speed>
+         <MinDamage>50</MinDamage>
+         <MaxDamage>90</MaxDamage>
+         <LifetimeMS>475</LifetimeMS>
+         <Amplitude>0.5</Amplitude>
+         <Frequency>2</Frequency>
+      </Projectile>
+      <BagType>4</BagType>
+      <FameBonus>4</FameBonus>
+      <NumProjectiles>2</NumProjectiles>
+      <ArcGap>0</ArcGap>
+      <OldSound>magicShoot</OldSound>
+   </Object> 
+
+  <Object type="0x6985" id="Redstone Staff">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Staffs\redStoneStick</Id>
+      </RemoteTexture>
+      <SlotType>17</SlotType>
+      <Description>a fuckign stick.</Description>
+      <RateOfFire>1</RateOfFire>
+	  <Tier>2</Tier>
+      <Sound>weapon/wand_of_death</Sound>
+      <Projectile>
+         <ObjectId>Big Fireball</ObjectId>
+         <Speed>180</Speed>
+         <MinDamage>50</MinDamage>
+         <MaxDamage>100</MaxDamage>
+         <LifetimeMS>475</LifetimeMS>
+         <Amplitude>0.5</Amplitude>
+         <Frequency>2</Frequency>
+      </Projectile>
+      <BagType>4</BagType>
+      <FameBonus>4</FameBonus>
+      <NumProjectiles>2</NumProjectiles>
+      <ArcGap>0</ArcGap>
+      <OldSound>magicShoot</OldSound>
+   </Object>  
+
+
+  <Object type="0x6986" id="Lapis Lazuli Staff">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Staffs\lapisStick</Id>
+      </RemoteTexture>
+      <SlotType>17</SlotType>
+      <Description>a fuckign stick.</Description>
+      <RateOfFire>1</RateOfFire>
+	  <Tier>3</Tier>
+      <Sound>weapon/wand_of_death</Sound>
+      <Projectile>
+         <ObjectId>Big Fireball</ObjectId>
+         <Speed>180</Speed>
+         <MinDamage>60</MinDamage>
+         <MaxDamage>100</MaxDamage>
+         <LifetimeMS>475</LifetimeMS>
+         <Amplitude>0.5</Amplitude>
+         <Frequency>2</Frequency>
+      </Projectile>
+      <BagType>4</BagType>
+      <FameBonus>4</FameBonus>
+      <NumProjectiles>2</NumProjectiles>
+      <ArcGap>0</ArcGap>
+      <OldSound>magicShoot</OldSound>
+   </Object> 
+
+  <Object type="0x6987" id="Golden Staff">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Staffs\goldenStick</Id>
+      </RemoteTexture>
+      <SlotType>17</SlotType>
+      <Description>a fuckign stick.</Description>
+      <RateOfFire>1</RateOfFire>
+	  <Tier>4</Tier>
+      <Sound>weapon/wand_of_death</Sound>
+      <Projectile>
+         <ObjectId>Big Fireball</ObjectId>
+         <Speed>180</Speed>
+         <MinDamage>65</MinDamage>
+         <MaxDamage>105</MaxDamage>
+         <LifetimeMS>475</LifetimeMS>
+         <Amplitude>0.5</Amplitude>
+         <Frequency>2</Frequency>
+      </Projectile>
+      <BagType>4</BagType>
+      <FameBonus>4</FameBonus>
+      <NumProjectiles>2</NumProjectiles>
+      <ArcGap>0</ArcGap>
+      <OldSound>magicShoot</OldSound>
+   </Object> 
+
+  <Object type="0x6988" id="Iron Staff">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Staffs\ironStick</Id>
+      </RemoteTexture>
+      <SlotType>17</SlotType>
+      <Description>a fuckign stick.</Description>
+      <RateOfFire>1</RateOfFire>
+	  <Tier>5</Tier>
+      <Sound>weapon/wand_of_death</Sound>
+      <Projectile>
+         <ObjectId>Big Fireball</ObjectId>
+         <Speed>180</Speed>
+         <MinDamage>70</MinDamage>
+         <MaxDamage>110</MaxDamage>
+         <LifetimeMS>475</LifetimeMS>
+         <Amplitude>0.5</Amplitude>
+         <Frequency>2</Frequency>
+      </Projectile>
+      <BagType>4</BagType>
+      <FameBonus>4</FameBonus>
+      <NumProjectiles>2</NumProjectiles>
+      <ArcGap>0</ArcGap>
+      <OldSound>magicShoot</OldSound>
+   </Object>
+
+  <Object type="0x6989" id="Diamond Staff">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Staffs\diamondStick</Id>
+      </RemoteTexture>
+      <SlotType>17</SlotType>
+      <Description>a fuckign stick.</Description>
+      <RateOfFire>1</RateOfFire>
+	  <Tier>6</Tier>
+      <Sound>weapon/wand_of_death</Sound>
+      <Projectile>
+         <ObjectId>Big Fireball</ObjectId>
+         <Speed>180</Speed>
+         <MinDamage>70</MinDamage>
+         <MaxDamage>110</MaxDamage>
+         <LifetimeMS>475</LifetimeMS>
+         <Amplitude>0.5</Amplitude>
+         <Frequency>2</Frequency>
+      </Projectile>
+      <BagType>4</BagType>
+      <FameBonus>4</FameBonus>
+      <NumProjectiles>2</NumProjectiles>
+      <ArcGap>0</ArcGap>
+      <OldSound>magicShoot</OldSound>
+   </Object>
+
+
+  <Object type="0x6990" id="Emerald Staff">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Staffs\emeraldStick</Id>
+      </RemoteTexture>
+      <SlotType>17</SlotType>
+      <Description>a fuckign stick.</Description>
+      <RateOfFire>1</RateOfFire>
+	  <Tier>7</Tier>
+      <Sound>weapon/wand_of_death</Sound>
+      <Projectile>
+         <ObjectId>Big Fireball</ObjectId>
+         <Speed>180</Speed>
+         <MinDamage>80</MinDamage>
+         <MaxDamage>120</MaxDamage>
+         <LifetimeMS>475</LifetimeMS>
+         <Amplitude>0.5</Amplitude>
+         <Frequency>2</Frequency>
+      </Projectile>
+      <BagType>4</BagType>
+      <FameBonus>4</FameBonus>
+      <NumProjectiles>2</NumProjectiles>
+      <ArcGap>0</ArcGap>
+      <OldSound>magicShoot</OldSound>
+   </Object>
+
+  <Object type="0x6991" id="Obsidian Staff">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Tools\Staffs\obsidianStick</Id>
+      </RemoteTexture>
+      <SlotType>17</SlotType>
+      <Description>a fuckign stick.</Description>
+      <RateOfFire>1</RateOfFire>
+	  <Tier>8</Tier>
+      <Sound>weapon/wand_of_death</Sound>
+      <Projectile>
+         <ObjectId>Big Fireball</ObjectId>
+         <Speed>180</Speed>
+         <MinDamage>90</MinDamage>
+         <MaxDamage>135</MaxDamage>
+         <LifetimeMS>475</LifetimeMS>
+         <Amplitude>0.5</Amplitude>
+         <Frequency>2</Frequency>
+      </Projectile>
+      <BagType>4</BagType>
+      <FameBonus>4</FameBonus>
+      <NumProjectiles>2</NumProjectiles>
+      <ArcGap>0</ArcGap>
+      <OldSound>magicShoot</OldSound>
+   </Object>
+   
+   
+         <Object type="0x6992" id="Ring of Great Health">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Rings\hp</Id>
+      </RemoteTexture>
+      <SlotType>9</SlotType>
+	  <Tier>1</Tier>
+      <Description>Wearing it makes you feel particularly strong.</Description>
+      <ActivateOnEquip stat="0" amount="480">IncrementStat</ActivateOnEquip>
+      <BagType>4</BagType>
+   </Object>
+   
+   
+      <Object type="0x6993" id="Ring of Great Magic">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Rings\mp</Id>
+      </RemoteTexture>
+      <SlotType>9</SlotType>
+	  <Tier>1</Tier>
+      <Description>Wearing it makes you feel particularly strong.</Description>
+      <ActivateOnEquip stat="3" amount="480">IncrementStat</ActivateOnEquip>
+      <BagType>4</BagType>
+   </Object>
+
+
+      <Object type="0x6994" id="Ring of Great Attack">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Rings\atk</Id>
+      </RemoteTexture>
+      <SlotType>9</SlotType>
+	  <Tier>1</Tier>
+      <Description>Wearing it makes you feel particularly strong.</Description>
+      <ActivateOnEquip stat="20" amount="50">IncrementStat</ActivateOnEquip>
+      <BagType>4</BagType>
+   </Object>
+
+
+      <Object type="0x6995" id="Ring of Great Defense">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Rings\def</Id>
+      </RemoteTexture>
+      <SlotType>9</SlotType>
+	  <Tier>1</Tier>
+      <Description>Wearing it makes you feel particularly strong.</Description>
+      <ActivateOnEquip stat="21" amount="50">IncrementStat</ActivateOnEquip>
+      <BagType>4</BagType>
+   </Object>   
+
+
+      <Object type="0x6996" id="Ring of Great Speed">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Rings\spd</Id>
+      </RemoteTexture>
+      <SlotType>9</SlotType>
+	  <Tier>1</Tier>
+      <Description>Wearing it makes you feel particularly strong.</Description>
+      <ActivateOnEquip stat="22" amount="50">IncrementStat</ActivateOnEquip>
+      <BagType>4</BagType>
+   </Object>
+
+
+      <Object type="0x6997" id="Ring of Great Dexterity">
+      <Class>Equipment</Class>
+      <Item/>
+      <RemoteTexture>
+         <Instance>production</Instance>
+         <Id>separate\Mc\Rings\dex</Id>
+      </RemoteTexture>
+      <SlotType>9</SlotType>
+	  <Tier>1</Tier>
+      <Description>Wearing it makes you feel particularly strong.</Description>
+      <ActivateOnEquip stat="28" amount="50">IncrementStat</ActivateOnEquip>
+      <BagType>4</BagType>
+   </Object>
+
+
+       <Object type="0x8761" id="Bedrock Chestplate">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x76</Index>
+      </Texture>
+      <SlotType>7</SlotType>
+	  <Crafted/>
+      <Description>an amour !!!!  omg.</Description>
+      <ActivateOnEquip stat="0" amount="155000">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="21" amount="10000">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="20" amount="600">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="22" amount="-100">IncrementStat</ActivateOnEquip>	  
+      <BagType>6</BagType>
+   </Object>
+   
+
+
+ <Object type="0x8764" id="Bedrock Sword Projectile">
+      <Class>Projectile</Class>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x74</Index>
+      </Texture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+
+        <Object type="0x8765" id="Bedrock Sword">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x74</Index>
+      </Texture>
+      <SlotType>1</SlotType>
+      <Description>A bedrock sword made for defense.</Description>
+      <RateOfFire>1</RateOfFire>
+      <Sound>weapon/blunt_sword</Sound>
+      <Projectile>
+         <ObjectId>Bedrock Sword Projectile</ObjectId>
+         <Speed>100</Speed>
+         <MinDamage>2500</MinDamage>
+         <MaxDamage>6000</MaxDamage>
+         <LifetimeMS>475</LifetimeMS>
+         <Size>135</Size>		 
+      </Projectile>
+      <BagType>6</BagType>
+	  <Crafted/>
+      <OldSound>bladeSwing</OldSound>
+   </Object>      
+   
+   
+      <Object type="0x8766" id="Bedrock Axe Projectile">
+      <Class>Projectile</Class>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x70</Index>
+      </Texture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+     <Object type="0x8767" id="Bedrock Axe">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x70</Index>
+      </Texture>
+      <SlotType>30</SlotType>
+      <Description>A Bedrock Axe made for practice.</Description>
+      <RateOfFire>0.8</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Bedrock Axe Projectile</ObjectId>
+         <Speed>120</Speed>
+         <MinDamage>3000</MinDamage>
+         <MaxDamage>9000</MaxDamage>
+         <LifetimeMS>375</LifetimeMS>
+         <Size>135</Size>		 		 
+      </Projectile>
+	  <Crafted/>
+      <BagType>6</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+   
+   
+            <Object type="0x8768" id="Bedrock Wand Projectile">
+      <Class>Projectile</Class>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x75</Index>
+      </Texture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>
+   
+   
+        <Object type="0x8769" id="Bedrock Wand">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x75</Index>
+      </Texture>
+      <SlotType>8</SlotType>
+      <Description>A Bedrock wand made for defense.</Description>
+      <RateOfFire>1.25</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Bedrock Wand Projectile</ObjectId>
+         <Speed>140</Speed>
+         <MinDamage>1750</MinDamage>
+         <MaxDamage>4000</MaxDamage>
+         <LifetimeMS>550</LifetimeMS>
+         <Size>115</Size>		 
+      </Projectile>
+	  <Crafted/>
+      <BagType>6</BagType>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+
+
+         <Object type="0x8770" id="Bedrock Pickaxe Projectile">
+      <Class>Projectile</Class>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x72</Index>
+      </Texture>
+	  <AngleCorrection>1</AngleCorrection>
+      <Rotation>100</Rotation>	  
+   </Object>
+   
+   
+        <Object type="0x8771" id="Bedrock Pickaxe">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x72</Index>
+      </Texture>
+      <SlotType>32</SlotType>
+      <Description>A bedrock pickaxe made for defense.</Description>
+      <RateOfFire>1.1</RateOfFire>
+      <Sound>weapon/blunt_axe</Sound>
+      <Projectile>
+         <ObjectId>Bedrock Pickaxe Projectile</ObjectId>
+         <Speed>170</Speed>
+         <MinDamage>2250</MinDamage>
+         <MaxDamage>4500</MaxDamage>
+         <LifetimeMS>425</LifetimeMS>
+         <Size>115</Size>		 
+      </Projectile>
+      <BagType>6</BagType>
+	  <Crafted/>
+      <OldSound>bladeSwing</OldSound>
+   </Object>   
+
+
+  <Object type="0x8772" id="Bedrock Staff">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x73</Index>
+      </Texture>
+      <SlotType>17</SlotType>
+      <Description>a fuckign stick.</Description>
+      <RateOfFire>1.25</RateOfFire>
+      <Sound>weapon/wand_of_death</Sound>
+      <Projectile>
+         <ObjectId>Big Fireball</ObjectId>
+         <Speed>180</Speed>
+         <MinDamage>2000</MinDamage>
+         <MaxDamage>3000</MaxDamage>
+         <LifetimeMS>600</LifetimeMS>
+         <Amplitude>0.5</Amplitude>
+         <Frequency>1</Frequency>
+      </Projectile>
+      <BagType>6</BagType>
+      <NumProjectiles>2</NumProjectiles>
+      <ArcGap>0</ArcGap>
+	  <Crafted/>
+      <OldSound>magicShoot</OldSound>
+   </Object>
+
+	<Object type="0x8773" id="Glowstone">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>lofiItems16x16</File>
+			<Index>0x3b</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>use in nexus nigga.</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<Crafted/>
+		<BagType>6</BagType>
+		<Activate>Glowstone</Activate>
+		<Track/>
+	</Object>
+
+	<Object type="0x8774" id="Glowstone Dust">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>lofiItems16x16</File>
+			<Index>0x3a</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>craft nigga.</Description>
+		<Sound>use_key</Sound>
+		<BagType>6</BagType>
+	</Object>
+
+	<Object type="0x8775" id="Magical Water">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>lofiItems16x16</File>
+			<Index>0x49</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>use in nexus nigga.</Description>
+		<Sound>use_key</Sound>
+		<Consumable/>
+		<Crafted/>
+		<BagType>6</BagType>
+		<Activate>Glowstone</Activate>
+		<Track/>
+	</Object>  	
+	
+	<Object type="0x8776" id="Water Bucket">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>lofiItems16x16</File>
+			<Index>0x66</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>craft nigga.</Description>
+		<Sound>use_key</Sound>
+		<BagType>6</BagType>
+   </Object>
+   
+</Objects>

@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/client/libs/robotlegs.swc!/" />
+      <root url="jar://$PROJECT_DIR$/client/libs/as3core.swc!/" />
+      <root url="jar://$PROJECT_DIR$/client/libs/ionel.swc!/" />
+      <root url="jar://$PROJECT_DIR$/client/libs/Swiftsuspenders-v2.0.0rc1.swc!/" />
+      <root url="jar://$PROJECT_DIR$/client/libs/Console.swc!/" />
+      <root url="jar://$PROJECT_DIR$/client/libs/MonsterDebugger.swc!/" />
+      <root url="jar://$PROJECT_DIR$/client/libs/as3crypto.swc!/" />
+      <root url="jar://$PROJECT_DIR$/client/libs/starling.swc!/" />
+      <root url="jar://$PROJECT_DIR$/client/libs/hamcrest-as3-flex-1.1.3.swc!/" />
+      <root url="jar://$PROJECT_DIR$/client/libs/Hi-Res-Stats.swc!/" />
+      <root url="jar://$PROJECT_DIR$/client/libs/as3-signals.swc!/" />
+      <root url="jar://$PROJECT_DIR$/client/libs/color.swc!/" />
+      <root url="jar://$PROJECT_DIR$/client/libs/multipart-url-loader.swc!/" />
+      <root url="jar://$PROJECT_DIR$/client/libs/GTween-v2.01.swc!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

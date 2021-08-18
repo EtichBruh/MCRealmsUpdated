@@ -1,0 +1,56 @@
+﻿<Objects>
+<!-- NOT RELEASED YET FUCKER
+		<Object type="0x5104" id="Fallen Crown">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\crown</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>i used to rule the world.</Description>
+		<ActivateOnEquip stat="3" amount="2500">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="20" amount="500">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="22" amount="250">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="26" amount="250">IncrementStat</ActivateOnEquip>
+		<Legendary/>
+		<BagType>6</BagType>
+		<FameBonus>99</FameBonus>
+	</Object>
+	
+	<Object type="0x5105" id="Fallen Sword Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\fallensword</Id>
+			<Right/>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x5106" id="Fallen Sword">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\fallensword</Id>
+		</RemoteTexture>
+		<SlotType>1</SlotType>
+		<Description>i used to rulllllllllllllllleeeeeeeeeeeeeee the world</Description>
+		<RateOfFire>1.5</RateOfFire>
+		<Sound>weapon/blunt_sword</Sound>
+		<Projectile>
+			<ObjectId>Fallen Sword Projectile</ObjectId>
+			<Speed>190</Speed>
+			<MinDamage>250</MinDamage>
+			<MaxDamage>700</MaxDamage>
+			<LifetimeMS>500</LifetimeMS>
+			<ArmorPiercing/>
+			<Size>130</Size>
+		</Projectile>
+		<Legendary/>
+		<BagType>6</BagType>
+		<OldSound>bladeSwing</OldSound>
+	</Object>	
+
+ NOT RELEASED YET FUCKER !-->
+</Objects>

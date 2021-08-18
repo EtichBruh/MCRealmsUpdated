@@ -1,0 +1,94 @@
+﻿<Objects>
+	<Object type="0x4429" id="Enchanted Trident of the Sea">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\MC\Trident</Id>
+		</RemoteTexture>
+		<SlotType>8</SlotType>
+		<Description>A TRIDENT FUCKER</Description>
+		<RateOfFire>1.1</RateOfFire>
+		<Sound>weapon/wand_of_death</Sound>
+		<Projectile>
+			<ObjectId>Trident of Sea</ObjectId>
+			<Speed>135</Speed>
+			<LifetimeMS>1150</LifetimeMS>
+			<MinDamage>325</MinDamage>
+			<MaxDamage>450</MaxDamage>
+			<Size>180</Size>
+			<MultiHit/>
+		</Projectile>
+		<Legendary/>
+		<BagType>6</BagType>
+		<Crafted/>		
+		<FameBonus>15</FameBonus>
+		<OldSound>magicShoot</OldSound>
+	</Object>	
+	<Object type="0x4082" id="Trident of Sea">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\Mc\Trident</Id>
+			<Right/>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x4083" id="Trident of the Sea">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\MC\Trident</Id>
+		</RemoteTexture>
+		<SlotType>8</SlotType>
+		<Description>A TRIDENT FUCKER</Description>
+		<RateOfFire>0.8</RateOfFire>
+		<Sound>weapon/wand_of_death</Sound>
+		<Projectile>
+			<ObjectId>Trident of Sea</ObjectId>
+			<Speed>135</Speed>
+			<LifetimeMS>1000</LifetimeMS>
+			<MinDamage>250</MinDamage>
+			<MaxDamage>400</MaxDamage>
+			<Size>180</Size>
+			<MultiHit/>
+		</Projectile>
+		<BagType>6</BagType>
+		<Crafted/>		
+		<FameBonus>15</FameBonus>
+		<OldSound>magicShoot</OldSound>
+	</Object>
+
+	<Object type="0x4084" id="The Skin of the Elder Guardian">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\MC\guardianSkin</Id>
+		</RemoteTexture>
+		<SlotType>7</SlotType>
+		<Description>ew</Description>
+		<ActivateOnEquip stat="0" amount="3000">IncrementStat</ActivateOnEquip>
+		<Legendary/>
+		<BagType>6</BagType>
+		<Rare/>		
+		<FameBonus>15</FameBonus>
+	</Object>		
+	
+	
+	   <Object type="0x4085" id="The Tail of the Elder Guardian">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\MC\tailoftheguardian</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>swimmmmm fasterr eofk</Description>
+		<ActivateOnEquip stat="22" amount="400">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<Rare/>		
+		<FameBonus>25</FameBonus>
+	</Object>
+</Objects>

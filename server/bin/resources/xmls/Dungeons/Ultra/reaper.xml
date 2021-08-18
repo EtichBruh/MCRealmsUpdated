@@ -1,0 +1,150 @@
+﻿<Objects>
+	<Object type="0x8662" id="Reaper's Hood">
+		<Class>Equipment</Class>
+		<Usable/>
+		<Item/>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x29</Index>
+      </Texture>
+		<SlotType>4</SlotType>
+		<Description>sheesh not fire</Description>
+		<Sound>spell/major_heal</Sound>
+        <Activate stat="20" amount="1500" duration="4" range="3">StatBoostAura</Activate>				
+        <Activate stat="28" amount="800" duration="4" range="2">StatBoostAura</Activate>		
+        <ActivateOnEquip stat="22" amount="250">IncrementStat</ActivateOnEquip>		
+		<Legendary/>		
+		<BagType>6</BagType>
+		<FameBonus>500</FameBonus>
+		<Cooldown>6</Cooldown>
+		<MpCost>50</MpCost>
+	</Object>
+	
+	     <Object type="0x4660" id="fake scythe of doom nigga">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x05</Index>
+      </Texture>
+      <SlotType>17</SlotType>
+      <Description>LOL NOOB, imagine dropping this thinking its the fake</Description>
+      <RateOfFire>1.25</RateOfFire>
+      <Sound>weapon/wand_of_death</Sound>
+      <Projectile>
+         <ObjectId>Scythe Blade</ObjectId>
+         <Speed>155</Speed>
+         <MinDamage>1200</MinDamage>
+         <MaxDamage>2500</MaxDamage>
+         <LifetimeMS>655</LifetimeMS>
+      </Projectile>
+      <BagType>6</BagType>
+	  <Legendary/>
+      <NumProjectiles>5</NumProjectiles>
+	  <ArcGap>5</ArcGap>
+      <OldSound>magicShoot</OldSound>
+   </Object>
+   
+      <Object type="0x4661" id="Scythe Blade">
+      <Class>Projectile</Class>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x05</Index>
+      </Texture>
+	  <Rotation>180</Rotation>
+   </Object>
+   
+	   <Object type="0x8663" id="Scythe of Death">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x05</Index>
+      </Texture>
+      <SlotType>17</SlotType>
+      <Description>OH FUCK!.</Description>
+      <RateOfFire>1.66</RateOfFire>
+      <Sound>weapon/wand_of_death</Sound>
+      <Projectile>
+         <ObjectId>Scythe Blade</ObjectId>
+         <Speed>180</Speed>
+         <MinDamage>1</MinDamage>
+         <MaxDamage>2</MaxDamage>
+         <LifetimeMS>500</LifetimeMS>
+         <Amplitude>0.5</Amplitude>
+         <Frequency>1</Frequency>
+		 <ArmorPiercing/>
+      </Projectile>
+	  <Legendary/>
+      <BagType>6</BagType>
+      <FameBonus>10</FameBonus>
+      <NumProjectiles>4</NumProjectiles>
+      <ArcGap>4</ArcGap>
+	  <Legendary/>
+      <OldSound>magicShoot</OldSound>
+   </Object>
+
+   <Object type="0x8489" id="Bedrock">
+      <Class>Equipment</Class>
+      <Item/>
+		<Texture>
+			<File>lofiProjsBig</File>
+			<Index>0x65</Index>
+		</Texture>
+      <SlotType>9</SlotType>
+      <Description>um no.</Description>
+      <BagType>6</BagType>
+   </Object>
+   
+   
+     <Object type="0x4587" id="Pick of the Gay Reaper">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x26</Index>
+      </Texture>
+      <SlotType>32</SlotType>
+      <Description>ok nigga pick</Description>
+      <RateOfFire>1.33</RateOfFire>
+      <Sound>weapon/wand_of_death</Sound>
+      <Projectile>
+         <ObjectId>Scythe Pick</ObjectId>
+         <Speed>140</Speed>
+         <MinDamage>4000</MinDamage>
+         <MaxDamage>9000</MaxDamage>
+         <LifetimeMS>900</LifetimeMS>
+         <Size>125</Size>
+		 <ArmorPiercing/>
+		 <MultiHit/>
+      </Projectile>
+      <BagType>6</BagType>
+	  <Crafted/>	  
+      <FameBonus>5000</FameBonus>
+      <OldSound>magicShoot</OldSound>
+   </Object>
+   
+         <Object type="0x4588" id="Scythe Pick">
+      <Class>Projectile</Class>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x26</Index>
+      </Texture>
+	  <Rotation>360</Rotation>
+   </Object>
+   
+   
+   	<Object type="0x4589" id="Reaper's Hood 2.0 but material">
+		<Class>Equipment</Class>
+		<Usable/>
+		<Item/>
+        <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x2a</Index>
+        </Texture>
+		<SlotType>9</SlotType>
+		<Description>sheesh fire</Description>
+		<Legendary/>		
+		<BagType>6</BagType>
+	</Object>
+</Objects>

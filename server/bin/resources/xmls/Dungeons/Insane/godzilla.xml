@@ -1,0 +1,55 @@
+﻿<Objects>
+<!-- NOT RELEASED YET FUCKER
+		<Object type="0x5107" id="NIGGA SCALES">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\scalesgod</Id>
+		</RemoteTexture>
+		<SlotType>7</SlotType>
+		<Description>an op nigga armor smh</Description>
+		<ActivateOnEquip stat="0" amount="50000">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="500">IncrementStat</ActivateOnEquip>	
+	    <ActivateOnEquip stat="22" amount="-100">IncrementStat</ActivateOnEquip>					
+		<Legendary/>
+		<BagType>6</BagType>
+		<FameBonus>1000</FameBonus>
+	</Object>
+
+	<Object type="0x5108" id="Tail Projectile">
+		<Class>Projectile</Class>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\tailgod</Id>
+			<Right/>
+		</RemoteTexture>
+		<AngleCorrection>1</AngleCorrection>
+	</Object>
+	<Object type="0x5109" id="Godzilla's Tail">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\tailgod</Id>
+		</RemoteTexture>
+		<SlotType>30</SlotType>
+		<Description>whip their asses bitch</Description>
+		<RateOfFire>1.15</RateOfFire>
+		<Sound>weapon/blunt_sword</Sound>
+		<Projectile>
+			<ObjectId>Tail Projectile</ObjectId>
+			<Speed>80</Speed>
+			<MinDamage>150</MinDamage>
+			<MaxDamage>375</MaxDamage>
+			<LifetimeMS>900</LifetimeMS>
+			<Size>190</Size>
+		</Projectile>
+	    <NumProjectiles>3</NumProjectiles>
+		<ArcGap>8</ArcGap>	
+		<Legendary/>
+		<BagType>6</BagType>
+		<OldSound>bladeSwing</OldSound>
+	</Object>
+  NOT RELEASED YET FUCKER !-->
+</Objects>

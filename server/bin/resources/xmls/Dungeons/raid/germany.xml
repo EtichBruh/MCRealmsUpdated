@@ -1,0 +1,90 @@
+﻿<Objects>
+	<Object type="0x7659" id="MP-40">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\mp40</Id>
+		</RemoteTexture>
+		<SlotType>32</SlotType>
+		<Description>get them niggas with jews</Description>
+		<RateOfFire>1.15</RateOfFire>
+		<Sound>weapon/poor_quality_bow</Sound>
+		<Projectile>
+			<ObjectId>Giant Cannonball</ObjectId>
+			<Speed>170</Speed>
+			<Size>125</Size>
+			<MinDamage>700</MinDamage>
+			<MaxDamage>2500</MaxDamage>
+			<LifetimeMS>800</LifetimeMS>
+			<MultiHit/>
+		</Projectile>
+		<BagType>6</BagType>
+		<OldSound>arrowShoot</OldSound>
+	</Object>
+	
+	<Object type="0x7660" id="Luger">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\luger</Id>
+		</RemoteTexture>
+		<SlotType>30</SlotType>
+		<Description>get them jews</Description>
+		<RateOfFire>0.5</RateOfFire>
+		<Sound>weapon/poor_quality_bow</Sound>
+		<Projectile>
+			<ObjectId>Giant Cannonball</ObjectId>
+			<Speed>155</Speed>
+			<Size>235</Size>
+			<MinDamage>1500</MinDamage>
+			<MaxDamage>2600</MaxDamage>
+			<LifetimeMS>800</LifetimeMS>
+			<MultiHit/>
+		</Projectile>
+		<BagType>6</BagType>
+		<OldSound>arrowShoot</OldSound>
+	</Object>
+
+	<Object type="0x7661" id="Ray Gun">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\raygun</Id>
+		</RemoteTexture>
+		<SlotType>3</SlotType>
+		<Description>get them jews</Description>
+		<RateOfFire>0.8</RateOfFire>
+		<Sound>weapon/poor_quality_bow</Sound>
+		<Projectile>
+			<ObjectId>Green Magic</ObjectId>
+			<Speed>155</Speed>
+			<Size>235</Size>
+			<MinDamage>1700</MinDamage>
+			<MaxDamage>3000</MaxDamage>
+			<LifetimeMS>700</LifetimeMS>
+			<ArmorPiercing/>
+		</Projectile>
+		<BagType>6</BagType>
+		<Legendary/>
+		<OldSound>arrowShoot</OldSound>
+	</Object>
+
+  <Object type="0x7662" id="Jewish Gas Chamber Robe">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x14</Index>
+      </Texture>
+      <SlotType>7</SlotType>
+      <Description>omg so cool i want to get gassed.</Description>
+      <ActivateOnEquip stat="0" amount="-100">IncrementStat</ActivateOnEquip>
+      <ActivateOnEquip stat="26" amount="1">IncrementStat</ActivateOnEquip>	  
+      <BagType>6</BagType>
+	  <Legendary/>
+      <FameBonus>60</FameBonus>
+   </Object>	
+</Objects>

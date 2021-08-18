@@ -1,0 +1,69 @@
+﻿<Objects>
+   <Object type="0x7367" id="MURDERS KNIFE">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x25</Index>
+      </Texture>
+      <SlotType>1</SlotType>
+      <Description>Red and zolmex sus asf.</Description>
+      <RateOfFire>0.8</RateOfFire>
+      <Sound>weapon/mithril_sword</Sound>
+      <Projectile>
+         <ObjectId>Murders Blade</ObjectId>
+         <Speed>140</Speed>
+         <MinDamage>400</MinDamage>
+         <MaxDamage>900</MaxDamage>
+         <LifetimeMS>600</LifetimeMS>
+         <Size>150</Size>
+      </Projectile>
+      <BagType>6</BagType>
+		<Rare/>		
+      <FameBonus>40</FameBonus>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+   
+      <Object type="0x7368" id="Murders Blade">
+      <Class>Projectile</Class>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x25</Index>
+      </Texture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>    
+   
+     <Object type="0x7369" id="MURDERS LONG SHARP DILDO">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x27</Index>
+      </Texture>
+      <SlotType>1</SlotType>
+      <Description>yup ethanGOLD sus af.</Description>
+      <RateOfFire>1.1</RateOfFire>
+      <Sound>weapon/mithril_sword</Sound>
+      <Projectile>
+         <ObjectId>long sharp dildo proj</ObjectId>
+         <Speed>115</Speed>
+         <MinDamage>500</MinDamage>
+         <MaxDamage>1000</MaxDamage>
+         <LifetimeMS>575</LifetimeMS>
+         <Size>190</Size>
+      </Projectile>
+	  <Legendary/>
+      <BagType>6</BagType>
+		<Crafted/>		
+      <FameBonus>100</FameBonus>
+      <OldSound>bladeSwing</OldSound>
+   </Object>
+   <Object type="0x7370" id="long sharp dildo proj">
+      <Class>Projectile</Class>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x27</Index>
+      </Texture>
+	  <AngleCorrection>1</AngleCorrection>
+   </Object>    
+</Objects>

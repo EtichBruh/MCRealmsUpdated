@@ -1,0 +1,21 @@
+﻿<Objects>
+	<Object type="0x8969" id="Shitass's Head">
+		<Class>Equipment</Class>
+		<Usable/>
+		<Item/>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x2b</Index>
+      </Texture>
+		<SlotType>4</SlotType>
+		<Description>omg</Description>
+		<Sound>spell/major_heal</Sound> 
+        <Activate stat="0" amount="2500000" duration="15" range="6">StatBoostAura</Activate>					
+        <Activate stat="26" amount="250000" duration="5" range="6">StatBoostAura</Activate>		
+		<BagType>6</BagType>
+		<Legendary/>
+		<FameBonus>8000</FameBonus>
+		<Cooldown>25</Cooldown>
+		<MpCost>10000</MpCost>
+	</Object>
+</Objects>

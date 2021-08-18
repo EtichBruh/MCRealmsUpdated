@@ -1,0 +1,33 @@
+{
+  "dbInfo": {
+    "host": "127.0.0.1", //dont change
+    "port": "6379",
+    "auth": "",
+    "index": "0"
+  },
+  "serverInfo": {
+    "type": "World",
+    "name": "Amogus x MC Realms",
+    "address": "85.215.229.119",
+    "port": "2050",
+    "coordinates": {
+      "latitude": "0",
+      "longitude": "0"
+    },
+    "adminOnly": "false"
+  },
+  "serverSettings": {
+    "logFolder": "./logs",
+    "resourceFolder": "./resources",
+    "version": "Release x 2.9.5",
+    "tps": "20",
+    "mode": "Single",
+    "key": "B1A5ED",
+    "maxConnections": "200",
+    "maxPlayers": "160",
+    "maxPlayersWithPriority": "180",
+    "enablePets": "false",
+    "enableMarket": "true",
+	"log2Discord": "false"
+  }
+}

@@ -1,0 +1,35 @@
+D:\heatblast-main\heatblast-main\MC-realm-master\server\bin\log4net_rl.config
+D:\heatblast-main\heatblast-main\MC-realm-master\server\bin\RemoteLogger.exe.config
+D:\heatblast-main\heatblast-main\MC-realm-master\server\bin\RemoteLogger.exe
+D:\heatblast-main\heatblast-main\MC-realm-master\server\bin\RemoteLogger.pdb
+D:\heatblast-main\heatblast-main\MC-realm-master\server\RemoteLogger\obj\Debug\RemoteLogger.csproj.CoreCompileInputs.cache
+D:\heatblast-main\heatblast-main\MC-realm-master\server\RemoteLogger\obj\Debug\RemoteLogger.csproj.CopyComplete
+D:\heatblast-main\heatblast-main\MC-realm-master\server\RemoteLogger\obj\Debug\RemoteLogger.exe
+D:\heatblast-main\heatblast-main\MC-realm-master\server\RemoteLogger\obj\Debug\RemoteLogger.pdb
+D:\heatblast-main\heatblast-main\MC-realm-master\server\RemoteLogger\obj\Debug\RemoteLogger.csprojAssemblyReference.cache
+D:\heatblast-main\heatblast-main\heatblast-main\heatblast-main\MC-realm-master\server\bin\log4net_rl.config
+D:\heatblast-main\heatblast-main\heatblast-main\heatblast-main\MC-realm-master\server\bin\RemoteLogger.exe.config
+D:\heatblast-main\heatblast-main\heatblast-main\heatblast-main\MC-realm-master\server\bin\RemoteLogger.exe
+D:\heatblast-main\heatblast-main\heatblast-main\heatblast-main\MC-realm-master\server\bin\RemoteLogger.pdb
+D:\heatblast-main\heatblast-main\heatblast-main\heatblast-main\MC-realm-master\server\RemoteLogger\obj\Debug\RemoteLogger.csproj.CoreCompileInputs.cache
+D:\heatblast-main\heatblast-main\heatblast-main\heatblast-main\MC-realm-master\server\RemoteLogger\obj\Debug\RemoteLogger.csproj.CopyComplete
+D:\heatblast-main\heatblast-main\heatblast-main\heatblast-main\MC-realm-master\server\RemoteLogger\obj\Debug\RemoteLogger.exe
+D:\heatblast-main\heatblast-main\heatblast-main\heatblast-main\MC-realm-master\server\RemoteLogger\obj\Debug\RemoteLogger.pdb
+C:\Users\я\Downloads\MC realms\server\bin\log4net_rl.config
+C:\Users\я\Downloads\MC realms\server\bin\RemoteLogger.exe.config
+C:\Users\я\Downloads\MC realms\server\bin\RemoteLogger.exe
+C:\Users\я\Downloads\MC realms\server\bin\RemoteLogger.pdb
+C:\Users\я\Downloads\MC realms\server\RemoteLogger\obj\Debug\RemoteLogger.csproj.AssemblyReference.cache
+C:\Users\я\Downloads\MC realms\server\RemoteLogger\obj\Debug\RemoteLogger.csproj.CoreCompileInputs.cache
+C:\Users\я\Downloads\MC realms\server\RemoteLogger\obj\Debug\RemoteLogger.csproj.CopyComplete
+C:\Users\я\Downloads\MC realms\server\RemoteLogger\obj\Debug\RemoteLogger.exe
+C:\Users\я\Downloads\MC realms\server\RemoteLogger\obj\Debug\RemoteLogger.pdb
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\bin\log4net_rl.config
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\bin\RemoteLogger.exe.config
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\bin\RemoteLogger.exe
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\bin\RemoteLogger.pdb
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\RemoteLogger\obj\Debug\RemoteLogger.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\RemoteLogger\obj\Debug\RemoteLogger.csproj.CopyComplete
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\RemoteLogger\obj\Debug\RemoteLogger.exe
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\RemoteLogger\obj\Debug\RemoteLogger.pdb
+C:\Users\Administrator\Desktop\MC realms\MC realms\server\RemoteLogger\obj\Debug\RemoteLogger.csproj.AssemblyReference.cache

@@ -1,0 +1,13 @@
+{"id":0,
+"isLimbo":false,
+"persist":true,
+"name":"Aether",
+"sbName":"Aether",
+"difficulty":-1,
+"background":0,
+"blocking":0,
+"restrictTp":false,
+"showDisplays":false,
+"portals":[0x5a16],
+"maps":["aether.jm"],
+"music":["oldcity"]}

@@ -1,0 +1,34 @@
+﻿<Objects>
+ 	<Object type="0x888f" id="Wish's Black Paint">
+		<Class>Equipment</Class>
+		<Usable/>
+		<Item/>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x54</Index>
+      </Texture>
+		<SlotType>4</SlotType>
+		<Description>omg</Description>
+		<Sound>spell/major_heal</Sound> 
+        <Activate stat="0" amount="350" duration="5" range="8">StatBoostAura</Activate>					
+        <Activate stat="20" amount="50" duration="5" range="6">StatBoostAura</Activate>		
+		<BagType>6</BagType>
+		<Common/>
+		<FameBonus>5</FameBonus>
+		<Cooldown>8</Cooldown>
+		<MpCost>150</MpCost>
+	</Object> 
+	
+	<Object type="0x8890" id="Wish's Cum">
+		<Class>Equipment</Class>
+		<Item/>
+		<Texture>
+			<File>lofiItems16x16</File>
+			<Index>0x55</Index>
+		</Texture>
+		<SlotType>10</SlotType>
+		<Description>craft nigga.</Description>
+		<Sound>use_key</Sound>
+		<BagType>6</BagType>
+   </Object> 	
+</Objects>

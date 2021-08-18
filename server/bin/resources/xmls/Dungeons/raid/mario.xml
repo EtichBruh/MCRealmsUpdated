@@ -1,0 +1,30 @@
+﻿<Objects>
+   <Object type="0x869a" id="Super reD Mushroom">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x33</Index>
+      </Texture>
+      <SlotType>10</SlotType>
+      <Description>you will grow and increase in damage.</Description>
+      <Activate>Mushroom</Activate>
+      <Activate stat="20" amount="500" duration="10">StatBoostSelf</Activate>	  
+      <Consumable/>
+      <BagType>6</BagType>
+   </Object>
+   <Object type="0x869b" id="Super Greeen Mushroom">
+      <Class>Equipment</Class>
+      <Item/>
+      <Texture>
+         <File>lofiItems16x16</File>
+         <Index>0x34</Index>
+      </Texture>
+      <SlotType>10</SlotType>
+      <Description>you will shrink and increase in speed.</Description>
+      <Activate>Mushroom</Activate>
+      <Activate stat="22" amount="400" duration="15">StatBoostSelf</Activate>	  
+      <Consumable/>
+      <BagType>6</BagType>
+   </Object>  
+</Objects>

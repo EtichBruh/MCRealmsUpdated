@@ -1,0 +1,36 @@
+﻿<Objects>
+	<Object type="0x5102" id="Nether Star">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\NetherStar</Id>
+		</RemoteTexture>
+		<SlotType>9</SlotType>
+		<Description>holy shit</Description>
+	    <ActivateOnEquip stat="0" amount="100000">IncrementStat</ActivateOnEquip>			
+	    <ActivateOnEquip stat="20" amount="2500">IncrementStat</ActivateOnEquip>	
+	    <ActivateOnEquip stat="26" amount="50000">IncrementStat</ActivateOnEquip>	
+	    <ActivateOnEquip stat="27" amount="50000">IncrementStat</ActivateOnEquip>	
+		<Legendary/>
+		<BagType>6</BagType>
+		<FameBonus>2500</FameBonus>
+	</Object>	
+	
+	<Object type="0x5103" id="THE UPGRADED VERSION OF THE WITHER CHESTPLATE FAGGOT">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\witherCHEST</Id>
+		</RemoteTexture>
+		<SlotType>7</SlotType>
+		<Description>a plate of a wither nigga lives matter</Description>
+		<ActivateOnEquip stat="0" amount="250000">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="21" amount="2500">IncrementStat</ActivateOnEquip>	
+		<ActivateOnEquip stat="20" amount="1200">IncrementStat</ActivateOnEquip>				
+		<Legendary/>
+		<BagType>6</BagType>
+		<FameBonus>5000</FameBonus>
+	</Object>	
+</Objects>

@@ -1,0 +1,45 @@
+﻿<Objects>
+  <Object type="0x4419" id="Scepter of Santa">
+      <Class>Equipment</Class>
+      <Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\santaStaff</Id>
+		</RemoteTexture>
+      <SlotType>17</SlotType>
+      <Description>hoho.</Description>
+      <RateOfFire>2</RateOfFire>
+      <Sound>weapon/wand_of_death</Sound>
+      <Projectile>
+	     <ObjectId>White Bullet</ObjectId>
+         <Speed>100</Speed>
+         <MinDamage>500</MinDamage>
+         <MaxDamage>2000</MaxDamage>
+         <LifetimeMS>900</LifetimeMS>
+		 <ArmorPiercing/>
+		 <MultiHit/>
+      </Projectile>
+      <BagType>6</BagType>
+      <FameBonus>800</FameBonus>
+      <NumProjectiles>3</NumProjectiles>
+      <ArcGap>10</ArcGap>
+      <OldSound>magicShoot</OldSound>
+   </Object>  
+   
+  	<Object type="0x4420" id="Robe of Santa">
+		<Class>Equipment</Class>
+		<Item/>
+		<RemoteTexture>
+			<Instance>production</Instance>
+			<Id>separate\santaRobe</Id>
+		</RemoteTexture>
+		<SlotType>14</SlotType>
+		<Description>cum near me ho ho ho</Description>
+		<ActivateOnEquip stat="0" amount="80000">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="3" amount="80000">IncrementStat</ActivateOnEquip>		
+		<ActivateOnEquip stat="26" amount="40000">IncrementStat</ActivateOnEquip>
+		<ActivateOnEquip stat="27" amount="40000">IncrementStat</ActivateOnEquip>
+		<BagType>6</BagType>
+		<FameBonus>5000</FameBonus>
+	</Object>	
+</Objects>
